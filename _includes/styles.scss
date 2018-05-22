@@ -100,7 +100,7 @@ body {
 
   .blog-title {
     margin-bottom: 8px;
-    font-size: 50px;
+    font-size: 36px;
     font-weight: 700;
     letter-spacing: -2px;
     outline: 0;
@@ -156,6 +156,9 @@ body {
       font-size: 20px;
       line-height: 1.59;
       color: #666665;
+    }
+    .post-excerpt a {
+      color: inherit;
     }
     .post-meta {
       font-size: 14px;
