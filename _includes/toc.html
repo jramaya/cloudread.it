@@ -1,0 +1,24 @@
+<amp-sidebar id="sidebar"
+layout="nodisplay"
+side="left">
+<amp-img class="amp-close-image"
+  src="/assets/images/ic_close_black_18dp_2x.png"
+  width="20"
+  height="20"
+  alt="close sidebar"
+  on="tap:sidebar.close"
+  role="button"
+  tabindex="0"></amp-img>
+<ul>
+  <li>
+    <a href="/">Index</a>
+  </li>
+{% for post in site.posts %}
+        <li class="post-title" itemprop="name">
+            <a href="{{ site.baseurl }}{{ post.url }}" itemprop="url">
+                {{ post.title }}
+            </a>
+        </li>
+{% endfor %}
+</ul>
+</amp-sidebar>
