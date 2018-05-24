@@ -3,349 +3,94 @@ layout: post
 title: Open Source as Culture, Culture as Open Source 
 ---
 
-The "open source" way of doing things is all the rage. Companies as 
-powerful and established as IBM boast of using Linux operating systems in 
-its servers. Publications as conservative as The Economist have pronounced 
-open-source methods "successful" and have pondered their applicability to 
-areas of research and development as different from software as pharmaceu- 
-tical research. 1 
+The "open source" way of doing things is all the rage. Companies as powerful and established as IBM boast of using Linux operating systems in its servers. Publications as conservative as The Economist have pronounced open-source methods "successful" and have pondered their applicability to areas of research and development as different from software as pharmaceutical research. 1 
 
-It is striking that we have to employ phrases like "open source" and "free 
-software" at all. 2 They are significant, powerful phrases simply because they 
-represent an insurgent model of commercial activity and information policy. 
-They challenge the entrenched status quo: the proprietary model of cultural 
-and technological production. 
+It is striking that we have to employ phrases like "open source" and "free software" at all. 2 They are significant, powerful phrases simply because they represent an insurgent model of commercial activity and information policy. They challenge the entrenched status quo: the proprietary model of cultural and technological production. 
 
-But this has only recently been the case. The "open source" way is closer 
-to how human creativity has always worked. Open source used to be the 
-default way of doing things. The rapid adoption of proprietary information 
-has been so intense and influential since the 1980s that we hardly remem- 
-ber another way or another time. However, through most of human his- 
-tory all information technologies and almost all technologies were "open 
-source." And we have done pretty well as a species with tools and habits 
-unencumbered by high restrictions on sharing, copying, customizing, and 
-improving. 
+But this has only recently been the case. The "open source" way is closer to how human creativity has always worked. Open source used to be the default way of doing things. The rapid adoption of proprietary information has been so intense and influential since the 1980s that we hardly remember another way or another time. However, through most of human history all information technologies and almost all technologies were "open source." And we have done pretty well as a species with tools and habits unencumbered by high restrictions on sharing, copying, customizing, and improving. 
 
-We have become so inured to the proprietary model, so dazzled and 
-intimidated by its cultural and political power, that any commonsense chal- 
-lenge to its assumptions and tenets seems radical, idealistic, or dangerous. 
-But in recent years the practical advantages of the "open source" model of 
-creativity and commerce have become clear. The resulting clamor about the 
-advantages and threats of open-source models have revealed serious faults in 
-the chief regulatory system that governs global flows of culture and informa- 
-tion: copyright. 
-
+We have become so inured to the proprietary model, so dazzled and intimidated by its cultural and political power, that any commonsense challenge to its assumptions and tenets seems radical, idealistic, or dangerous. But in recent years the practical advantages of the "open source" model of creativity and commerce have become clear. The resulting clamor about the advantages and threats of open-source models have revealed serious faults in the chief regulatory system that governs global flows of culture and information: copyright. 
 
 The Rise of Proprietarianism 
 
-Copyright gets stretched way out of shape to accommodate proprietary soft- 
-ware. Copyright was originally designed to protect books, charts, and maps. 
-Later, courts and legislatures expanded to include recorded music, film, 
-video, translations, public performance, and finally all media that now exist 
-or have yet to be created. Software is special, though. It's not just expression. 
-It is functional. It's not just information. It's action. In some ways, the inclu- 
-sion of software among the copyrightable forms of creativity has complicated 
-and challenged the intellectual-property tradition. Copyright and proprie- 
-tary software have metastasized synergistically 
+Copyright gets stretched way out of shape to accommodate proprietary software. Copyright was originally designed to protect books, charts, and maps. Later, courts and legislatures expanded to include recorded music, film, video, translations, public performance, and finally all media that now exist or have yet to be created. Software is special, though. It's not just expression. It is functional. It's not just information. It's action. In some ways, the inclusion of software among the copyrightable forms of creativity has complicated and challenged the intellectual-property tradition. Copyright and proprietary software have metastasized synergistically 
 
-The proprietary model of software production dates to sometime in the 
-1970s, when mainframe software vendors like AT&T and Digital started 
-asserting control over their source code, thus limiting what computer sci- 
-entists could do to customize their tools. This was an insult to and offense 
-against these scientists who were acclimated to the academic and scientific 
-ideologies that privilege openness and nonmonetary reward systems. In a 
-much more precise sense we can date the spark of the conflagration between 
-the then-insurgent proprietary model and the then-dominant hacker culture 
-(open source, although they didn't have a name for it then) to Bill Gates's 
-1976 open letter to the small but growing community of personal-computer 
-hackers warning them that his new company, then spelled "Micro-Soft," 
-would aggressively assert its intellectual-property claims against those who 
-would trade tapes that carry the company's software. Since that date, despite 
-frequently exploiting the gaps and safety valves of copyright protection 
-on their rise to the heights of wealth and power, Microsoft and Gates have 
-worked in correlation if not coordination with the steady valorization of 
-intellectual-property rights as the chief locus of cultural and industrial policy 
-in the world. 3 
+The proprietary model of software production dates to sometime in the 1970s, when mainframe software vendors like AT&T and Digital started asserting control over their source code, thus limiting what computer scientists could do to customize their tools. This was an insult to and offense against these scientists who were acclimated to the academic and scientific ideologies that privilege openness and nonmonetary reward systems. In a much more precise sense we can date the spark of the conflagration between the then-insurgent proprietary model and the then-dominant hacker culture (open source, although they didn't have a name for it then) to Bill Gates's 1976 open letter to the small but growing community of personal-computer hackers warning them that his new company, then spelled "Micro-Soft," would aggressively assert its intellectual-property claims against those who would trade tapes that carry the company's software. Since that date, despite frequently exploiting the gaps and safety valves of copyright protection on their rise to the heights of wealth and power, Microsoft and Gates have worked in correlation if not coordination with the steady valorization of intellectual-property rights as the chief locus of cultural and industrial policy in the world. 3 
 
-According to the proprietary ideology, innovation would not occur 
-without a strong incentive system for the innovator to exploit for commer- 
-cial gain. "Fencing off" innovations becomes essential for firms and actors 
-to establish markets and bargain away rights. Because innovation so often 
-concerns the ephemeral, trade in the innovation requires excluding others 
-from using, exploiting, or copying data, designs, or algorithms. The Clinton, 
-Bush, and Blair administrations in the United States and United Kingdom 
-embraced the proprietary model as the key to thriving through the deindus- 
-trialization of the developed world, thus locking in the advantages that edu- 
-cated, wired nation-states have over those that have been held in technologi- 
+According to the proprietary ideology, innovation would not occur without a strong incentive system for the innovator to exploit for commercial gain. "Fencing off" innovations becomes essential for firms and actors to establish markets and bargain away rights. Because innovation so often concerns the ephemeral, trade in the innovation requires excluding others from using, exploiting, or copying data, designs, or algorithms. The Clinton, Bush, and Blair administrations in the United States and United Kingdom embraced the proprietary model as the key to thriving through the deindustrialization of the developed world, thus locking in the advantages that educated, wired nation-states have over those that have been held in technologi
 
-cal and economic bondage for centuries. Proprietary models of innovation 
-policy and market relations can be powerful: witness the remarkable suc- 
-cesses and wealth of the global pharmaceutical industry or, for that matter, 
-of Microsoft. But they can be just as powerful with limitations that allow for 
-communal creation, revision, criticism, and adaptability: witness the culture 
-of custom cars or the World Wide Web. 4 
+cal and economic bondage for centuries. Proprietary models of innovation policy and market relations can be powerful: witness the remarkable successes and wealth of the global pharmaceutical industry or, for that matter, of Microsoft. But they can be just as powerful with limitations that allow for communal creation, revision, criticism, and adaptability: witness the culture of custom cars or the World Wide Web. 4 
 
-In fact, as economist Richard Adkisson argues, the veneration of muscu- 
-lar intellectual-property rights as the foundation of innovation and creativity 
-above all other forms has generated an unhealthy cultural and social condi- 
-tion, one which can generate suboptimal levels of investment, asset alloca- 
-tion, and policy choices. Adkisson indicts the widespread belief that intellec- 
-tual-property rights are the best (perhaps only) of all possible arrangements 
-for innovation, by alerting us to the "ceremonial status" these rights have 
-assumed. "Ceremonial encapsulation occurs when ceremonial values are 
-allowed to alter or otherwise limit the application of technologies instru- 
-mental in the process of social problem solving," Adkisson writes. Specifi- 
-cally, Adkisson warns that blind faith in high levels of intellectual-property 
-protection is of the "future-binding type," in which technology and mythol- 
-ogy act synergistically to legitimize elite control over technologies or other 
-innovative or creative processes. 5 
+In fact, as economist Richard Adkisson argues, the veneration of muscular intellectual-property rights as the foundation of innovation and creativity above all other forms has generated an unhealthy cultural and social condition, one which can generate suboptimal levels of investment, asset allocation, and policy choices. Adkisson indicts the widespread belief that intellectual-property rights are the best (perhaps only) of all possible arrangements for innovation, by alerting us to the "ceremonial status" these rights have assumed. "Ceremonial encapsulation occurs when ceremonial values are allowed to alter or otherwise limit the application of technologies instrumental in the process of social problem solving," Adkisson writes. Specifically, Adkisson warns that blind faith in high levels of intellectual-property protection is of the "future-binding type," in which technology and mythology act synergistically to legitimize elite control over technologies or other innovative or creative processes. 5 
 
 The Return of the Jedi 
 
-Richard Stallman took a stand against the proprietary model long before 
-the rest of us even realized its power and trajectory. A computer scientist 
-working in the 1970s and 1980s for the artificial-intelligence project at MIT, 
-Stallman grew frustrated that computer companies were denying him and 
-other hackers access to their source code. Stallman found he was not allowed 
-to improve the software and devices that he had to work with, even when 
-they did not work very well. More important, Stallman grew alarmed that he 
-was becoming contractually bound to be unkind and selfish. The user agree- 
-ments that accompanied proprietary software forbade him from sharing his 
-tools and techniques with others. As a scientist, he was offended that open- 
-ness was being criminalized. As a citizen, he was a concerned that freedoms 
-of speech and creativity were being constricted. As a problem solver, he set 
-out to establish the Free Software Foundation to prove that good tools and 
-technologies could emerge from a community of concerned creators. Lever- 
-aging the communicative power of technology newsletters and the postal 
-system, Stallman sold tapes with his free (as in liberated) software on them. 
+Richard Stallman took a stand against the proprietary model long before the rest of us even realized its power and trajectory. A computer scientist working in the 1970s and 1980s for the artificial-intelligence project at MIT, Stallman grew frustrated that computer companies were denying him and other hackers access to their source code. Stallman found he was not allowed to improve the software and devices that he had to work with, even when they did not work very well. More important, Stallman grew alarmed that he was becoming contractually bound to be unkind and selfish. The user agreements that accompanied proprietary software forbade him from sharing his tools and techniques with others. As a scientist, he was offended that openness was being criminalized. As a citizen, he was a concerned that freedoms of speech and creativity were being constricted. As a problem solver, he set out to establish the Free Software Foundation to prove that good tools and technologies could emerge from a community of concerned creators. Leveraging the communicative power of technology newsletters and the postal system, Stallman sold tapes with his free (as in liberated) software on them. 
 
-By the time enough of his constituency had connected themselves through 
-the Internet, he started coordinating projects and conversations among a 
-diverse and distributed set of programmers. 6 
+By the time enough of his constituency had connected themselves through the Internet, he started coordinating projects and conversations among a diverse and distributed set of programmers. 6 
 
-During the late 1990s a growing team of hackers struggled to build the 
-holy grail of free software: an operating-system kernel that would allow an 
-array of programs to work in coordination. The group, led by Linus Torvalds, 
-created a system that became known as Linux. It has since become the chief 
-threat to the ubiquity and dominance of Microsoft. 7 
+During the late 1990s a growing team of hackers struggled to build the holy grail of free software: an operating-system kernel that would allow an array of programs to work in coordination. The group, led by Linus Torvalds, created a system that became known as Linux. It has since become the chief threat to the ubiquity and dominance of Microsoft. 7 
 
-While Linux and the GNU (free software) project have garnered the most 
-attention in accounts of open-source development, the protocols and programs 
-that enable and empower e-mail, the World Wide Web, IRC (Internet Relay 
-Chat), and just about every other activity on the Internet all emerged from com- 
-munity-based project teams, often ad hoc and amateur. The resulting proto- 
-cols are elegant, efficient, effective, and under constant revision. And they have 
-empowered both the growth of the proprietary model and the open-source 
-model of cultural production to reach expansive new markets and audiences. 8 
+While Linux and the GNU (free software) project have garnered the most attention in accounts of open-source development, the protocols and programs that enable and empower e-mail, the World Wide Web, IRC (Internet Relay Chat), and just about every other activity on the Internet all emerged from community-based project teams, often ad hoc and amateur. The resulting protocols are elegant, efficient, effective, and under constant revision. And they have empowered both the growth of the proprietary model and the open-source model of cultural production to reach expansive new markets and audiences. 8 
 
-Each of these projects illuminates what Yochai Benkler calls "peer pro- 
-duction." Benkler writes, 
+Each of these projects illuminates what Yochai Benkler calls "peer production." Benkler writes, 
 
-The emergence of free software as a substantial force in the software devel- 
-opment world poses a puzzle for [Ronald Coase's] organization theory. Free 
-software projects do not rely either on markets or on managerial hierar- 
-chies to organize production. Programmers do not generally participate in 
-a project because someone who is their boss instructed them, though some 
-do. They do not generally participate in a project because someone offers 
-them a price, though some participants do focus on long-term appropria- 
-tion through money- oriented activities, like consulting or service contracts. 
-But the critical mass of participation in projects cannot be explained by the 
-direct presence of a command, a price, or even a future monetary return, 
-particularly in the all-important microlevel decisions regarding selection of 
-projects to which participants contribute. In other words, programmers par- 
-ticipate in free software projects without following the normal signals gener- 
-ated by market-based, firm-based, or hybrid models. 9 
+The emergence of free software as a substantial force in the software development world poses a puzzle for [Ronald Coase's] organization theory. Free software projects do not rely either on markets or on managerial hierarchies to organize production. Programmers do not generally participate in a project because someone who is their boss instructed them, though some do. They do not generally participate in a project because someone offers them a price, though some participants do focus on long-term appropriation through moneyoriented activities, like consulting or service contracts. But the critical mass of participation in projects cannot be explained by the direct presence of a command, a price, or even a future monetary return, particularly in the all-important microlevel decisions regarding selection of projects to which participants contribute. In other words, programmers participate in free software projects without following the normal signals generated by market-based, firm-based, or hybrid models. 9 
 
-Economists assumed for decades that firms emerged to lower or elimi- 
-nate transaction costs and coordination problems. But as it turns out, fast, 
-efficient, and dependable communication, guided by protocols both social 
-and digital (a process Benkler calls "integration"), can generate brilliant and 
-powerful tools and expressions. Benkler concludes, 
+Economists assumed for decades that firms emerged to lower or eliminate transaction costs and coordination problems. But as it turns out, fast, efficient, and dependable communication, guided by protocols both social and digital (a process Benkler calls "integration"), can generate brilliant and powerful tools and expressions. Benkler concludes, 
 
-The strength of peer production is in matching human capital to informa- 
-tion inputs to produce new information goods. Strong intellectual prop- 
-erty rights inefficiently shrink the universe of existing information inputs 
-that can be subjected to this process. Instead, owned inputs will be limited 
-to human capital with which the owner of the input has a contractual — 
-usually employment — relationship. Moreover, the entire universe of peer- 
-produced information gains no benefit from strong intellectual property 
-rights. Since the core of commons-based peer production entails provi- 
-sioning without direct appropriation and since indirect appropriation — 
-intrinsic or extrinsic — does not rely on control of the information but on 
-its widest possible availability, intellectual property offers no gain, only 
-loss, to peer production. While it is true that free software currently uses 
-copyright-based licensing to prevent certain kinds of defection from peer 
-production processes, that strategy is needed only as a form of institutional 
-jujitsu to defend from intellectual property. A complete absence of prop- 
-erty in the software domain would be at least as congenial to free software 
-development as the condition where property exists, but copyright permits 
-free software projects to use licensing to defend themselves from defection. 
-The same protection from defection might be provided by other means 
-as well, such as creating simple public mechanisms for contributing one's 
-work in a way that makes it unsusceptible to downstream appropriation — 
-a conservancy of sorts. Regulators concerned with fostering innovation 
-may better direct their efforts toward providing the institutional tools that 
-would help thousands of people to collaborate without appropriating their 
-joint product, making the information they produce freely available rather 
-than spending their efforts to increase the scope and sophistication of the 
-mechanisms for private appropriation of this public good as they now do. 10 
+The strength of peer production is in matching human capital to information inputs to produce new information goods. Strong intellectual property rights inefficiently shrink the universe of existing information inputs that can be subjected to this process. Instead, owned inputs will be limited to human capital with which the owner of the input has a contractual — usually employment — relationship. Moreover, the entire universe of peerproduced information gains no benefit from strong intellectual property rights. Since the core of commons-based peer production entails provisioning without direct appropriation and since indirect appropriation — intrinsic or extrinsic — does not rely on control of the information but on its widest possible availability, intellectual property offers no gain, only loss, to peer production. While it is true that free software currently uses copyright-based licensing to prevent certain kinds of defection from peer production processes, that strategy is needed only as a form of institutional jujitsu to defend from intellectual property. A complete absence of property in the software domain would be at least as congenial to free software development as the condition where property exists, but copyright permits free software projects to use licensing to defend themselves from defection. The same protection from defection might be provided by other means as well, such as creating simple public mechanisms for contributing one's work in a way that makes it unsusceptible to downstream appropriation — a conservancy of sorts. Regulators concerned with fostering innovation may better direct their efforts toward providing the institutional tools that would help thousands of people to collaborate without appropriating their joint product, making the information they produce freely available rather than spending their efforts to increase the scope and sophistication of the mechanisms for private appropriation of this public good as they now do. 10 
 
-Benkler's prescriptions seem like predictions. In recent years the govern- 
-ments of nation-states as diverse as South Africa, Brazil, and the People's 
-Republic of China have adopted policies that would encourage the dissemi- 
-nation of open-source software. 
+Benkler's prescriptions seem like predictions. In recent years the governments of nation-states as diverse as South Africa, Brazil, and the People's Republic of China have adopted policies that would encourage the dissemination of open-source software. 
 
-More significantly, the open-source model has moved far beyond soft- 
-ware. Musician and composer Gilberto Gil, the culture minister of Brazil, has 
-released several albums under a Creative Commons license. Such licenses 
-(under which this chapter lies as well) are modeled off of the GNU Gen- 
-eral Public License, which locks the content open. It requires all users of 
-the copyrighted material to conform to terms that encourage sharing and 
-building." 
+More significantly, the open-source model has moved far beyond software. Musician and composer Gilberto Gil, the culture minister of Brazil, has released several albums under a Creative Commons license. Such licenses (under which this chapter lies as well) are modeled off of the GNU General Public License, which locks the content open. It requires all users of the copyrighted material to conform to terms that encourage sharing and building." 
 
-Other significant extrasoftware projects based on the open-source model 
-include Wikipedia, a remarkable compilation of fact and analysis written and 
-reviewed by a committed team of peers placed around the world. And the 
-scientific spheres have rediscovered their commitment to openness through 
-the movement to establish and maintain open-access journals, thus evading 
-the proprietary traps (and expenses) of large commercial journal publish- 
-ers. 12 By 2004 citizen-based journalism, often known as "open-source jour- 
-nalism," had grown in importance and established itself as an important and 
-essential element of the global information ecosystem. 13 Such experiments 
-are sure to proliferate in response to the failures (market and otherwise) of 
-proprietary media forms. 14 
+Other significant extrasoftware projects based on the open-source model include Wikipedia, a remarkable compilation of fact and analysis written and reviewed by a committed team of peers placed around the world. And the scientific spheres have rediscovered their commitment to openness through the movement to establish and maintain open-access journals, thus evading the proprietary traps (and expenses) of large commercial journal publishers. 12 By 2004 citizen-based journalism, often known as "open-source journalism," had grown in importance and established itself as an important and essential element of the global information ecosystem. 13 Such experiments are sure to proliferate in response to the failures (market and otherwise) of proprietary media forms. 14 
 
 How Open Source Changes Copyright 
 
-Copyright is a limited monopoly, granted by the state, meant to foster cre- 
-ativity by generating a system of presumed incentives. The copyright holder 
-must have enough faith in the system to justify his or her investment. And 
-the copyright holders rights to exclude are limited by some public values 
-such as education and criticism. This is the standard understanding of copy- 
-right law's role and scope. But while acknowledging the interests of the pub- 
-lic, it omits the voice of the public itself. In other words, the system can- 
-not thrive if the public considers it to be captured, corrupted, irrelevant, or 
-absurd. 15 
+Copyright is a limited monopoly, granted by the state, meant to foster creativity by generating a system of presumed incentives. The copyright holder must have enough faith in the system to justify his or her investment. And the copyright holders rights to exclude are limited by some public values such as education and criticism. This is the standard understanding of copyright law's role and scope. But while acknowledging the interests of the public, it omits the voice of the public itself. In other words, the system cannot thrive if the public considers it to be captured, corrupted, irrelevant, or absurd. 15 
 
-The rise and success of open-source models fosters a general understand- 
-ing that copyright is not a single right bestowed on a brilliant individual 
-author but is instead a "bundle" of rights that a copyright holder (individ- 
-ual, corporation, organization, or foundation) may license. Most important, 
-these experiments and projects show that "all rights reserved" need not be 
-the default state of copyright protection. For many people, "some rights 
-reserved" serves the interests of creators better than the absolutist propri- 
-etary model does. 
+The rise and success of open-source models fosters a general understanding that copyright is not a single right bestowed on a brilliant individual author but is instead a "bundle" of rights that a copyright holder (individual, corporation, organization, or foundation) may license. Most important, these experiments and projects show that "all rights reserved" need not be the default state of copyright protection. For many people, "some rights reserved" serves the interests of creators better than the absolutist proprietary model does. 
 
-As the rhetoric of open source and the politics of traditional knowledge 
-and culture emerge in starker relief within the topography of copyright 
-and cultural policy debates, their themes tend to converge. As anthropolo- 
-gist Vladimir Hafstein describes the tension between copyright systems as 
-dictated by the industrialized world and modes of communal cultural pro- 
-duction that are best (albeit not exclusively) demonstrated in developing 
-nations, he uses terms that could just as easily be applied to technological 
-peer production. "Creativity as a social process is the common denomina- 
+As the rhetoric of open source and the politics of traditional knowledge and culture emerge in starker relief within the topography of copyright and cultural policy debates, their themes tend to converge. As anthropologist Vladimir Hafstein describes the tension between copyright systems as dictated by the industrialized world and modes of communal cultural production that are best (albeit not exclusively) demonstrated in developing nations, he uses terms that could just as easily be applied to technological peer production. "Creativity as a social process is the common denomina
 
+ tor of these concepts and approaches," Hafstein writes. "From each of these perspectives, the act of creation is a social act. From the point of view of intertextuality, for example, works of literature are just as much a product of society or of discourse as they are of an individual author or, for that matter, reader." Traditional cultural knowledge, communally composed and lacking distinct marks of individual authorship, is "a node in a network of relations: not an isolated original, but a reproduction, a copy," Hafstein explains. 16 Nothing about Hafstein's descriptions of the politics of traditional knowledge offers a resolution to that particular source of friction in global intellectual-property battles. But the converging rhetorics reveal the extent to which innovation and creativity often (perhaps most often) sit outside the assumptions of incentives and protectionism on which high levels of corporate copyright protection rest. 
 
-
-tor of these concepts and approaches," Hafstein writes. "From each of these 
-perspectives, the act of creation is a social act. From the point of view of 
-intertextuality, for example, works of literature are just as much a product 
-of society or of discourse as they are of an individual author or, for that 
-matter, reader." Traditional cultural knowledge, communally composed and 
-lacking distinct marks of individual authorship, is "a node in a network 
-of relations: not an isolated original, but a reproduction, a copy," Hafstein 
-explains. 16 Nothing about Hafstein's descriptions of the politics of traditional 
-knowledge offers a resolution to that particular source of friction in global 
-intellectual-property battles. But the converging rhetorics reveal the extent 
-to which innovation and creativity often (perhaps most often) sit outside 
-the assumptions of incentives and protectionism on which high levels of 
-corporate copyright protection rest. 
-
-The open-source model of peer production, sharing, revision, and peer 
-review has distilled and labeled the most successful creative habits into a 
-political movement. This distillation has had costs and benefits. It has been 
-difficult to court mainstream acceptance for such a tangle of seemingly tech- 
-nical ideas when its chief advocates have been hackers and academics. Nei- 
-ther class has much power or influence in the modern global economy or 
-among centers of policy decision-making. On the other hand, the brilliant 
-success of overtly labeled open-source experiments, coupled with the hor- 
-ror stories of attempts to protect the proprietary model, has added common 
-sense to the toolbox of these advocates. 
+The open-source model of peer production, sharing, revision, and peer review has distilled and labeled the most successful creative habits into a political movement. This distillation has had costs and benefits. It has been difficult to court mainstream acceptance for such a tangle of seemingly technical ideas when its chief advocates have been hackers and academics. Neither class has much power or influence in the modern global economy or among centers of policy decision-making. On the other hand, the brilliant success of overtly labeled open-source experiments, coupled with the horror stories of attempts to protect the proprietary model, has added common sense to the toolbox of these advocates. 
 
 NOTES 
 
-This chapter was originally published in Open Source Annual 2005 (Berlin: Technische Uni- 
-versitat). This work is licensed under the Creative Commons Attribution-ShareAlike license. 
+This chapter was originally published in Open Source Annual 2005 (Berlin: Technische Universitat). This work is licensed under the Creative Commons Attribution-ShareAlike license. 
 
-1. "An Open-Source Shot in the Arm? ," Economist, 12 June 2004. Also see Steve Weber, 
-The Success of Open Source (Cambridge: Harvard University Press, 2004). 
+1. "An Open-Source Shot in the Arm? ," Economist, 12 June 2004. Also see Steve Weber, The Success of Open Source (Cambridge: Harvard University Press, 2004). 
 
-2. Throughout this essay and in all of my work I intentionally conflate these two terms 
-while being fully aware of the political distinction that Richard Stallman emphasizes in 
-his defense of "free software." Stallman's point — that "open source" invites an emphasis 
-on convenience and utility rather than freedom and community — was important to make 
-in the 1990s. He lost the battle to control the terms, just as he has had to concede the 
-rhetorical convenience and ubiquity of "LINUX" instead of the more accurate "GNU/ 
-LINUX." I am confident that anyone who peers into the history or politics of the open- 
-source movement will encounter Stallman's persuasive case for freedom and the GNU 
-project's central contribution to the growth of the operating system we now call LINUX. 
-See Richard Stallman, "The GNU Operating System and the Free Software Movement," in 
-Open Sources: Voices of the Open Source Revolution, ed. Chris DiBona, Sam Ockman, and 
-Mark Stone (Sebastopol, CA: O'Reilly, 1999). 
+2. Throughout this essay and in all of my work I intentionally conflate these two terms while being fully aware of the political distinction that Richard Stallman emphasizes in his defense of "free software." Stallman's point — that "open source" invites an emphasis on convenience and utility rather than freedom and community — was important to make in the 1990s. He lost the battle to control the terms, just as he has had to concede the rhetorical convenience and ubiquity of "LINUX" instead of the more accurate "GNU/ LINUX." I am confident that anyone who peers into the history or politics of the opensource movement will encounter Stallman's persuasive case for freedom and the GNU project's central contribution to the growth of the operating system we now call LINUX. See Richard Stallman, "The GNU Operating System and the Free Software Movement," in Open Sources: Voices of the Open Source Revolution, ed. Chris DiBona, Sam Ockman, and Mark Stone (Sebastopol, CA: O'Reilly, 1999). 
 
+3. Siva Vaidhyanathan, Copyrights and Copywrongs: The Rise of Intellectual Property and How It Threatens Creativity (New York: NYU Press, 2001). Also see Peter Wayner, Free for All: How Linux and the Free Software Movement Undercut the High-Tech Titans (New York: HarperBusiness, 2000); Eric S. Raymond, "A Brief History of Hackerdom," in Open Sources: Voices of the Open Source Revolution, ed. Chris DiBona, Sam Ockman, and Mark Stone (Sebastopol, CA: O'Reilly, 1999). 
 
-3. Siva Vaidhyanathan, Copyrights and Copywrongs: The Rise of Intellectual Property 
-and How It Threatens Creativity (New York: NYU Press, 2001). Also see Peter Wayner, Free 
-for All: How Linux and the Free Software Movement Undercut the High-Tech Titans (New 
-York: HarperBusiness, 2000); Eric S. Raymond, "A Brief History of Hackerdom," in Open 
-Sources: Voices of the Open Source Revolution, ed. Chris DiBona, Sam Ockman, and Mark 
-Stone (Sebastopol, CA: O'Reilly, 1999). 
+4. Siva Vaidhyanathan, The Anarchist in the Library: How the Clash between Freedom and Control Is Hacking the Real World and Crashing the System (New York: Basic Books, 2004). Also see Lawrence Lessig, The Future of Ideas: The Fate of the Commons in a Connected World (New York: Random House, 2001); Lawrence Lessig, Free Culture: How Big Media Uses Technology and the Law to Lock Down Culture and Control Creativity (New York: Penguin, 2004). 
 
-4. Siva Vaidhyanathan, The Anarchist in the Library: How the Clash between Freedom 
-and Control Is Hacking the Real World and Crashing the System (New York: Basic Books, 
-2004). Also see Lawrence Lessig, The Future of Ideas: The Fate of the Commons in a Con- 
-nected World (New York: Random House, 2001); Lawrence Lessig, Free Culture: How Big 
-Media Uses Technology and the Law to Lock Down Culture and Control Creativity (New 
-York: Penguin, 2004). 
+5. Richard Adkisson, "Ceremonialism, Intellectual Property Rights, and Innovation Activity," Journal of Economic Issues 38, no. 2 (2004): 460. 
 
-5. Richard Adkisson, "Ceremonialism, Intellectual Property Rights, and Innovation 
-Activity," Journal of Economic Issues 38, no. 2 (2004): 460. 
+6. Stallman, "The GNU Operating System and the Free Software Movement." Also see Sam Williams, Free as in Freedom: Richard Stallman's Crusade for Free Software (Sebastopol, CA: O'Reilly, 2002). 
 
-6. Stallman, "The GNU Operating System and the Free Software Movement." Also see 
-Sam Williams, Free as in Freedom: Richard Stallman's Crusade for Free Software (Sebastopol, 
-CA: O'Reilly, 2002). 
+7. Linus Torvalds et al., Revolution OS: Hackers, Programmers & Rebels UNITE! (Los Angeles: Wonderview Productions; distributed by Seventh Art Releasing, 2003), video recording. Also see Eric S. Raymond, The Cathedral and the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary, rev. ed. (Sebastopol, CA: O'Reilly, 2001). 
 
-7. Linus Torvalds et al., Revolution OS: Hackers, Programmers & Rebels UNITE! (Los 
-Angeles: Wonderview Productions; distributed by Seventh Art Releasing, 2003), video 
-recording. Also see Eric S. Raymond, The Cathedral and the Bazaar: Musings on Linux and 
-Open Source by an Accidental Revolutionary, rev. ed. (Sebastopol, CA: O'Reilly, 2001). 
+8. Scott Bradner, "The Internet Engineering Task Force," in Open Sources: Voices from the Open Source Revolution, ed. Chris DiBona, Sam Ockman, and Mark Stone (Sebastopol, CA: O'Reilly, 1999). Also see Alexander R. Galloway, Protocol: How Control Exists after Decentralization (Cambridge: MIT Press, 2004). 
 
-8. Scott Bradner, "The Internet Engineering Task Force," in Open Sources: Voices from 
-the Open Source Revolution, ed. Chris DiBona, Sam Ockman, and Mark Stone (Sebastopol, 
-CA: O'Reilly, 1999). Also see Alexander R. Galloway, Protocol: How Control Exists after 
-Decentralization (Cambridge: MIT Press, 2004). 
-
-9. Yochai Benkler, "Coase's Penguin, or, Linux and the Nature of the Firm," Yale Law 
-Journal 112, no. 3 (2002): 372-373. 
+9. Yochai Benkler, "Coase's Penguin, or, Linux and the Nature of the Firm," Yale Law Journal 112, no. 3 (2002): 372-373. 
 
 10. Ibid., 446. 
 
-11. Julian Dibell, "We Pledge Allegiance to the Penguin," Wired, November 2004, avail- 
-able online at http://www.wired.com/wired/archive/12.11/linux.html. 
+11. Julian Dibell, "We Pledge Allegiance to the Penguin," Wired, November 2004, available online at http://www.wired.com/wired/archive/12.11/linux.html. 
 
-12. Jocelyn Kaiser, "Zerhouni Plans a Nudge toward Open Access," Science, 3 Septem- 
-ber 2004. 
+12. Jocelyn Kaiser, "Zerhouni Plans a Nudge toward Open Access," Science, 3 September 2004. 
 
-13. Jay Rosen, "Top Ten Ideas of '04: Open Source Journalism, or 'My Readers Know 
-More Than I Do,'" PressThink (blog), 28 December 2004, http://journalism.nyu.edu/pub- 
-zone/weblogs/pressthink/2004/i2/28/tptno4_opsc.html. Also see Dan Gillmor, We the 
-Media: Grassroots Journalism by the People, for the People (Sebastopol, CA: O'Reilly, 2004). 
+13. Jay Rosen, "Top Ten Ideas of '04: Open Source Journalism, or 'My Readers Know More Than I Do,'" PressThink (blog), 28 December 2004, http://journalism.nyu.edu/pubzone/weblogs/pressthink/2004/i2/28/tptno4_opsc.html. Also see Dan Gillmor, We the Media: Grassroots Journalism by the People, for the People (Sebastopol, CA: O'Reilly, 2004). 
 
-14. Christopher M. Kelty, "Culture's Open Sources: Software, Copyright, and Cultural 
-Critique," Anthropological Quarterly 77, no. 3 (2004). 
+14. Christopher M. Kelty, "Culture's Open Sources: Software, Copyright, and Cultural Critique," Anthropological Quarterly 77, no. 3 (2004). 
 
 15. Vaidhyanathan, The Anarchist in the Library. 
 
-16. Vladimir Hafstein, "The Politics of Origins: Collective Creation Revisited," Journal 
-of American Folklore 117 (2004): 307, 303. Also see Pekka Himanen, The Hacker Ethic and 
-the Spirit of the Information Age (New York: Random House, 2001). 
+16. Vladimir Hafstein, "The Politics of Origins: Collective Creation Revisited," Journal of American Folklore 117 (2004): 307, 303. Also see Pekka Himanen, The Hacker Ethic and the Spirit of the Information Age (New York: Random House, 2001). 
