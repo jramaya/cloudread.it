@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Chapter V The Dangers of Sentimentality
+published: false
+published: false
 ---
 
 The Shogun says: \"There are sentimentalities of many kinds, some

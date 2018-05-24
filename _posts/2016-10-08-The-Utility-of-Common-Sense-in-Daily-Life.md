@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Chapter VI The Utility of Common Sense in Daily Life
+published: false
 ---
 
 As our philosopher explains, the influence of common sense is above all

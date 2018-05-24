@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Chapter VII Power of Deduction
+published: false
 ---
 
 Before entering the path which relates directly to the intellectual
