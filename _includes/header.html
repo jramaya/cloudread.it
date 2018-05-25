@@ -5,7 +5,10 @@
   </div>
 
   <div class="page-links">
-    <a class="page-link" href="{{ site.baseurl }}/">Index</a>
+      <!-- ## The Trigger -->
+  <!-- The  animation is triggered via the `restart` action: `on="tap:SlideIn.restart"`. We use the `restart` action to make it possible to override an already active animation. The input field simply updates the `amp-state` variable containing the 's message. -->
+    • <a class="page-link" on="tap:SlideIn.start">Share </a>
+    • <a class="page-link" href="{{ site.baseurl }}/">Index</a>
     {% for my_page in site.pages %}
       {% if my_page.title %}
       • <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
