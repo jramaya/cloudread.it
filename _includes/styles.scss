@@ -46,7 +46,7 @@ main {
 }
 
 body {
-  background-color: #fff;
+  background-color: white;
   font-family: $font-sans;
   margin: 0;
   padding: 0;
@@ -57,6 +57,27 @@ body {
   -webkit-font-feature-settings: "liga", "dlig";
   -o-font-feature-settings: "liga", "dlig";
   font-feature-settings: "liga", "dlig";
+}
+.dark_bg {
+
+  background-color:  black; 
+}
+.dark_layout {
+
+  p{
+    color: white !important;
+  }
+  a{
+    color: white !important;
+  }
+  h1{
+    color: white !important;
+  }
+  background-color:  black !important;
+}
+
+.light_layout {
+  all: unset;
 }
 
 .site-header {
@@ -133,6 +154,7 @@ body {
   }
 
   article {
+    width: 100%;
     padding: 30px 0;
     border-bottom: 1px solid #f2f2f0;
     &:last-child {
@@ -403,6 +425,7 @@ body {
       .bio {
         margin-top: 18px;
         margin-bottom: 18px;
+        color:gray;
       }
       .username {
         margin-left: 4px;
@@ -436,6 +459,7 @@ body {
         padding: 0;
         margin: 0;
         padding-left: 100px;
+        color: gray;
       }
       p {
         font-size: 14px;
