@@ -6,19 +6,18 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Common Sense, How To Exercise It
+title: Everything You Ever Really Needed to Know About Personal Finance on Just One Page
 #email: your-email@domain.com
 description: >
-  Common Sense, How To Exercise It, This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever.
+  Everything you really need to know abut personal finance can be summarized in just one page. Spend less than you earn. Earn more. Live frugal. Do something sensible with the difference. Control your own destiny. All of the other writing out there on personal finance is just details.
 logo: "/assets/images/logo.jpg"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://commonsense.cloudread.it" # the base hostname & protocol for your site
+url: "https://personalfinance.cloudread.it" # the base hostname & protocol for your site
 paginate:	10 # The number of posts to show per page on your homepage
 permalink: /chapter/:title/
-name: 'Yoritomo-Tashi'
+name: 'Hamm Trent'
 bio: >
-  Yoritomo Tashi was a Japanese philosopher of the twelfth century, widely recognized and admired by his people and one of the greatest statesmen Japan has ever had.
-  Tashi worked as a high official for the Japanese state, as a proofreader and editor of the laws of the empire, as well as being one of the organizers of military feudalism, and remarkably influenced his time and the mind of his people, with his public performances and his philosophy, rescuing his country from the lack of principles in which he was.
+  I was born in raised in downstate rural Illinois. Growing up, my family didn't have a lot of money, but they did have a lot of love. They taught me the value of living frugally, but it wasn't always coupled with great financial lessons. In short, I had little idea how to manage my own money, and when I left home for college, I made a long sequence of financial mistakes.
 author_image: "/assets/images/author.jpg"
 #twitter_username: jekyllrb
 #github_username:  jekyll
