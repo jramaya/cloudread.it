@@ -4,6 +4,6 @@
     <p style="font-size:20px;margin:5px;color:black !important;">☰</p>
   </div>
 
-  <div class="page-links">|<a class="page-link" href="{{ site.baseurl }}/">Index</a>|{% include icon-adjust.html %}|{% include icon-share.html %}
+  <div class="page-links">{% for my_page in site.pages %}{% if my_page.title %}|<a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>{% endif %}{% endfor %}|<a class="page-link" href="{{ site.baseurl }}/">Index</a>|{% include icon-adjust.html %}|{% include icon-share.html %}
   </div>
 </header>
