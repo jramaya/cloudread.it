@@ -1,7 +1,6 @@
 <header class="site-header" >
-  <div on="tap:sidebar.toggle"
-    class="caps m2">
-    <p style="font-size:20px;margin:5px;color:black !important;">☰</p>
+  <div class="caps m2">
+    <p on="tap:sidebar.toggle" style="font-size:20px;margin:5px;color:black !important;width: 15%;">☰</p>
   </div>
 
   <div class="page-links">{% for my_page in site.pages %}{% if my_page.title %}|<a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>{% endif %}{% endfor %}|<a class="page-link" href="{{ site.baseurl }}/">Index</a>|{% include icon-adjust.html %}|{% include icon-share.html %}
