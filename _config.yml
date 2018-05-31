@@ -6,19 +6,18 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Common Sense, How To Exercise It
+title: Introducing Marketing
 #email: your-email@domain.com
 description: >
-  Common Sense, How To Exercise It, This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever.
+  This book demonstrates how companies use marketing. Specific examples appear not only in text discussions, but also in the chapter openers, Learning is not always about success stories. Diagnosing problems and failures is an important aspect of critical thinking, and examples of such are introduced to challenge students to learn from others' mistakes and better manage real-world problems.
 logo: "/assets/images/logo.jpg"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://commonsense.cloudread.it" # the base hostname & protocol for your site
+url: "https://marketing.cloudread.it" # the base hostname & protocol for your site
 paginate:	10 # The number of posts to show per page on your homepage
 permalink: /chapter/:title/
-name: 'Yoritomo-Tashi'
+name: 'John Burnett'
 bio: >
-  Yoritomo Tashi was a Japanese philosopher of the twelfth century, widely recognized and admired by his people and one of the greatest statesmen Japan has ever had.
-  Tashi worked as a high official for the Japanese state, as a proofreader and editor of the laws of the empire, as well as being one of the organizers of military feudalism, and remarkably influenced his time and the mind of his people, with his public performances and his philosophy, rescuing his country from the lack of principles in which he was.
+  Professor John Burnett is the author/co-author of twenty books and over 60 academic articles. He recently retired after 41 years as a professor of marketing and lives in Carlsbad, California. For the last twenty years much of his focus has been on marketing for nonprofits. The result has been numerous workshops, the creation of several marketing plans, and the book entitled, Nonprofit Marketing Best Practices.
 author_image: "/assets/images/author.jpg"
 #twitter_username: jekyllrb
 #github_username:  jekyll
