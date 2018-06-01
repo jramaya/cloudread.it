@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<main class="content" role="main">
+<main class="content" role="main" [class]="blur_layout ? 'blur_layout content' : 'content'">
 
   <header class="blog-header">
       <h1 class="blog-title">{{ site.title }}</h1>
