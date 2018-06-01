@@ -27,7 +27,7 @@ Priscilla concluded that there was only one way to save Graceland: sell tickets 
 
 "Graceland was his pride and joy. But it came down to the reality that I had to open it up for my daughter's future."
 
-Today 750,000 people visit Graceland each year 52 per cent of them under 35, which suggests this is a business with a future. The mansion has upgraded its public facilities many times over the years, but there still are no vending machines on the grounds and the lawns have never been turned into a parking lot. The original 24 acres (97,125 meters) have been expanded into an 80-acre (323,749-meter) compound and Priscilla intends to add a hotel to the complex. There are also plans for a casino in Las Vegas perhaps with an Elvis wedding chapel and an international chain of Hard Rock Cafe-style restaurants called Elvis Presley's Memphis. Finally, a staff of 10 lawyers is employed full-time by Elvis Presley Enterprises simply to protect Elvis's image from interlopers. 1
+Today 750,000 people visit Graceland each year 52 per cent of them under 35, which suggests this is a business with a future. The mansion has upgraded its public facilities many times over the years, but there still are no vending machines on the grounds and the lawns have never been turned into a parking lot. The original 24 acres (97,125 meters) have been expanded into an 80-acre (323,749-meter) compound and Priscilla intends to add a hotel to the complex. There are also plans for a casino in Las Vegas perhaps with an Elvis wedding chapel and an international chain of Hard Rock Cafe-style restaurants called Elvis Presley's Memphis. Finally, a staff of 10 lawyers is employed full-time by Elvis Presley Enterprises simply to protect Elvis's image from interlopers. [^1]
 
 <amp-img on="tap:lightbox1"
 role="button"
@@ -42,7 +42,7 @@ width="485" height="389"></amp-img>
 **1.2 INTRODUCTION**
 
 
-The success of Elvis Presley Enterprises was a result of the insights and courage of Priscilla Presley. Despite her lack of formal training in marketing, she exhibited a [^1] creative approach toward doing business that will become more and more necessary as the twenty-first century continues. Innovative thinking has become a prerequisite for success in today's global environment, which is saturated with near clone products being sold by millions of comparable competitors. The status quo will no longer suffice. The need for constant change paired with clear strategies is now essential.
+The success of Elvis Presley Enterprises was a result of the insights and courage of Priscilla Presley. Despite her lack of formal training in marketing, she exhibited a creative approach toward doing business that will become more and more necessary as the twenty-first century continues. Innovative thinking has become a prerequisite for success in today's global environment, which is saturated with near clone products being sold by millions of comparable competitors. The status quo will no longer suffice. The need for constant change paired with clear strategies is now essential.
 
 [^1]:
 Corie Brown, "Look Who's Taking Care of Business," *Newsweek*, August 18, 1997, p. 62. Karen Schoemer, "Burning Love," *Newsweek*, August 18, 1997, pp. 58-61. G. Brown, "More Early Elvis Unearthed ," *The Denver Post*, August 15, 1997, p. 9F. Greg Hassell, "King of Trees Rises From Graceland," *Houston Chronicle*, Dec. 8,1999, p. 11. Duncan Hughes, "Elvis is Back From the Dead Financially," *Sunday Business*, August 15, 1999, p. 23. 
