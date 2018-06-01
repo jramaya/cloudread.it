@@ -66,9 +66,7 @@ Marketing is advertising to advertising agencies, events to event marketers, kno
 
 Tracing the evolution of the various definitions of marketing proposed during the last 30 years reveals two trends: 1) expansion of the application of marketing to nonprofit and nonbusiness institutions; *e.g.* charities, education, or health care; and 2) expansion of the responsibilities of marketing beyond the personal survival of the individual firm , to include the betterment of society as a whole. These two factors are reflected in the official American Marketing Association definition published in 1988.
 
-*" Marketing is the process of planning and executing the conception. pricing,* *promotion, and distribution of ideas, goods, and services to create*
-
-*exchanges that satisfy individual (customer) and organizational*
+*" Marketing is the process of planning and executing the conception. pricing,* *promotion, and distribution of ideas, goods, and services to create exchanges that satisfy individual (customer) and organizational*
 
 *objectives. 1 "*
 
