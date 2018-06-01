@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Chapter I - INTRODUCING MARKETING
+excerpt_separator: <!--more-->
 ---
 
 **Chapter 1 INTRODUCING MARKETING**
@@ -13,7 +14,7 @@ As you read the chapter, you should develop an understanding of the following ke
 * organizations that correctly employ marketing have several common characteristics
 * the various kinds of marketing
 * the strategic workings of marketing components
-
+<!--more-->
 1.1 ELVIS-ALIVE AND WELL
 
 
