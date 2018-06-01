@@ -15,6 +15,7 @@ As you read the chapter, you should develop an understanding of the following ke
 * the various kinds of marketing
 * the strategic workings of marketing components
 <!--more-->
+
 1.1 ELVIS-ALIVE AND WELL
 
 
