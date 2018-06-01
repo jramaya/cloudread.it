@@ -90,6 +90,13 @@ body {
   background-color:  black !important;
 }
 
+.blur_layout{
+  -webkit-filter: blur(3px);
+  -moz-filter: blur(3px);
+  -o-filter: blur(3px);
+  -ms-filter: blur(3px);
+  filter: blur(3px);
+}
 
 .site-header {
   position: fixed;

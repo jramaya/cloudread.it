@@ -3,10 +3,10 @@ layout: default
 ---
 <main class="content" role="main">
   <article class="post" [class]="dark_layout ? 'dark_layout post' : 'light_layout post'">
-    <div class="post-meta">
+    <div class="post-meta" [class]="blur_layout ? 'blur_layout post-meta' : 'post-meta'">
       <h1 class="post-title">{{ page.title }}</h1>
     </div>
-    <section class="post-content">
+    <section class="post-content" [class]="blur_layout ? 'blur_layout post-content' : 'post-content'">
       <a name="topofpage"></a>
       {{content}}
     </section>
