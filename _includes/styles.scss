@@ -359,7 +359,8 @@ body {
     p {
       font-weight: 400;
       font-style: normal;
-      font-size: 1rem;
+      font-size: 1.2rem;
+      text-indent: 1em;
       line-height: 1.2;
       letter-spacing: -.002em;
       margin-top: 30px;
@@ -611,4 +612,56 @@ pre {
 amp-social-share.rounded {
   border-radius: 50%;
   background-size: 60%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+	font-variant: small-caps;
+	hyphens: none;
+	page-break-after: avoid;
+	text-align: center;
+	margin: 3em 0;
+}
+
+blockquote + p,
+h2 + p,
+h3 + p,
+h4 + p,
+h5 + p,
+h6 + p,
+header + p,
+hr + p,
+ol + p,
+ul + p,
+table + p,
+p:first-child{
+	text-indent: 0;
+}
+
+cite{
+	font-style: normal;
+}
+
+abbr{
+	border: none;
+	white-space: nowrap;
+}
+
+blockquote cite{
+	display: block;
+	font-style: italic;
+	text-align: right;
+}
+
+blockquote cite i{
+	font-style: normal;
+}
+
+strong{
+	font-weight: normal;
+	font-variant: all-small-caps;
 }
