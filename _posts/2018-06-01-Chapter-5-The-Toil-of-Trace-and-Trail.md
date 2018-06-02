@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Chapter 4: Who Has Won to Mastership'
+title: 'Chapter 5: The Toil of Trace and Trail'
 ---
 
 Thirty days from the time it left Dawson, the Salt Water Mail, with Buck
