@@ -4,7 +4,7 @@ layout: default
 
 <main class="content" role="main" [class]="blur_layout ? 'blur_layout content' : 'content'">
 
-  <header class="blog-header">
+  <header class="blog-header" [class]="dark_layout ? 'dark_layout blog-header' : 'light_layout blog-header'">
       <h1 class="blog-title">{{ site.title }}</h1>
       <h2 class="blog-description">{{ site.description }}</h2>
   </header>
