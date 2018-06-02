@@ -6,19 +6,18 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Common Sense, How To Exercise It
+title: The Call of the Wild
 #email: your-email@domain.com
 description: >
-  Common Sense, How To Exercise It, This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever.
+  The Call of the Wild is a short adventure novel by Jack London published in 1903 and set in Yukon, Canada during the 1890s Klondike Gold Rush, when strong sled dogs were in high demand. The central character of the novel is a dog named Buck.
 logo: "/assets/images/logo.jpg"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://commonsense.cloudread.it" # the base hostname & protocol for your site
+url: "https://thecallofthewild.cloudread.it" # the base hostname & protocol for your site
 paginate:	10 # The number of posts to show per page on your homepage
 permalink: /chapter/:title/
-name: 'Yoritomo-Tashi'
+name: 'Jack London'
 bio: >
-  Yoritomo Tashi was a Japanese philosopher of the twelfth century, widely recognized and admired by his people and one of the greatest statesmen Japan has ever had.
-  Tashi worked as a high official for the Japanese state, as a proofreader and editor of the laws of the empire, as well as being one of the organizers of military feudalism, and remarkably influenced his time and the mind of his people, with his public performances and his philosophy, rescuing his country from the lack of principles in which he was.
+  John Griffith "Jack" London was an American novelist, journalist, and social activist. A pioneer in the world of commercial magazine fiction, he was one of the first writers to become a worldwide celebrity and earn a large fortune from writing.
 author_image: "/assets/images/author.jpg"
 #twitter_username: jekyllrb
 #github_username:  jekyll
