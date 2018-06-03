@@ -36,6 +36,14 @@ $font-sans: "Helvetica Neue", 'Open Sans', Arial, Helvetica, sans-serif;
   }
 }
 
+@media (min-width: 700px) {
+  article {
+    padding: 20px !important;
+    box-shadow: 0px 0px 8px gray;
+  }
+}
+
+
 // Only needed for syntax highlighting
 %vertical-rhythm {
   margin-bottom: $rs;
