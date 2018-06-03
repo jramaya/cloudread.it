@@ -302,6 +302,13 @@ he should be stirred by it marked the completeness with which he harked
 back through the ages of fire and roof to the raw beginnings of life in
 the howling ages.
 
+<amp-img on="tap:lightbox1"
+role="button"
+tabindex="0"
+src="../../assets/images/img_0008.png"
+layout="intrinsic"
+width="245" height="364"></amp-img>
+
 Seven days from the time they pulled into Dawson, they dropped down the
 steep bank by the Barracks to the Yukon Trail, and pulled for Dyea and
 Salt Water. Perrault was carrying despatches if anything more urgent

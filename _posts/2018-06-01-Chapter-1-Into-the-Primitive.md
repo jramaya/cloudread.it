@@ -288,6 +288,13 @@ did see beaten dogs that fawned upon the man, and wagged their tails,
 and licked his hand. Also he saw one dog, that would neither conciliate
 nor obey, finally killed in the struggle for mastery.
 
+<amp-img on="tap:lightbox1"
+role="button"
+tabindex="0"
+src="../../assets/images/img_0006.png"
+layout="intrinsic"
+width="240" height="383"></amp-img>
+
 Now and again men came, strangers, who talked excitedly, wheedlingly,
 and in all kinds of fashions to the man in the red sweater. And at such
 times that money passed between them the strangers took one or more of

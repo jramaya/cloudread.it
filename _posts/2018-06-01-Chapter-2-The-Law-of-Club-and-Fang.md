@@ -300,3 +300,10 @@ through him and he came into his own again; and he came because men had
 found a yellow metal in the North, and because Manuel was a gardener's
 helper whose wages did not lap over the needs of his wife and divers
 small copies of himself.
+
+<amp-img on="tap:lightbox1"
+role="button"
+tabindex="0"
+src="../../assets/images/img_0007.png"
+layout="intrinsic"
+width="247" height="135"></amp-img>

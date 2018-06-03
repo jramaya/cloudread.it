@@ -316,6 +316,20 @@ other traits unpleasantly peculiar to her husband's family. In the
 meantime the fire remained unbuilt, the camp half pitched, and the dogs
 unfed.
 
+<amp-img on="tap:lightbox1"
+role="button"
+tabindex="0"
+src="../../assets/images/img_0009.png"
+layout="intrinsic"
+width="256" height="80"></amp-img>
+
+<amp-img on="tap:lightbox1"
+role="button"
+tabindex="0"
+src="../../assets/images/img_0010.png"
+layout="intrinsic"
+width="223" height="104"></amp-img>
+
 Mercedes nursed a special grievance⁠---the grievance of sex. She was
 pretty and soft, and had been chivalrously treated all her days. But the
 present treatment by her husband and brother was everything save
@@ -517,6 +531,13 @@ scream came to their ears. They saw Charles turn and make one step to
 run back, and then a whole section of ice give way and dogs and humans
 disappear. A yawning hole was all that was to be seen. The bottom had
 dropped out of the trail.
+
+<amp-img on="tap:lightbox1"
+role="button"
+tabindex="0"
+src="../../assets/images/img_0011.png"
+layout="intrinsic"
+width="247" height="371"></amp-img>
 
 John Thornton and Buck looked at each other.
 

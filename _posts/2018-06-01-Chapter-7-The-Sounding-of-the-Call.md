@@ -165,6 +165,13 @@ condition, or Buck could not so easily have overtaken him. He would run
 till Buck's head was even with his flank, when he would whirl around at
 bay, only to dash away again at the first opportunity.
 
+<amp-img on="tap:lightbox1"
+role="button"
+tabindex="0"
+src="../../assets/images/img_0012.png"
+layout="intrinsic"
+width="241" height="104"></amp-img>
+
 But in the end Buck's pertinacity was rewarded; for the wolf, finding
 that no harm was intended, finally sniffed noses with him. Then they
 became friendly, and played about in the nervous, half-coy way with
@@ -357,6 +364,13 @@ flight. At such times Buck did not attempt to stay him, but loped easily
 at his heels, satisfied with the way the game was played, lying down
 when the moose stood still, attacking him fiercely when he strove to eat
 or drink.
+
+<amp-img on="tap:lightbox1"
+role="button"
+tabindex="0"
+src="../../assets/images/img_0013.png
+layout="intrinsic"
+width="247" height="415"></amp-img>
 
 The great head drooped more and more under its tree of horns, and the
 shambling trot grew weak and weaker. He took to standing for long
