@@ -13,7 +13,9 @@ side="left" on="sidebarClose:AMP.setState({blur_layout: ''});sidebarOpen:AMP.set
   <li>
     <a href="/">Index</a>
   </li>
-{% for post in site.posts %}
+  
+{% assign postsChapterOrdered = (site.posts | sort: 'chapter') %}
+{% for post in postsChapterOrdered %}
         <li class="post-title" itemprop="name">
             <a href="{{ site.baseurl }}{{ post.url }}" itemprop="url">
                 {{ post.title }}
