@@ -10,7 +10,8 @@ layout: default
   </header>
 
   <div class="cf frame">
-    {% for post in paginator.posts %}
+      {% assign postsChapterOrdered = (site.posts | sort: 'chapter') %}
+    {% for post in postsChapterOrdered %}
       <article class="post" [class]="dark_layout ? 'dark_layout post' : 'light_layout post'" itemscope itemtype="http://schema.org/BlogPosting" role="article">
         <div class="article-item">
           <header class="post-header">
