@@ -9,16 +9,15 @@
 title: Common Sense, How To Exercise It
 #email: your-email@domain.com
 description: >
-  Common Sense, How To Exercise It, This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever.
+  The Last of the Mohicans, A Narrative of 1757 (1826) is a historical novel by James Fenimore Cooper. The novel is set primarily in the upper New York wilderness, detailing the transport of the two daughters of Colonel Munro, Alice and Cora, to a safe destination at Fort William Henry. 
 logo: "/assets/images/logo.jpg"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://commonsense.cloudread.it" # the base hostname & protocol for your site
-paginate:	10 # The number of posts to show per page on your homepage
+url: "https://thelastofthemohicans.cloudread.it" # the base hostname & protocol for your site
+paginate:	50 # The number of posts to show per page on your homepage
 permalink: /chapter/:title/
-name: 'Yoritomo-Tashi'
+name: 'James Fenimore Cooper'
 bio: >
-  Yoritomo Tashi was a Japanese philosopher of the twelfth century, widely recognized and admired by his people and one of the greatest statesmen Japan has ever had.
-  Tashi worked as a high official for the Japanese state, as a proofreader and editor of the laws of the empire, as well as being one of the organizers of military feudalism, and remarkably influenced his time and the mind of his people, with his public performances and his philosophy, rescuing his country from the lack of principles in which he was.
+  James Fenimore Cooper (September 15, 1789 – September 14, 1851) was a prolific and popular American writer of the first half of the 19th century. His historical romances draw a picture of frontier and American Indian life in the early American days which created a unique form of American literature. He lived most of his life in Cooperstown, New York, which was founded by his father William on property that he owned. Cooper was a lifelong member of the Episcopal Church and contributed generously to it.
 author_image: "/assets/images/author.jpg"
 #twitter_username: jekyllrb
 #github_username:  jekyll
