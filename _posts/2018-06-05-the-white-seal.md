@@ -4,14 +4,14 @@ title: The White Seal
 chapter: 4
 ---
 
-> Oh! hush thee, my baby, the night is behind us,\
-> [And black are the waters that sparkled so green.]{.i1}\
-> The moon, o'er the combers, looks downward to find us\
-> [At rest in the hollows that rustle between.]{.i1}\
-> Where billow meets billow, there soft be thy pillow;\
-> [Ah, weary wee flipperling, curl at thy ease!]{.i1}\
-> The storm shall not wake thee, nor shark overtake thee,\
-> [Asleep in the arms of the slow-swinging seas.]{.i1} Seal Lullaby
+> Oh! hush thee, my baby, the night is behind us,\\
+> [And black are the waters that sparkled so green.]\\
+> The moon, o'er the combers, looks downward to find us\\
+> [At rest in the hollows that rustle between.]\\
+> Where billow meets billow, there soft be thy pillow;\\
+> [Ah, weary wee flipperling, curl at thy ease!]\\
+> The storm shall not wake thee, nor shark overtake thee,\\
+> [Asleep in the arms of the slow-swinging seas.] Seal Lullaby
 
 All these things happened several years ago at a place called Novastoshnah, or North East Point, on the Island of St. Paul, away and away in the Bering Sea. Limmershin, the Winter Wren, told me the tale when he was blown on to the rigging of a steamer going to Japan, and I took him down into my cabin and warmed and fed him for a couple of days till he was fit to fly back to St. Paul's again. Limmershin is a very odd little bird, but he knows how to tell the truth.
 
@@ -52,16 +52,16 @@ Kotick, Matkah's baby, was born in the middle of that confusion, and he was all 
 
 "I can't help that," said Matkah; "there's going to be now"; and she sang the low, crooning seal-song that all the mother seals sing to their babies:
 
-> You mustn't swim till you're six weeks old,\
-> [Or your head will be sunk by your heels;]{.i2}\
-> And summer gales and Killer Whales\
-> [Are bad for baby seals.]{.i2}
+> You mustn't swim till you're six weeks old,\\
+> [Or your head will be sunk by your heels;]\\
+> And summer gales and Killer Whales\\
+> [Are bad for baby seals.]
 >
-> Are bad for baby seals, dear rat,\
-> [As bad as bad can be;]{.i2}\
-> But splash and grow strong,\
-> And you can't be wrong,\
-> [Child of the Open Sea!]{.i2}
+> Are bad for baby seals, dear rat,\\
+> [As bad as bad can be;]\\
+> But splash and grow strong,\\
+> And you can't be wrong,\\
+> [Child of the Open Sea!]
 
 Of course the little fellow did not understand the words at first. He paddled and scrambled about by his mother's side, and learned to scuffle out of the way when his father was fighting with another seal, and the two rolled and roared up and down the slippery rocks. Matkah used to go to sea to get things to eat, and the baby was fed only once in two days; but then he ate all he could, and throve upon it.
 
@@ -267,32 +267,32 @@ Lukannon
 
 This is the great deep-sea song that all the St. Paul seals sing when they are heading back to their beaches in the summer. It is a sort of very sad seal National Anthem.
 
-> I met my mates in the morning (and oh, but I am old!)\
-> Where roaring on the ledges the summer ground-swell rolled;\
-> I heard them lift the chorus that dropped the breakers' song⁠---\
+> I met my mates in the morning (and oh, but I am old!)\\
+> Where roaring on the ledges the summer ground-swell rolled;\\
+> I heard them lift the chorus that dropped the breakers' song⁠---\\
 > The beaches of Lukannon⁠---two million voices strong!
 >
->  *The song of pleasant stations beside the salt lagoons,* \
->  *The song of blowing squadrons that shuffled down the dunes,* \
->  *The song of midnight dances that churned the sea to flame⁠---* \
+>  *The song of pleasant stations beside the salt lagoons,* \\
+>  *The song of blowing squadrons that shuffled down the dunes,* \\
+>  *The song of midnight dances that churned the sea to flame⁠---* \\
 >  *The beaches of Lukannon⁠---before the sealers came!*
 >
-> I met my mates in the morning (I'll never meet them more!);\
-> They came and went in legions that darkened all the shore.\
-> And through the foam-flecked offing as far as voice could reach\
+> I met my mates in the morning (I'll never meet them more!);\\
+> They came and went in legions that darkened all the shore.\\
+> And through the foam-flecked offing as far as voice could reach\\
 > We hailed the landing-parties and we sang them up the beach.
 >
->  *The beaches of Lukannon⁠---the winter-wheat so tall⁠---* \
->  *The dripping, crinkled lichens, and the sea-fog drenching all!* \
->  *The platforms of our playground, all shining smooth and worn!* \
+>  *The beaches of Lukannon⁠---the winter-wheat so tall⁠---* \\
+>  *The dripping, crinkled lichens, and the sea-fog drenching all!* \\
+>  *The platforms of our playground, all shining smooth and worn!* \\
 >  *The beaches of Lukannon⁠---the home where we were born!*
 >
-> I meet my mates in the morning, a broken, scattered band.\
-> Men shoot us in the water and club us on the land;\
-> Men drive us to the Salt House like silly sheep and tame,\
+> I meet my mates in the morning, a broken, scattered band.\\
+> Men shoot us in the water and club us on the land;\\
+> Men drive us to the Salt House like silly sheep and tame,\\
 > And still we sing Lukannon⁠---before the sealers came.
 >
->  *Wheel down, wheel down to southward; oh, Gooverooska go!* \
->  *And tell the Deep-Sea Viceroys the story of our woe;* \
->  *Ere, empty as the shark's egg the tempest flings ashore,* \
+>  *Wheel down, wheel down to southward; oh, Gooverooska go!* \\
+>  *And tell the Deep-Sea Viceroys the story of our woe;* \\
+>  *Ere, empty as the shark's egg the tempest flings ashore,* \\
 >  *The beaches of Lukannon shall know their sons no more!*

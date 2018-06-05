@@ -5,20 +5,20 @@ chapter: 2
 ---
 
 > His spots are the joy of the Leopard: his horns are the Buffalo's
-> pride⁠---\
+> pride⁠---\\
 > Be clean, for the strength of the hunter is known by the gloss of his
-> hide.\
+> hide.\\
 > If ye find that the Bullock can toss you, or the heavy-browed Sambhur
-> can gore;\
-> Ye need not stop work to inform us: we knew it ten seasons before.\
+> can gore;\\
+> Ye need not stop work to inform us: we knew it ten seasons before.\\
 > Oppress not the cubs of the stranger, but hail them as Sister and
-> Brother,\
+> Brother,\\
 > For though they are little and fubsy, it may be the Bear is their
-> mother.\
+> mother.\\
 > "There is none like to me!" says the Cub in the pride of his earliest
-> kill;\
+> kill;\\
 > But the Jungle is large and the Cub he is small. Let him think and be
-> still.\
+> still.\\
 >
 > Maxims of Baloo
 
@@ -443,35 +443,35 @@ Mowgli laid his head down on Bagheera's back and slept so deeply that he never w
 
 Road-Song of the Bandar-Log
 
-> Here we go in a flung festoon,\
-> Halfway up to the jealous moon!\
-> Don't you envy our pranceful bands?\
-> Don't you wish you had extra hands?\
-> Wouldn't you like if your tails were⁠---*so*⁠---\
-> Curved in the shape of a Cupid's bow?\
-> [Now you're angry, but⁠---never mind,]{.i1}\
-> [ *Brother, thy tail hangs down behind!* ]{.i1}
+> Here we go in a flung festoon,\\
+> Halfway up to the jealous moon!\\
+> Don't you envy our pranceful bands?\\
+> Don't you wish you had extra hands?\\
+> Wouldn't you like if your tails were⁠---*so*⁠---\\
+> Curved in the shape of a Cupid's bow?\\
+> [Now you're angry, but⁠---never mind,]\\
+> [ *Brother, thy tail hangs down behind!* ]
 >
-> Here we sit in a branchy row,\
-> Thinking of beautiful things we know;\
-> Dreaming of deeds that we mean to do,\
-> All complete, in a minute or two⁠---\
-> Something noble and grand and good,\
-> Won by merely wishing we could.\
-> [Now we're going to⁠---never mind,]{.i1}\
-> [ *Brother, thy tail hangs down behind!* ]{.i1}
+> Here we sit in a branchy row,\\
+> Thinking of beautiful things we know;\\
+> Dreaming of deeds that we mean to do,\\
+> All complete, in a minute or two⁠---\\
+> Something noble and grand and good,\\
+> Won by merely wishing we could.\\
+> [Now we're going to⁠---never mind,]\\
+> [ *Brother, thy tail hangs down behind!* ]
 >
-> All the talk we ever have heard\
-> Uttered by bat or beast or bird⁠---\
-> Hide or fin or scale or feather⁠---\
-> Jabber it quickly and all together!\
-> Excellent! Wonderful! Once again!\
-> Now we are talking just like men.\
-> [Let's pretend we are ... never mind,]{.i1}\
-> [ *Brother, thy tail hangs down behind!* ]{.i1}\
-> [This is the way of the Monkey-kind.]{.i1}
+> All the talk we ever have heard\\
+> Uttered by bat or beast or bird⁠---\\
+> Hide or fin or scale or feather⁠---\\
+> Jabber it quickly and all together!\\
+> Excellent! Wonderful! Once again!\\
+> Now we are talking just like men.\\
+> [Let's pretend we are ... never mind,]\\
+> [ *Brother, thy tail hangs down behind!* ]\\
+> [This is the way of the Monkey-kind.]
 >
-> Then join our leaping lines that scumfish through the pines,\
-> That rocket by where, light and high, the wild-grape swings.\
-> By the rubbish in our wake, and the noble noise we make,\
-> Be sure, be sure, we're going to do some splendid things!\
+> Then join our leaping lines that scumfish through the pines,\\
+> That rocket by where, light and high, the wild-grape swings.\\
+> By the rubbish in our wake, and the noble noise we make,\\
+> Be sure, be sure, we're going to do some splendid things!\\

@@ -4,15 +4,15 @@ title: Toomai of the Elephants
 chapter: 6
 ---
 
-> I will remember what I was, I am sick of rope and chain⁠---\
-> [I will remember my old strength and all my forest affairs.]{.i1}\
-> I will not sell my back to man for a bundle of sugarcane,\
-> [I will go out to my own kind, and the wood-folk in their lairs.]{.i1}
+> I will remember what I was, I am sick of rope and chain⁠---\\
+> [I will remember my old strength and all my forest affairs.]\\
+> I will not sell my back to man for a bundle of sugarcane,\\
+> [I will go out to my own kind, and the wood-folk in their lairs.]
 >
-> I will go out until the day, until the morning break,\
-> [Out to the winds' untainted kiss, the waters' clean caress:]{.i1}\
-> I will forget my ankle-ring and snap my picket-stake.\
-> [I will revisit my lost loves, and playmates masterless!]{.i1}
+> I will go out until the day, until the morning break,\\
+> [Out to the winds' untainted kiss, the waters' clean caress:]\\
+> I will forget my ankle-ring and snap my picket-stake.\\
+> [I will revisit my lost loves, and playmates masterless!]
 
 Kala Nag, which means Black Snake, had served the Indian Government in every way that an elephant could serve it for forty-seven years, and as he was fully twenty years old when he was caught, that makes him nearly seventy⁠---a ripe age for an elephant. He remembered pushing, with a big leather pad on his forehead, at a gun stuck in deep mud, and that was before the Afghan war of 1842, and he had not then come to his full strength. His mother, Radha Pyari⁠---Radha the darling⁠---who had been caught in the same drive with Kala Nag, told him, before his little milk tusks had dropped out, that elephants who were afraid always got hurt:
 and Kala Nag knew that that advice was good, for the first time that he saw a shell burst he backed, screaming, into a stand of piled rifles, and the bayonets pricked him in all his softest places. So, before he was twenty-five, he gave up being afraid, and so he was the best-loved and the best-looked-after elephant in the service of the Government of India. He had carried tents, twelve hundred pounds' weight of tents, on the march in Upper India: he had been hoisted into a ship at the end of a steam-crane and taken for days across the water, and made to carry a mortar on his back in a strange and rocky country very far from India, and had seen the Emperor Theodore lying dead in Magdala, and had come back again in the steamer entitled, so the soldiers said, to the Abyssinian war medal. He had seen his fellow-elephants die of cold and epilepsy and starvation and sunstroke up at a place called Ali Musjid, ten years later; and afterward he had been sent down thousands of miles south to haul and pile big baulks of teak in the timber-yards at Moulmein. There he had half killed an insubordinate young elephant who was shirking his fair share of the work.
@@ -122,14 +122,14 @@ When an Indian child's heart is full, he does not run about and make a noise in 
 
 The new elephants strained at their ropes, and squealed and trumpeted from time to time, and he could hear his mother in the camp hut putting his small brother to sleep with an old, old song about the great God Shiv, who once told all the animals what they should eat. It is a very soothing lullaby, and the first verse says:
 
-> Shiv, who poured the harvest and made the winds to blow,\
-> Sitting at the doorways of a day of long ago,\
-> Gave to each his portion, food and toil and fate,\
-> From the King upon the *guddee* to the Beggar at the gate.\
-> [All things made he⁠---Shiva the Preserver.]{.i1}\
-> [Mahadeo! Mahadeo! he made all⁠---]{.i1}\
-> [Thorn for the camel, fodder for the kine,]{.i1}\
-> [And mother's heart for sleepy head, O little son of mine!]{.i1}
+> Shiv, who poured the harvest and made the winds to blow,\\
+> Sitting at the doorways of a day of long ago,\\
+> Gave to each his portion, food and toil and fate,\\
+> From the King upon the *guddee* to the Beggar at the gate.\\
+> [All things made he⁠---Shiva the Preserver.]\\
+> [Mahadeo! Mahadeo! he made all⁠---]\\
+> [Thorn for the camel, fodder for the kine,]\\
+> [And mother's heart for sleepy head, O little son of mine!]
 
 Little Toomai came in with a joyous *tunk-a-tunk* at the end of each verse, till he felt sleepy and stretched himself on the fodder at Kala Nag's side.
 
@@ -208,37 +208,37 @@ But it was all for the sake of Little Toomai, who had seen what never man had se
 
 Shiv and the Grasshopper [(The Song That Toomai's Mother Sang to the Baby)]{type="subtitle"}
 
-> Shiv, who poured the harvest and made the winds to blow,\
-> Sitting at the doorways of a day of long ago,\
-> Gave to each his portion, food and toil and fate,\
-> From the King upon the *guddee* to the Beggar at the gate.\
-> [ *All things made he⁠---Shiva the Preserver,* ]{.i1}\
-> [ *Mahadeo! Mahadeo! he made all⁠---* ]{.i1}\
-> [ *Thorn for the camel, fodder for the kine,* ]{.i1}\
-> [ *And mother's heart for sleepy head, O little son of mine!* ]{.i1}
+> Shiv, who poured the harvest and made the winds to blow,\\
+> Sitting at the doorways of a day of long ago,\\
+> Gave to each his portion, food and toil and fate,\\
+> From the King upon the *guddee* to the Beggar at the gate.\\
+> [ *All things made he⁠---Shiva the Preserver,* ]\\
+> [ *Mahadeo! Mahadeo! he made all⁠---* ]\\
+> [ *Thorn for the camel, fodder for the kine,* ]\\
+> [ *And mother's heart for sleepy head, O little son of mine!* ]
 >
-> Wheat he gave to rich folk, millet to the poor,\
-> Broken scraps for holy men that beg from door to door;\
-> Cattle to the tiger, carrion to the kite,\
-> And rags and bones to wicked wolves without the wall at night.\
-> Naught he found too lofty, none he saw too low⁠---\
-> Parbati beside him watched them come and go;\
-> Thought to cheat her husband, turning Shiv to jest⁠---\
-> Stole the little grasshopper and hid it in her breast.\
-> [ *So she tricked him, Shiva the Preserver.* ]{.i1}\
-> [ *Mahadeo! Mahadeo! turn and see.* ]{.i1}\
-> [ *Tall are the camels, heavy are the kine,* ]{.i1}\
-> [ *But this was least of little things, O little son of mine!* ]{.i1}
+> Wheat he gave to rich folk, millet to the poor,\\
+> Broken scraps for holy men that beg from door to door;\\
+> Cattle to the tiger, carrion to the kite,\\
+> And rags and bones to wicked wolves without the wall at night.\\
+> Naught he found too lofty, none he saw too low⁠---\\
+> Parbati beside him watched them come and go;\\
+> Thought to cheat her husband, turning Shiv to jest⁠---\\
+> Stole the little grasshopper and hid it in her breast.\\
+> [ *So she tricked him, Shiva the Preserver.* ]\\
+> [ *Mahadeo! Mahadeo! turn and see.* ]\\
+> [ *Tall are the camels, heavy are the kine,* ]\\
+> [ *But this was least of little things, O little son of mine!* ]
 >
-> When the dole was ended, laughingly she said,\
-> "Master, of a million mouths is not one unfed?"\
-> Laughing, Shiv made answer, "All have had their part,\
-> Even he, the little one, hidden 'neath thy heart."\
-> From her breast she plucked it, Parbati the thief,\
-> Saw the Least of Little Things gnawed a new-grown leaf!\
-> Saw and feared and wondered, making prayer to Shiv,\
-> Who hath surely given meat to all that live.\
-> [ *All things made he⁠---Shiva the Preserver.* ]{.i1}\
-> [ *Mahadeo! Mahadeo! he made all⁠---* ]{.i1}\
-> [ *Thorn for the camel, fodder for the kine,* ]{.i1}\
-> [ *And mother's heart for sleepy head, O little son of mine!* ]{.i1}
+> When the dole was ended, laughingly she said,\\
+> "Master, of a million mouths is not one unfed?"\\
+> Laughing, Shiv made answer, "All have had their part,\\
+> Even he, the little one, hidden 'neath thy heart."\\
+> From her breast she plucked it, Parbati the thief,\\
+> Saw the Least of Little Things gnawed a new-grown leaf!\\
+> Saw and feared and wondered, making prayer to Shiv,\\
+> Who hath surely given meat to all that live.\\
+> [ *All things made he⁠---Shiva the Preserver.* ]\\
+> [ *Mahadeo! Mahadeo! he made all⁠---* ]\\
+> [ *Thorn for the camel, fodder for the kine,* ]\\
+> [ *And mother's heart for sleepy head, O little son of mine!* ]

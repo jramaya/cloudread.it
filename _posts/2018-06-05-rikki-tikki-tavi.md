@@ -4,19 +4,19 @@ title: Rikki-Tikki-Tavi
 chapter: 5
 ---
 
-> At the hole where he went in\
-> Red-Eye called to Wrinkle-Skin.\
-> Hear what little Red-Eye saith:\
+> At the hole where he went in\\
+> Red-Eye called to Wrinkle-Skin.\\
+> Hear what little Red-Eye saith:\\
 > "Nag, come up and dance with death!"
 >
-> Eye to eye and head to head,\
-> [(*Keep the measure, Nag.*)]{.i1}\
-> This shall end when one is dead;\
-> [(*At thy pleasure, Nag.*)]{.i1}\
-> Turn for turn and twist for twist⁠---\
-> [(*Run and hide thee, Nag.*)]{.i1}\
-> Hah! The hooded Death has missed!\
-> [(*Woe betide thee, Nag!*)]{.i1}
+> Eye to eye and head to head,\\
+> [(*Keep the measure, Nag.*)]\\
+> This shall end when one is dead;\\
+> [(*At thy pleasure, Nag.*)]\\
+> Turn for turn and twist for twist⁠---\\
+> [(*Run and hide thee, Nag.*)]\\
+> Hah! The hooded Death has missed!\\
+> [(*Woe betide thee, Nag!*)]
 
 This is the story of the great war that Rikki-tikki-tavi fought single-handed, through the bathrooms of the big bungalow in Segowlee cantonment. Darzee, the tailorbird, helped him, and Chuchundra, the muskrat, who never comes out into the middle of the floor, but always creeps round by the wall, gave him advice; but Rikki-tikki did the real fighting.
 
@@ -259,32 +259,32 @@ Rikki-tikki woke up with a jump, for all the mongooses are light sleepers.
 
 Rikki-tikki had a right to be proud of himself; but he did not grow too proud, and he kept that garden as a mongoose should keep it, with tooth and jump and spring and bite, till never a cobra dared show its head inside the walls.
 
-Darzee's Chaunt [(Sung in Honor of Rikki-Tikki-Tavi)]{type="subtitle"}
+Darzee's Chaunt [(Sung in Honor of Rikki-Tikki-Tavi)]
 
-> Singer and tailor am I⁠---\
-> [Doubled the joys that I know⁠---]{.i1}\
-> Proud of my lilt through the sky,\
-> [Proud of the house that I sew⁠---]{.i1}\
+> Singer and tailor am I⁠---\\
+> [Doubled the joys that I know⁠---]\\
+> Proud of my lilt through the sky,\\
+> [Proud of the house that I sew⁠---]\\
 > Over and under, so weave I my music⁠---so weave I the house that I
 > sew.
 >
-> Sing to your fledglings again,\
-> [Mother, oh lift up your head!]{.i1}\
-> Evil that plagued us is slain,\
-> [Death in the garden lies dead.]{.i1}\
+> Sing to your fledglings again,\\
+> [Mother, oh lift up your head!]\\
+> Evil that plagued us is slain,\\
+> [Death in the garden lies dead.]\\
 > Terror that hid in the roses is impotent⁠---flung on the dunghill and
 > dead!
 >
-> Who hath delivered us, who?\
-> [Tell me his nest and his name.]{.i1}\
-> Rikki, the valiant, the true,\
-> [Tikki, with eyeballs of flame.]{.i1}\
+> Who hath delivered us, who?\\
+> [Tell me his nest and his name.]\\
+> Rikki, the valiant, the true,\\
+> [Tikki, with eyeballs of flame.]\\
 > Rik-tikki-tikki, the ivory-fanged, the hunter with eyeballs of flame.
 >
-> Give him the Thanks of the Birds,\
-> [Bowing with tail-feathers spread!]{.i1}\
-> Praise him with nightingale words⁠---\
-> [Nay, I will praise him instead.]{.i1}\
+> Give him the Thanks of the Birds,\\
+> [Bowing with tail-feathers spread!]\\
+> Praise him with nightingale words⁠---\\
+> [Nay, I will praise him instead.]\\
 > Hear! I will sing you the praise of the bottle-tailed Rikki, with
 > eyeballs of red!
 

@@ -336,23 +336,23 @@ The dawn was beginning to break when Mowgli went down the hillside alone to the 
 
 Hunting-Song of the Seeonee Pack
 
-> As the dawn was breaking the Sambhur belled\
-> [Once, twice, and again!]{.i1}\
-> And a doe leaped up⁠---and a doe leaped up\
-> From the pond in the wood where the wild deer sup.\
-> This I, scouting alone, beheld,\
-> [Once, twice, and again!]{.i1}
+> As the dawn was breaking the Sambhur belled\\
+> [Once, twice, and again!]\\
+> And a doe leaped up⁠---and a doe leaped up\\
+> From the pond in the wood where the wild deer sup.\\
+> This I, scouting alone, beheld,\\
+> [Once, twice, and again!]
 >
-> As the dawn was breaking the Sambhur belled\
-> [Once, twice, and again!]{.i1}\
-> And a wolf stole back⁠---and a wolf stole back\
-> To carry the word to the waiting Pack;\
-> And we sought and we found and we bayed on his track\
-> [Once, twice, and again!]{.i1}
+> As the dawn was breaking the Sambhur belled\\
+> [Once, twice, and again!]\\
+> And a wolf stole back⁠---and a wolf stole back\\
+> To carry the word to the waiting Pack;\\
+> And we sought and we found and we bayed on his track\\
+> [Once, twice, and again!]
 >
-> As the dawn was breaking the Wolf-pack yelled\
-> [Once, twice, and again!]{.i1}\
-> Feet in the jungle that leave no mark!\
-> Eyes that can see in the dark⁠---the dark!\
-> Tongue⁠---give tongue to it! Hark! O Hark!\
-> [Once, twice, and again!]{.i1}
+> As the dawn was breaking the Wolf-pack yelled\\
+> [Once, twice, and again!]\\
+> Feet in the jungle that leave no mark!\\
+> Eyes that can see in the dark⁠---the dark!\\
+> Tongue⁠---give tongue to it! Hark! O Hark!\\
+> [Once, twice, and again!]

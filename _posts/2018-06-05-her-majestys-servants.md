@@ -4,9 +4,9 @@ title: Her Majesty's Servants
 chapter: 7
 ---
 
-> You can work it out by Fractions or by simple Rule of Three,\
-> But the way of Tweedle-dum is not the way of Tweedle-dee.\
-> You can twist it, you can turn it, you can plait it till you drop\
+> You can work it out by Fractions or by simple Rule of Three,\\
+> But the way of Tweedle-dum is not the way of Tweedle-dee.\\
+> You can twist it, you can turn it, you can plait it till you drop\\
 > But the way of Pilly-Winky's not the way of Winkie-Pop!
 
 It had been raining heavily for one whole month⁠---raining on a camp of thirty thousand men, thousands of camels, elephants, horses, bullocks, and mules, all gathered together at a place called Rawal Pindi, to be reviewed by the Viceroy of India. He was receiving a visit from the Amir of Afghanistan⁠---a wild king of a very wild country; and the Amir had brought with him for a bodyguard eight hundred men and horses who had never seen a camp or a locomotive before in their lives⁠---savage men and savage horses from somewhere at the back of Central Asia. Every night a mob of these horses would be sure to break their heel-ropes, and stampede up and down the camp through the mud in the dark, or the camels would break loose and run about and fall over the ropes of the tents, and you can imagine how pleasant that was for men trying to go to sleep.
@@ -321,11 +321,11 @@ The rain began to fall again, and for a while it was too misty to see what the t
 
 Unless you have been there you cannot imagine what a frightening effect this steady comedown of troops has on the spectators, even when they know it is only a review. I looked at the Amir. Up till then he had not shown the shadow of a sign of astonishment or anything else; but now his eyes began to get bigger and bigger, and he picked up the reins on his horse's neck and looked behind him. For a minute it seemed as though he were going to draw his sword and slash his way out through the English men and women in the carriages at the back. Then the advance stopped dead, the ground stood still, the whole line saluted, and thirty bands began to play all together. That was the end of the review, and the regiments went off to their camps in the rain; and an infantry band struck up with⁠---
 
-> The animals went in two by two,\
-> [Hurrah!]{.i1}\
-> The animals went in two by two,\
-> The elephant and the battery mul', and they all got into the Ark,\
-> [For to get out of the rain!]{.i1}
+> The animals went in two by two,\\
+> [Hurrah!]\\
+> The animals went in two by two,\\
+> The elephant and the battery mul', and they all got into the Ark,\\
+> [For to get out of the rain!]
 
 Then I heard an old, grizzled, long-haired Central Asian chief, who had come down with the Amir, asking questions of a native officer.
 
@@ -346,74 +346,74 @@ Parade-Song of the Camp Animals
 
 > Elephants of the Gun-Team
 >
-> We lent to Alexander the strength of Hercules,\
-> The wisdom of our foreheads, the cunning of our knees;\
-> We bowed our necks to service; they ne'er were loosed again⁠---\
-> Make way there, way for the ten-foot teams\
-> [Of the Forty-Pounder train!]{.i1}
+> We lent to Alexander the strength of Hercules,\\
+> The wisdom of our foreheads, the cunning of our knees;\\
+> We bowed our necks to service; they ne'er were loosed again⁠---\\
+> Make way there, way for the ten-foot teams\\
+> [Of the Forty-Pounder train!]
 
 > Gun-Bullocks
 >
-> Those heroes in their harnesses avoid a cannonball,\
-> And what they know of powder upsets them one and all;\
-> Then *we* come into action and tug the guns again⁠---\
-> Make way there, way for the twenty yoke\
-> [Of the Forty-Pounder train!]{.i1}
+> Those heroes in their harnesses avoid a cannonball,\\
+> And what they know of powder upsets them one and all;\\
+> Then *we* come into action and tug the guns again⁠---\\
+> Make way there, way for the twenty yoke\\
+> [Of the Forty-Pounder train!]
 
 > Cavalry Horses
 >
-> By the brand on my withers, the finest of tunes\
-> Is played by the Lancers, Hussars, and Dragoons,\
-> And it's sweeter than "Stables" or "Water" to me,\
-> The Cavalry Canter of "Bonnie Dundee"!\
-> Then feed us and break us and handle and groom,\
-> And give us good riders and plenty of room,\
-> And launch us in column of squadrons and see\
+> By the brand on my withers, the finest of tunes\\
+> Is played by the Lancers, Hussars, and Dragoons,\\
+> And it's sweeter than "Stables" or "Water" to me,\\
+> The Cavalry Canter of "Bonnie Dundee"!\\
+> Then feed us and break us and handle and groom,\\
+> And give us good riders and plenty of room,\\
+> And launch us in column of squadrons and see\\
 > The way of the warhorse to "Bonnie Dundee"!
 
 > Screw-Gun Mules
 >
-> As me and my companions were scrambling up a hill,\
-> The path was lost in rolling stones, but we went forward still;\
-> For we can wriggle and climb, my lads, and turn up everywhere,\
+> As me and my companions were scrambling up a hill,\\
+> The path was lost in rolling stones, but we went forward still;\\
+> For we can wriggle and climb, my lads, and turn up everywhere,\\
 > And it's our delight on a mountain height, with a leg or two to spare!
 >
-> Good luck to every sergeant, then, that lets us pick our road;\
-> Bad luck to all the driver-men that cannot pack a load:\
-> For we can wriggle and climb, my lads, and turn up everywhere,\
+> Good luck to every sergeant, then, that lets us pick our road;\\
+> Bad luck to all the driver-men that cannot pack a load:\\
+> For we can wriggle and climb, my lads, and turn up everywhere,\\
 > And it's our delight on a mountain height with a leg or two to spare!
 
 > Commissariat Camels
 >
-> We haven't a camelty tune of our own\
-> To help us trollop along,\
-> But every neck is a hairy trombone\
-> (*Rtt-ta-ta-ta!* is a hairy trombone!)\
-> And this is our marching song:\
->  *Can't! Don't! Shan't! Won't!* \
-> Pass it along the line!\
-> Somebody's pack has slid from his back,\
-> Wish it were only mine!\
-> Somebody's load has tipped off in the road⁠---\
-> Cheer for a halt and a row!\
->  *Urrr! Yarrh! Grr! Arrh!* \
+> We haven't a camelty tune of our own\\
+> To help us trollop along,\\
+> But every neck is a hairy trombone\\
+> (*Rtt-ta-ta-ta!* is a hairy trombone!)\\
+> And this is our marching song:\\
+>  *Can't! Don't! Shan't! Won't!* \\
+> Pass it along the line!\\
+> Somebody's pack has slid from his back,\\
+> Wish it were only mine!\\
+> Somebody's load has tipped off in the road⁠---\\
+> Cheer for a halt and a row!\\
+>  *Urrr! Yarrh! Grr! Arrh!* \\
 > Somebody's catching it now!
 
 > All the Beasts Together
 >
-> Children of the Camp are we,\
-> Serving each in his degree;\
-> Children of the yoke and goad,\
-> Pack and harness, pad and load.\
-> See our line across the plain,\
-> Like a heel-rope bent again.\
-> Reaching, writhing, rolling far,\
-> Sweeping all away to war!\
-> While the men that walk beside,\
-> Dusty, silent, heavy-eyed,\
-> Cannot tell why we or they\
-> March and suffer day by day.\
-> [ *Children of the Camp are we,* ]{.i1}\
-> [ *Serving each in his degree;* ]{.i1}\
-> [ *Children of the yoke and goad,* ]{.i1}\
-> [ *Pack and harness, pad and load.* ]{.i1}
+> Children of the Camp are we,\\
+> Serving each in his degree;\\
+> Children of the yoke and goad,\\
+> Pack and harness, pad and load.\\
+> See our line across the plain,\\
+> Like a heel-rope bent again.\\
+> Reaching, writhing, rolling far,\\
+> Sweeping all away to war!\\
+> While the men that walk beside,\\
+> Dusty, silent, heavy-eyed,\\
+> Cannot tell why we or they\\
+> March and suffer day by day.\\
+> [ *Children of the Camp are we,* ]\\
+> [ *Serving each in his degree;* ]\\
+> [ *Children of the yoke and goad,* ]\\
+> [ *Pack and harness, pad and load.* ]

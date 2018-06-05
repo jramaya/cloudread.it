@@ -5,14 +5,14 @@ chapter: 3
 ---
 
 
-> What of the hunting, hunter bold?\
-> [ *Brother, the watch was long and cold.* ]{.i1}\
-> What of the quarry ye went to kill?\
-> [ *Brother, he crops in the jungle still.* ]{.i1}\
-> Where is the power that made your pride?\
-> [ *Brother, it ebbs from my flank and side.* ]{.i1}\
-> Where is the haste that ye hurry by?\
-> [ *Brother, I go to my lair⁠---to die.* ]{.i1}
+> What of the hunting, hunter bold?\\
+> [ *Brother, the watch was long and cold.* ]\\
+> What of the quarry ye went to kill?\\
+> [ *Brother, he crops in the jungle still.* ]\\
+> Where is the power that made your pride?\\
+> [ *Brother, it ebbs from my flank and side.* ]\\
+> Where is the haste that ye hurry by?\\
+> [ *Brother, I go to my lair⁠---to die.* ]
 
 Now we must go back to the last tale but one. When Mowgli left the wolf's cave after the fight with the Pack at the Council Rock, he went down to the plowed lands where the villagers lived, but he would not stop there because it was too near to the jungle, and he knew that he had made at least one bad enemy at the Council. So he hurried on, keeping to the rough road that ran down the valley, and followed it at a steady jog-trot for nearly twenty miles, till he came to a country that he did not know. The valley opened out into a great plain dotted over with rocks and cut up by ravines. At one end stood a little village, and at the other the thick jungle came down in a sweep to the grazing-grounds, and stopped there as though it had been cut off with a hoe. All over the plain, cattle and buffaloes were grazing, and when the little boys in charge of the herds saw Mowgli they shouted and ran away, and the yellow pariah dogs that hang about every Indian village barked.
 Mowgli walked on, for he was feeling hungry, and when he came to the village gate he saw the big thorn-bush that was drawn up before the gate at twilight, pushed to one side.
@@ -268,57 +268,57 @@ But that is a story for grownups.
 Mowgli's Song [That He Sang at the Council Rock When He Danced on Shere Khan's Hide]{type="subtitle"}
 
 > The Song of Mowgli⁠---I, Mowgli, am singing. Let the jungle listen to
-> the things I have done.\
+> the things I have done.\\
 > Shere Khan said he would kill⁠---would kill! At the gates in the
-> twilight he would kill Mowgli, the Frog!\
+> twilight he would kill Mowgli, the Frog!\\
 > He ate and he drank. Drink deep, Shere Khan, for when wilt thou drink
-> again? Sleep and dream of the kill.\
+> again? Sleep and dream of the kill.\\
 > I am alone on the grazing-grounds. Gray Brother, come to me! Come to
-> me, Lone Wolf, for there is big game afoot.\
+> me, Lone Wolf, for there is big game afoot.\\
 > Bring up the great bull-buffaloes, the blue-skinned herd-bulls with
-> the angry eyes. Drive them to and fro as I order.\
+> the angry eyes. Drive them to and fro as I order.\\
 > Sleepest thou still, Shere Khan? Wake, O wake! Here come I, and the
-> bulls are behind.\
+> bulls are behind.\\
 > Rama, the King of the Buffaloes, stamped with his foot. Waters of the
-> Waingunga, whither went Shere Khan?\
+> Waingunga, whither went Shere Khan?\\
 > He is not Ikki to dig holes, nor Mao, the Peacock, that he should fly.
 > He is not Mang, the Bat, to hang in the branches. Little bamboos that
-> creak together, tell me where he ran?\
+> creak together, tell me where he ran?\\
 > *Ow!* He is there. *Ahoo!* He is there. Under the feet of Rama lies
 > the Lame One! Up, Shere Khan! Up and kill! Here is meat; break the
-> necks of the bulls!\
+> necks of the bulls!\\
 > *Hsh!* He is asleep. We will not wake him, for his strength is very
 > great. The kites have come down to see it. The black ants have come up
-> to know it. There is a great assembly in his honor.\
+> to know it. There is a great assembly in his honor.\\
 > *Alala!* I have no cloth to wrap me. The kites will see that I am
-> naked. I am ashamed to meet all these people.\
+> naked. I am ashamed to meet all these people.\\
 > Lend me thy coat, Shere Khan. Lend me thy gay striped coat that I may
-> go to the Council Rock.\
+> go to the Council Rock.\\
 > By the Bull that bought me I have made a promise⁠---a little promise.
-> Only thy coat is lacking before I keep my word.\
+> Only thy coat is lacking before I keep my word.\\
 > With the knife⁠---with the knife that men use⁠---with the knife of the
-> hunter, the man, I will stoop down for my gift.\
+> hunter, the man, I will stoop down for my gift.\\
 > Waters of the Waingunga, bear witness that Shere Khan gives me his
 > coat for the love that he bears me. Pull, Gray Brother! Pull, Akela!
-> Heavy is the hide of Shere Khan. Heavy is the hide of Shere Khan.\
+> Heavy is the hide of Shere Khan. Heavy is the hide of Shere Khan.\\
 > The Man Pack are angry. They throw stones and talk child's talk. My
-> mouth is bleeding. Let us run away.\
+> mouth is bleeding. Let us run away.\\
 > Through the night, through the hot night, run swiftly with me, my
 > brothers. We will leave the lights of the village and go to the low
-> moon.\
+> moon.\\
 > Waters of the Waingunga, the Man Pack have cast me out. I did them no
-> harm, but they were afraid of me. Why?\
+> harm, but they were afraid of me. Why?\\
 > Wolf Pack, ye have cast me out too. The jungle is shut to me and the
-> village gates are shut. Why?\
+> village gates are shut. Why?\\
 > As Mang flies between the beasts and the birds so fly I between the
-> village and the jungle. Why?\
+> village and the jungle. Why?\\
 > I dance on the hide of Shere Khan, but my heart is very heavy. My
 > mouth is cut and wounded with the stones from the village, but my
-> heart is very light because I have come back to the jungle. Why?\
+> heart is very light because I have come back to the jungle. Why?\\
 > These two things fight together in me as the snakes fight in the
 > spring. The water comes out of my eyes; yet I laugh while it falls.
-> Why?\
-> I am two Mowglis, but the hide of Shere Khan is under my feet.\
+> Why?\\
+> I am two Mowglis, but the hide of Shere Khan is under my feet.\\
 > All the jungle knows that I have killed Shere Khan. Look⁠---look well,
-> O Wolves!\
+> O Wolves!\\
 > *Ahae!* My heart is heavy with the things that I do not understand.
