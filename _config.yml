@@ -6,18 +6,18 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: The Last of the Mohicans
+title: The Jungle Book
 #email: your-email@domain.com
 description: >
-  The Last of the Mohicans, A Narrative of 1757 (1826) is a historical novel by James Fenimore Cooper. The novel is set primarily in the upper New York wilderness, detailing the transport of the two daughters of Colonel Munro, Alice and Cora, to a safe destination at Fort William Henry. 
+  The Jungle Book (1894) is a collection of stories by the English author Rudyard Kipling. Most of the characters are animals such as Shere Khan the tiger and Baloo the bear, though a principal character is the boy or "man-cub" Mowgli, who is raised in the jungle by wolves. The stories are set in a forest in India; one place mentioned repeatedly is "Seonee" (Seoni), in the central state of Madhya Pradesh.
 logo: "/assets/images/logo.jpg"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://thelastofthemohicans.cloudread.it" # the base hostname & protocol for your site
+url: "https://thejunglebook.cloudread.it" # the base hostname & protocol for your site
 paginate:	50 # The number of posts to show per page on your homepage
 permalink: /chapter/:title/
-name: 'James Fenimore Cooper'
+name: 'Rudyard Kipling'
 bio: >
-  James Fenimore Cooper (September 15, 1789 – September 14, 1851) was a prolific and popular American writer of the first half of the 19th century. His historical romances draw a picture of frontier and American Indian life in the early American days which created a unique form of American literature. He lived most of his life in Cooperstown, New York, which was founded by his father William on property that he owned. Cooper was a lifelong member of the Episcopal Church and contributed generously to it.
+  Joseph Rudyard Kipling (30 December 1865 – 18 January 1936) was an English journalist, short-story writer, poet, and novelist. Kipling's works of fiction include The Jungle Book (1894), Kim (1901), and many short stories, including "The Man Who Would Be King" (1888). His poems include "Mandalay" (1890), "Gunga Din" (1890), "The Gods of the Copybook Headings" (1919), "The White Man's Burden" (1899), and "If—" (1910). He is regarded as a major innovator in the art of the short story;
 author_image: "/assets/images/author.jpg"
 #twitter_username: jekyllrb
 #github_username:  jekyll
