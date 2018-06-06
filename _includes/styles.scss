@@ -18,7 +18,7 @@ $grey-color:       #828282;
 }
 
 amp-img {
-  background-color: grey;
+  background-color: white;
 }
 
 .cf {
@@ -38,9 +38,9 @@ $font-sans: "Helvetica Neue", 'Open Sans', Arial, Helvetica, sans-serif;
 
 @media (min-width: 700px) {
   article {
-    padding: 20px !important;
+    padding: 25px;
     box-shadow: 0px 0px 8px gray;
-    margin-bottom: 20px !important;
+    margin-bottom: 20px;
   }
   #sidebar {
     padding-right: 30px;
@@ -198,7 +198,7 @@ body {
   }
 
   article {
-    padding: 30px 0;
+    //padding: 30px 0;
     border-bottom: 1px solid #f2f2f0;
     &:last-child {
       border-bottom: 0px;
@@ -676,4 +676,11 @@ blockquote cite i{
 strong{
 	font-weight: normal;
 	font-variant: all-small-caps;
+}
+
+#menuCharacter{
+  font-size:20px;
+  margin:5px;
+  color:black;
+  width: 15%;
 }
