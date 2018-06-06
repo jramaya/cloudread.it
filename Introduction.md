@@ -4,131 +4,205 @@ title: Introduction
 permalink: /intro/
 ---
 
-It is believed that the scene of this tale, and most of the information
-necessary to understand its allusions, are rendered sufficiently obvious
-to the reader in the text itself, or in the accompanying notes. Still
-there is so much obscurity in the Indian traditions, and so much
-confusion in the Indian names, as to render some explanation useful.
+The Publishers of the Standard Novels, in selecting *Frankenstein* for
+one of their series, expressed a wish that I should furnish them with
+some account of the origin of the story. I am the more willing to
+comply, because I shall thus give a general answer to the question, so
+very frequently asked me⁠---"How I, when a young girl, came to think of,
+and to dilate upon, so very hideous an idea?" It is true that I am very
+averse to bringing myself forward in print; but as my account will only
+appear as an appendage to a former production, and as it will be
+confined to such topics as have connection with my authorship alone, I
+can scarcely accuse myself of a personal intrusion.
 
-Few men exhibit greater diversity, or, if we may so express it, greater
-antithesis of character, than the native warrior of North America. In
-war, he is daring, boastful, cunning, ruthless, self-denying, and
-self-devoted; in peace, just, generous, hospitable, revengeful,
-superstitious, modest, and commonly chaste. These are qualities, it is
-true, which do not distinguish all alike; but they are so far the
-predominating traits of these remarkable people as to be characteristic.
+It is not singular that, as the daughter of two persons of distinguished
+literary celebrity, I should very early in life have thought of writing.
+As a child I scribbled; and my favourite pastime, during the hours given
+me for recreation, was to "write stories." Still I had a dearer pleasure
+than this, which was the formation of castles in the air⁠---the
+indulging in waking dreams⁠---the following up trains of thought, which
+had for their subject the formation of a succession of imaginary
+incidents. My dreams were at once more fantastic and agreeable than my
+writings. In the latter I was a close imitator⁠---rather doing as others
+had done, than putting down the suggestions of my own mind. What I wrote
+was intended at least for one other eye⁠---my childhood's companion and
+friend; but my dreams were all my own; I accounted for them to nobody;
+they were my refuge when annoyed⁠---my dearest pleasure when free.
 
-It is generally believed that the Aborigines of the American continent
-have an Asiatic origin. There are many physical as well as moral facts
-which corroborate this opinion, and some few that would seem to weigh
-against it.
+I lived principally in the country as a girl, and passed a considerable
+time in Scotland. I made occasional visits to the more picturesque
+parts; but my habitual residence was on the blank and dreary northern
+shores of the Tay, near Dundee. Blank and dreary on retrospection I call
+them; they were not so to me then. They were the eyry of freedom, and
+the pleasant region where unheeded I could commune with the creatures of
+my fancy. I wrote then⁠---but in a most commonplace style. It was
+beneath the trees of the grounds belonging to our house, or on the bleak
+sides of the woodless mountains near, that my true compositions, the
+airy flights of my imagination, were born and fostered. I did not make
+myself the heroine of my tales. Life appeared to me too commonplace an
+affair as regarded myself. I could not figure to myself that romantic
+woes or wonderful events would ever be my lot; but I was not confined to
+my own identity, and I could people the hours with creations far more
+interesting to me at that age, than my own sensations.
 
-The color of the Indian, the writer believes, is peculiar to himself,
-and while his cheekbones have a very striking indication of a Tartar
-origin, his eyes have not. Climate may have had great influence on the
-former, but it is difficult to see how it can have produced the
-substantial difference which exists in the latter. The imagery of the
-Indian, both in his poetry and in his oratory, is oriental; chastened,
-and perhaps improved, by the limited range of his practical knowledge.
-He draws his metaphors from the clouds, the seasons, the birds, the
-beasts, and the vegetable world. In this, perhaps, he does no more than
-any other energetic and imaginative race would do, being compelled to
-set bounds to fancy by experience; but the North American Indian clothes
-his ideas in a dress which is different from that of the African, and is
-oriental in itself. His language has the richness and sententious
-fullness of the Chinese. He will express a phrase in a word, and he will
-qualify the meaning of an entire sentence by a syllable; he will even
-convey different significations by the simplest inflections of the
-voice.
+After this my life became busier, and reality stood in place of fiction.
+My husband, however, was from the first, very anxious that I should
+prove myself worthy of my parentage, and enrol myself on the page of
+fame. He was forever inciting me to obtain literary reputation, which
+even on my own part I cared for then, though since I have become
+infinitely indifferent to it. At this time he desired that I should
+write, not so much with the idea that I could produce anything worthy of
+notice, but that he might himself judge how far I possessed the promise
+of better things hereafter. Still I did nothing. Travelling, and the
+cares of a family, occupied my time; and study, in the way of reading,
+or improving my ideas in communication with his far more cultivated
+mind, was all of literary employment that engaged my attention.
 
-Philologists have said that there are but two or three languages,
-properly speaking, among all the numerous tribes which formerly occupied
-the country that now composes the United States. They ascribe the known
-difficulty one people have to understand another to corruptions and
-dialects. The writer remembers to have been present at an interview
-between two chiefs of the Great Prairies west of the Mississippi, and
-when an interpreter was in attendance who spoke both their languages.
-The warriors appeared to be on the most friendly terms, and seemingly
-conversed much together; yet, according to the account of the
-interpreter, each was absolutely ignorant of what the other said. They
-were of hostile tribes, brought together by the influence of the
-American government; and it is worthy of remark, that a common policy
-led them both to adopt the same subject. They mutually exhorted each
-other to be of use in the event of the chances of war throwing either of
-the parties into the hands of his enemies. Whatever may be the truth, as
-respects the root and the genius of the Indian tongues, it is quite
-certain they are now so distinct in their words as to possess most of
-the disadvantages of strange languages; hence much of the embarrassment
-that has arisen in learning their histories, and most of the uncertainty
-which exists in their traditions.
+In the summer of 1816, we visited Switzerland, and became the neighbours
+of Lord Byron. At first we spent our pleasant hours on the lake, or
+wandering on its shores; and Lord Byron, who was writing the third canto
+of *Childe Harold*, was the only one among us who put his thoughts upon
+paper. These, as he brought them successively to us, clothed in all the
+light and harmony of poetry, seemed to stamp as divine the glories of
+heaven and earth, whose influences we partook with him.
 
-Like nations of higher pretensions, the American Indian gives a very
-different account of his own tribe or race from that which is given by
-other people. He is much addicted to overestimating his own perfections,
-and to undervaluing those of his rival or his enemy; a trait which may
-possibly be thought corroborative of the Mosaic account of the creation.
+But it proved a wet, ungenial summer, and incessant rain often confined
+us for days to the house. Some volumes of ghost stories, translated from
+the German into French, fell into our hands. There was the *History of
+the Inconstant Lover*, who, when he thought to clasp the bride to whom
+he had pledged his vows, found himself in the arms of the pale ghost of
+her whom he had deserted. There was the tale of the sinful founder of
+his race, whose miserable doom it was to bestow the kiss of death on all
+the younger sons of his fated house, just when they reached the age of
+promise. His gigantic, shadowy form, clothed like the ghost in *Hamlet*,
+in complete armour, but with the beaver up, was seen at midnight, by the
+moon's fitful beams, to advance slowly along the gloomy avenue. The
+shape was lost beneath the shadow of the castle walls; but soon a gate
+swung back, a step was heard, the door of the chamber opened, and he
+advanced to the couch of the blooming youths, cradled in healthy sleep.
+Eternal sorrow sat upon his face as he bent down and kissed the forehead
+of the boys, who from that hour withered like flowers snapt upon the
+stalk. I have not seen these stories since then; but their incidents are
+as fresh in my mind as if I had read them yesterday.
 
-The whites have assisted greatly in rendering the traditions of the
-Aborigines more obscure by their own manner of corrupting names. Thus,
-the term used in the title of this book has undergone the changes of
-Mahicanni, Mohicans, and Mohegans; the latter being the word commonly
-used by the whites. When it is remembered that the Dutch (who first
-settled New York), the English, and the French, all gave appellations to
-the tribes that dwelt within the country which is the scene of this
-story, and that the Indians not only gave different names to their
-enemies, but frequently to themselves, the cause of the confusion will
-be understood.
+"We will each write a ghost story," said Lord Byron; and his proposition
+was acceded to. There were four of us. The noble author began a tale, a
+fragment of which he printed at the end of his poem of *Mazeppa*.
+Shelley, more apt to embody ideas and sentiments in the radiance of
+brilliant imagery, and in the music of the most melodious verse that
+adorns our language, than to invent the machinery of a story, commenced
+one founded on the experiences of his early life. Poor Polidori had some
+terrible idea about a skull-headed lady, who was so punished for peeping
+through a keyhole⁠---what to see I forget⁠---something very shocking and
+wrong of course; but when she was reduced to a worse condition than the
+renowned Tom of Coventry, he did not know what to do with her, and was
+obliged to despatch her to the tomb of the Capulets, the only place for
+which she was fitted. The illustrious poets also, annoyed by the
+platitude of prose, speedily relinquished their uncongenial task.
 
-In these pages, Lenni-Lenape, Lenope, Delawares, Wapanachki, and
-Mohicans, all mean the same people, or tribes of the same stock. The
-Mengwe, the Maquas, the Mingoes, and the Iroquois, though not all
-strictly the same, are identified frequently by the speakers, being
-politically confederated and opposed to those just named. Mingo was a
-term of peculiar reproach, as were Mengwe and Maqua in a less degree.
+I busied myself *to think of a story*⁠---a story to rival those which
+had excited us to this task. One which would speak to the mysterious
+fears of our nature, and awaken thrilling horror⁠---one to make the
+reader dread to look round, to curdle the blood, and quicken the
+beatings of the heart. If I did not accomplish these things, my ghost
+story would be unworthy of its name. I thought and pondered⁠---vainly. I
+felt that blank incapability of invention which is the greatest misery
+of authorship, when dull Nothing replies to our anxious invocations.
+*Have you thought of a story?* I was asked each morning, and each
+morning I was forced to reply with a mortifying negative.
 
-The Mohicans were the possessors of the country first occupied by the
-Europeans in this portion of the continent. They were, consequently, the
-first dispossessed; and the seemingly inevitable fate of all these
-people, who disappear before the advances, or it might be termed the
-inroads, of civilization, as the verdure of their native forests falls
-before the nipping frosts, is represented as having already befallen
-them. There is sufficient historical truth in the picture to justify the
-use that has been made of it.
+Everything must have a beginning, to speak in Sanchean phrase; and that
+beginning must be linked to something that went before. The Hindus give
+the world an elephant to support it, but they make the elephant stand
+upon a tortoise. Invention, it must be humbly admitted, does not consist
+in creating out of void, but out of chaos; the materials must, in the
+first place, be afforded: it can give form to dark, shapeless
+substances, but cannot bring into being the substance itself. In all
+matters of discovery and invention, even of those that appertain to the
+imagination, we are continually reminded of the story of Columbus and
+his egg. Invention consists in the capacity of seizing on the
+capabilities of a subject, and in the power of moulding and fashioning
+ideas suggested to it.
 
-In point of fact, the country which is the scene of the following tale
-has undergone as little change, since the historical events alluded to
-had place, as almost any other district of equal extent within the whole
-limits of the United States. There are fashionable and well-attended
-watering-places at and near the spring where Hawkeye halted to drink,
-and roads traverse the forests where he and his friends were compelled
-to journey without even a path. Glen's has a large village; and while
-William Henry, and even a fortress of later date, are only to be traced
-as ruins, there is another village on the shores of the Horican. But,
-beyond this, the enterprise and energy of a people who have done so much
-in other places have done little here. The whole of that wilderness, in
-which the latter incidents of the legend occurred, is nearly a
-wilderness still, though the red man has entirely deserted this part of
-the state. Of all the tribes named in these pages, there exist only a
-few half-civilized beings of the Oneidas, on the reservations of their
-people in New York. The rest have disappeared, either from the regions
-in which their fathers dwelt, or altogether from the earth.
+Many and long were the conversations between Lord Byron and Shelley, to
+which I was a devout but nearly silent listener. During one of these,
+various philosophical doctrines were discussed, and among others the
+nature of the principle of life, and whether there was any probability
+of its ever being discovered and communicated. They talked of the
+experiments of Dr. Darwin, (I speak not of what the Doctor really did,
+or said that he did, but, as more to my purpose, of what was then spoken
+of as having been done by him,) who preserved a piece of vermicelli in a
+glass case, till by some extraordinary means it began to move with
+voluntary motion. Not thus, after all, would life be given. Perhaps a
+corpse would be reanimated; galvanism had given token of such things:
+perhaps the component parts of a creature might be manufactured, brought
+together, and endued with vital warmth.
 
-There is one point on which we would wish to say a word before closing
-this preface. Hawkeye calls the Lac du Saint Sacrement, the "Horican."
-As we believe this to be an appropriation of the name that has its
-origin with ourselves, the time has arrived, perhaps, when the fact
-should be frankly admitted. While writing this book, fully a quarter of
-a century since, it occurred to us that the French name of this lake was
-too complicated, the American too commonplace, and the Indian too
-unpronounceable, for either to be used familiarly in a work of fiction.
-Looking over an ancient map, it was ascertained that a tribe of Indians,
-called "Les Horicans" by the French, existed in the neighborhood of this
-beautiful sheet of water. As every word uttered by Natty Bumppo was not
-to be received as rigid truth, we took the liberty of putting the
-"Horican" into his mouth, as the substitute for "Lake George." The name
-has appeared to find favor, and all things considered, it may possibly
-be quite as well to let it stand, instead of going back to the House of
-Hanover for the appellation of our finest sheet of water. We relieve our
-conscience by the confession, at all events leaving it to exercise its
-authority as it may see fit.
+Night waned upon this talk, and even the witching hour had gone by,
+before we retired to rest. When I placed my head on my pillow, I did not
+sleep, nor could I be said to think. My imagination, unbidden, possessed
+and guided me, gifting the successive images that arose in my mind with
+a vividness far beyond the usual bounds of reverie. I saw⁠---with shut
+eyes, but acute mental vision⁠---I saw the pale student of unhallowed
+arts kneeling beside the thing he had put together. I saw the hideous
+phantasm of a man stretched out, and then, on the working of some
+powerful engine, show signs of life, and stir with an uneasy, half vital
+motion. Frightful must it be; for supremely frightful would be the
+effect of any human endeavour to mock the stupendous mechanism of the
+Creator of the world. His success would terrify the artist; he would
+rush away from his odious handywork, horror-stricken. He would hope
+that, left to itself, the slight spark of life which he had communicated
+would fade; that this thing, which had received such imperfect
+animation, would subside into dead matter; and he might sleep in the
+belief that the silence of the grave would quench forever the transient
+existence of the hideous corpse which he had looked upon as the cradle
+of life. He sleeps; but he is awakened; he opens his eyes; behold the
+horrid thing stands at his bedside, opening his curtains, and looking on
+him with yellow, watery, but speculative eyes.
+
+I opened mine in terror. The idea so possessed my mind, that a thrill of
+fear ran through me, and I wished to exchange the ghastly image of my
+fancy for the realities around. I see them still; the very room, the
+dark parquet, the closed shutters, with the moonlight struggling
+through, and the sense I had that the glassy lake and white high Alps
+were beyond. I could not so easily get rid of my hideous phantom; still
+it haunted me. I must try to think of something else. I recurred to my
+ghost story⁠---my tiresome unlucky ghost story! O! if I could only
+contrive one which would frighten my reader as I myself had been
+frightened that night!
+
+Swift as light and as cheering was the idea that broke in upon me. "I
+have found it! What terrified me will terrify others; and I need only
+describe the spectre which had haunted my midnight pillow." On the
+morrow I announced that I had *thought of a story*. I began that day
+with the words, *It was on a dreary night of November*, making only a
+transcript of the grim terrors of my waking dream.
+
+At first I thought but of a few pages⁠---of a short tale; but Shelley
+urged me to develop the idea at greater length. I certainly did not owe
+the suggestion of one incident, nor scarcely of one train of feeling, to
+my husband, and yet but for his incitement, it would never have taken
+the form in which it was presented to the world. From this declaration I
+must except the preface. As far as I can recollect, it was entirely
+written by him.
+
+And now, once again, I bid my hideous progeny go forth and prosper. I
+have an affection for it, for it was the offspring of happy days, when
+death and grief were but words, which found no true echo in my heart.
+Its several pages speak of many a walk, many a drive, and many a
+conversation, when I was not alone; and my companion was one who, in
+this world, I shall never see more. But this is for myself; my readers
+have nothing to do with these associations.
+
+I will add but one word as to the alterations I have made. They are
+principally those of style. I have changed no portion of the story, nor
+introduced any new ideas or circumstances. I have mended the language
+where it was so bald as to interfere with the interest of the narrative;
+and these changes occur almost exclusively in the beginning of the first
+volume. Throughout they are entirely confined to such parts as are mere
+adjuncts to the story, leaving the core and substance of it untouched.
+
+M. W. S.
+
+London, October 15, 1831.
 :::
