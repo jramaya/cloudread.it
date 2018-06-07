@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The People Formerly Known as the Audience
+chapter: 2
 ---
 
 That's what I call them. Recently I received this statement. The people formerly known as the audience wish to inform media people of our existence, and of a shift in power that goes with the platform shift you've all heard about. 

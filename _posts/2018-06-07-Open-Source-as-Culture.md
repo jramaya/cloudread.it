@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Open Source as Culture, Culture as Open Source 
+title: Open Source as Culture, Culture as Open Source
+chapter: 4
 ---
 
 The "open source" way of doing things is all the rage. Companies as powerful and established as IBM boast of using Linux operating systems in its servers. Publications as conservative as The Economist have pronounced open-source methods "successful" and have pondered their applicability to areas of research and development as different from software as pharmaceutical research. 1 
