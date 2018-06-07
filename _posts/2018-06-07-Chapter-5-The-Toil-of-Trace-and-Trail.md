@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Chapter 5: The Toil of Trace and Trail'
+chapter: 5
 ---
 
 Thirty days from the time it left Dawson, the Salt Water Mail, with Buck

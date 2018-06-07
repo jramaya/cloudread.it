@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Chapter 7: The Sounding of the Call'
+chapter: 7
 ---
 
 When Buck earned sixteen hundred dollars in five minutes for John

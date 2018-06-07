@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Chapter 2: The Law of Club and Fang'
+chapter: 2
 ---
 
 Buck's first day on the Dyea beach was like a nightmare. Every hour was

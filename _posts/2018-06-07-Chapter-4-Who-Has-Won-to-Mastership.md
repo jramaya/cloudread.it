@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Chapter 4: Who Has Won to Mastership'
+chapter: 4
 ---
 
 "Eh? Wot I say? I spik true w'en I say dat Buck two devils." This was

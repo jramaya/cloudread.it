@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Chapter 6: For the Love of a Man'
+chapter: 6
 ---
 
 When John Thornton froze his feet in the previous December his partners

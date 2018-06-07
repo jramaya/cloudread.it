@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Chapter 1: Into the Primitive'
+chapter: 1
 ---
 
 Buck did not read the newspapers, or he would have known that trouble

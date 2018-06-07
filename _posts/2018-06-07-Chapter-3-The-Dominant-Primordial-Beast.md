@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Chapter 3: The Dominant Primordial Beast'
+chapter: 3
 ---
 
 The dominant primordial beast was strong in Buck, and under the fierce
