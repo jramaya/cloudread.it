@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Chapter I - INTRODUCING MARKETING
+chapter: 1
 excerpt_separator: <!--more-->
 ---
 
