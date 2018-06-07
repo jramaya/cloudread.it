@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Lesson I The Master Mind Part 4
+chapter: 5
 published: true
 categories: Napoleon Hill, success, personal success, Think and Grow Rich, achievement, empowerment, accomplishment, 16 laws of success, law attraction, law of abundance, law of attraction, law of attraction book, law of attraction quotes, laws of attraction, laws of success, law of success, napolean hill, napoleon hill books, napoleon hill quotes, secret of success, the law of attraction, the law of success, the laws of attraction, the science of getting rich, the secret law of attraction, the secret movie, what is the secret
 excerpt_separator: <!--more-->
