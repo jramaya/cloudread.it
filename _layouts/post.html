@@ -12,8 +12,14 @@ layout: default
       {{content}}
     </section>
     <footer class="post-footer">
+        <section class="share">
+            <a on="tap:SlideIn.start">Share on</a>
+          </section>
+
       <section class="share">
-        <a on="tap:SlideIn.start">Share on</a>
+          {% assign chapterNumber = page.chapter | plus: '1' %}
+          {% assign nextChapter = site.posts | where: 'chapter',  chapterNumber | first %}
+        <a href="{{nextChapter.url}}">&raquo; {{nextChapter.title }}</a>
       </section>
     </footer>
     <div class="bottom-teaser cf">
