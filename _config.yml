@@ -8,6 +8,7 @@
 # Site settings
 title: The Social Media Reader
 #email: your-email@domain.com
+hreflang: en-US
 description: >
   With the rise of web 2.0 and social media platforms taking over vast tracts of territory on the internet, the media landscape has shifted drastically in the past 20 years, transforming previously stable relationships between media creators and consumers. The Social Media Reader is the first collection to address the collective transformation with pieces on social media, peer production, copyright politics, and other aspects of contemporary internet culture from all the major thinkers in the field. 
 logo: "/assets/images/logo.jpg"
