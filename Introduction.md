@@ -16,7 +16,7 @@ Están escritos y describen con detalle, y , aunque muchas de ellas parecen hast
 Dentro de los puntos que se tratan en el libro estan los siguientes… 
 
 No tan obsoletos…
-=================
+-----------------
 
 * Comerse las uñas 
 * Masticar chicle mientras se habla 
@@ -27,7 +27,7 @@ No tan obsoletos…
 * Comer haciendo ruidos exagerados… 
 
 Estos otros son mas cómicos y exagerados:
-========================================
+-----------------------------------------
 
 * Ponerse Rouge (labial) en la mesa después de almorzar 
 * Molestar a alguien de gordo sólo porque usted está a dieta 
