@@ -8,6 +8,7 @@
 # Site settings
 title: Frankeinstein
 #email: your-email@domain.com
+hreflang: en-US
 description: >
   Frankenstein; or, The Modern Prometheus is a novel written by English author Mary Shelley (1797–1851) that tells the story of Victor Frankenstein, a young scientist who creates a grotesque but sapient creature in an unorthodox scientific experiment.
 logo: "/assets/images/logo.jpg"
