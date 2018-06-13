@@ -6,19 +6,19 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Frankeinstein
+title: MANUAL DE URBANIDAD Y BUENAS MANERAS
 #email: your-email@domain.com
-hreflang: en-US
+hreflang: es-ES
 description: >
-  Frankenstein; or, The Modern Prometheus is a novel written by English author Mary Shelley (1797–1851) that tells the story of Victor Frankenstein, a young scientist who creates a grotesque but sapient creature in an unorthodox scientific experiment.
+  l Manual de urbanidad y buenas maneras o Manual de Carreño, fue escrito por Manuel Antonio Carreño en Venezuela en 1853. Esta obra contiene "lecciones y consejos" sobre cómo deben comportarse las personas en lugares públicos y privados tales como el hogar, la familia, la escuela y el trabajo.
 logo: "/assets/images/logo.jpg"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://frankenstein.cloudread.it" # the base hostname & protocol for your site
+url: "https://manualdeurbanidad.cloudread.it" # the base hostname & protocol for your site
 paginate:	50 # The number of posts to show per page on your homepage
 permalink: /chapter/:title/
-name: 'Mary Shelley'
+name: 'Manuel A. Carreño'
 bio: >
-    Mary Wollstonecraft Shelley (née Godwin; 30 August 1797 – 1 February 1851) was an English novelist, short story writer, dramatist, essayist, biographer, and travel writer, best known for her Gothic novel Frankenstein or, The Modern Prometheus (1818). She also edited and promoted the works of her husband, the Romantic poet and philosopher Percy Bysshe Shelley. Her father was the political philosopher William Godwin, and her mother was the philosopher and feminist Mary Wollstonecraft.
+    Manuel Antonio del Rosario Carreño Muñoz (Caracas, 17 de junio de 1812 - París, 4 de septiembre de 1874) fue un músico, pedagogo y diplomático venezolano.
 author_image: "/assets/images/author.jpg"
 #twitter_username: jekyllrb
 #github_username:  jekyll
