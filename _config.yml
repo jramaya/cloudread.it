@@ -8,6 +8,7 @@
 # Site settings
 title: Introducing Marketing
 #email: your-email@domain.com
+hreflang: en-US
 description: >
   This book demonstrates how companies use marketing. Specific examples appear not only in text discussions, but also in the chapter openers, Learning is not always about success stories. Diagnosing problems and failures is an important aspect of critical thinking, and examples of such are introduced to challenge students to learn from others' mistakes and better manage real-world problems.
 logo: "/assets/images/logo.jpg"
