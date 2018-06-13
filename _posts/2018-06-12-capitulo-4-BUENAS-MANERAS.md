@@ -192,9 +192,9 @@ cuando se cante en el coro el incarnatus, nos arrodillaremos de la misma manera,
 
 19.   Por regla general, cuando asistimos a Oficios funerarios o a cualquiera otra función en que nos situemos al lado de un asiento, conservaremos siempre la misma actitud que tomen los eclesiásticos que canten en el coro. Sería un acto no menos incivil que irreverente, el mantenernos de pie o sentados, cuando aquéllos permanecen arrodillados o de pie.
 
-20.   Cuando estemos de pie mantengamos el cuerpo recto, sin descansarlo nunca de un lado; y cuando estemos sentados, guardémonos de recostar la cabeza sobre el espaldar del asiento, de extender, y cruzar las piernas, y de tomar, en fin ninguna posición que de alguna manera desdiga de la severa circunspección que debe presidir siempre en el tem- ![](index-110_1.png){.yflip}
+20.   Cuando estemos de pie mantengamos el cuerpo recto, sin descansarlo nunca de un lado; y cuando estemos sentados, guardémonos de recostar la cabeza sobre el espaldar del asiento, de extender, y cruzar las piernas, y de tomar, en fin ninguna posición que de alguna manera desdiga de la severa circunspección que debe presidir siempre en el tempío a todas nuestras acciones.
 
-pío a todas nuestras acciones.
+<amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-110_1.png" layout="intrinsic" width="560" height="581"></amp-img>
 
 21.   Cuando lleguemos a un país extranjero, y queramos visitar un templo, no lo hagamos a horas en que se celebre en él una festividad, o un acto cualquiera para el cual se hayan congregado muchas personas.
 
@@ -242,7 +242,7 @@ IV
 
 10.   El que pierde una cuestión debe dar una prueba de cultura, y de respeto a la mayoría, manifestándose, si no contento y satisfecho, por lo menos resignado y tranquilo, y con un continente que revele una calma superior a los sentimientos mezquinos de un necio e impotente orgullo.  
 
-**V** {#index_split_012.html#calibre_pb_11 .calibre3}
+**V** 
 -----
 
 *Del modo de conducirnos en los espectáculos*
@@ -295,7 +295,7 @@ Cuando el artista llega a desagradar al auditorio, ha experimentado ya la mayor 
 
 Esta, a más de ser ajena de las personas cultas, viene a ser un acto de verdadera crueldad, cuando se ejerce contra aquél en quien no puede suponerse otro deseo que el de agradar.
 
-20.   Cuando durante los intervalos visitemos a las señoras de nuestra amistad que se encuentran en los palcos, no cometeremos la incivilidad de permanecer por largo tiempo en el asiento que un caballero nos haya cedido para. que hagamos cómodamente ![](index-117_1.png){.yflip}
+20.   Cuando durante los intervalos visitemos a las señoras de nuestra amistad que se encuentran en los palcos, no cometeremos la incivilidad de permanecer por largo tiempo en el asiento que un caballero nos haya cedido para. que hagamos cómodamente <amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-117_1.png" alt="Chapter 1" title="Chapter 1" layout="intrinsic" width="569" height="406"></amp-img>
 
 nuestra visita; debiendo prolongar ésta lo menos posible, y retirándonos, sobre todo, en el momento en que se dé la señal de que la función va a continuar.
 
@@ -335,7 +335,7 @@ Aquellos que tal hacen,. incurren en una imperdonable falta de respeto, y manifi
 
 13.  No es tan riguroso este acto de cortesía en el elevador de otros edificios públicos, en los que este medio de trasporte puede equipararse a un tranvía, donde nunca nos descubrimos aun cuado en él viajen señoras. Sin embargo, es recomendable hacerlo para el caballero que vaya acompañando a una dama. (N del E.).  
 
-**VII** {#index_split_013.html#calibre_pb_12 .calibre3}
+**VII** 
 -------
 
 *Del modo de conducirnos en los viajes*
@@ -364,7 +364,7 @@ Aquellos que tal hacen,. incurren en una imperdonable falta de respeto, y manifi
 
 12.   Terminado un viaje, cesa enteramente la comunicación en que durante él hayan estado las personas entre sí desconocidas; y en los lugares en que más adelante se encontraren, toca a las señoras autorizar con una mirada el saludo de los caballeros, y a los superiores el de los inferiores.
 
-13.   En los coches del ferrocarril, los asientos más cómodos son aquellos que permiten al viajero mirar naturalmente en la misma dirección en que el tren marcha, y de las dos localidades en que se divide cada asiento, es mejor aquella que está junto a ![](index-122_1.png){.yflip}
+13.   En los coches del ferrocarril, los asientos más cómodos son aquellos que permiten al viajero mirar naturalmente en la misma dirección en que el tren marcha, y de las dos localidades en que se divide cada asiento, es mejor aquella que está junto a <amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-122_1.png" alt="Chapter 1" title="Chapter 1" layout="intrinsic" width="569" height="406"></amp-img>
 
 la ventanilla. En los coches dormitorios, el billete de cama baja da derecho a ocupar el asiento preferente.
 

@@ -80,7 +80,7 @@ chapter: 4
 
 38.   Procuremos, pues, aprender a conocer el mérito real de la educación, para no tomar por modelo a personas indignas, no sólo de elección tan honorífica, sino de obtener nuestra amistad y las consideraciones especiales que tan sólo se deben a los hombres de bien.
 
-![](index-43_1.png)
+<amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-43_1.png" alt="Chapter 1" title="Chapter 1" layout="intrinsic" width="557" height="218"></amp-img>
 
 39.   Pero tengamos entendido que en ningún caso nos será lícito faltar a las reglas más generales de la civilidad, respecto de las personas que no gozan de buen concepto público, ni menos de aquellas que, gozándolo, no merezcan sin embargo nuestra personal consideración. La benevolencia, la generosidad y nuestra propia dignidad, nos prohíben mortificar jamás a nadie; y cuando estamos en sociedad, nos lo prohíbe también el respeto que debemos a las demás personas que la componen.
 

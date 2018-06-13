@@ -12,7 +12,7 @@ chapter: 5
 
 3.   Nada hay, por otra parte, que comunique mayor grado de belleza y elegancia a cuanto nos concierne, que el aseo y la limpieza Nuestras personas, nuestros vestidos, nuestra habitación y todos nuestros actos, se hacen siempre agradables a los que nos rodean, y nos atraen su estimación y aun su cariño, cuando todo lo encuentra presidido por ese espíritu de pulcritud que la misma naturaleza ha querido imprimir en nuestras costumbres, para ahorrarnos sensaciones ingratas y proporcionarnos goces y placeres.
 
-![](index-45_1.png)
+<amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-45_1.png" alt="Chapter 1" title="Chapter 1" layout="intrinsic" width="569" height="406"></amp-img>
 
 4.   Los hábitos del aseo revelan además hábitos de orden, de exactitud y de método en los demás actos de la vida; porque no puede suponerse que se practiquen diariamente las operaciones que son indispensables para llenar todas las condiciones del aseo, las cuales requieren cierto orden y método y una juiciosa economía de tiempo, sin que exista una disposición constante a proceder de la misma manera en todo lo demás.
 
@@ -80,7 +80,7 @@ inequívoco de un descuido general en materia de aseo.
 26.   Procuraremos no emplear en otros usos el pañuelo que destinemos para sonarnos; llevando siempre con nosotros, si no nos es absolutamente imposible, otro pañuelo que aplicaremos a enjugarnos el sudor y a los demás usos que pueden ocurrirnos.
 
 27.   No usemos más que una sola cara del pañuelo destinado a sonarnos.
-Cuando se emplean ambas indiferentemente, es imposible conservar las manos aseadas. Pero téngase presente que es sobre manera ridículo llevar el pañuelo, como lo hacen algunas personas para evitar aquel mal, con los mismos dobleces con que se plancha, abriéndolo cuidadosamente por un lado para sonarse, y volviéndolo a doblar para guardarlo. ![](index-51_1.png)
+Cuando se emplean ambas indiferentemente, es imposible conservar las manos aseadas. Pero téngase presente que es sobre manera ridículo llevar el pañuelo, como lo hacen algunas personas para evitar aquel mal, con los mismos dobleces con que se plancha, abriéndolo cuidadosamente por un lado para sonarse, y volviéndolo a doblar para guardarlo. <amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-51_1.png" alt="Chapter 1" title="Chapter 1" layout="intrinsic" width="569" height="406"></amp-img>
 
 28.   Hay quienes contraen el horrible hábito de observar atentamente el pañuelo después de haberse sonado. Ni ésta ni ninguna otra operación está permitida, en un acto que apenas hace tolerable una imprescindible e imperiosa necesidad.
 
@@ -161,8 +161,8 @@ siempre, y con razón, imputada a nosotros.
 
 18.   Si hemos vivido como personas finas y delicadas, los que entren a habitar la casa que desocupamos, no necesitarán de asearla; y si hubieren de repararla, no será por cierto a consecuencia de daños que nosotros hayamos causado.  
 
-**V** {#index_split_006.html#calibre_pb_5 .calibre3}
------
+**V**
+-----fa
 
 *Del aseo para con los demás*
 
@@ -235,7 +235,7 @@ los petates y alfombras con que los encuentran cubiertos.
 
 31.   En general, tratemos siempre con extremada delicadeza todos los muebles, alhajas y objetos de adorno de las casas ajenas; evitando en todo lo posible el tocarlos con nuestras manos,, pues esto se opone a su estado de limpieza, y cuando menos, a su brillo y hermosura.
 
-![](index-64_1.png)
+<amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-64_1.png" alt="Chapter 2" title="Chapter 2" layout="intrinsic" width="566" height="269"></amp-img>
 
 32.   Si es un acto de desaseo el tomar en la boca la pluma de escribir de nuestro uso, con mayor razón lo será el hacer esto con la pluma del ajeno bufete.
 

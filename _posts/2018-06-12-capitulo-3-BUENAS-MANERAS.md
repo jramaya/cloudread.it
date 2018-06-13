@@ -39,14 +39,14 @@ chapter: 6
 16.   Pero tengamos siempre muy presente que el exceso en el método, como en todo lo demás, viene a ser también un mal del que debemos apartarnos cuidadosamente. Es insoportable el trato con las personas que tienen sometidas a severas reglas las más insignificantes operaciones de la vida, especialmente el de aquéllas a quienes ninguna consideración social, ni accidente alguno, por grave que sea, las hace alterar nunca una sola de sus costumbres. Y es bien digno de notarse que los que así
 se conducen, son por lo regular personas tercas, caprichosas, y de un carácter duro e intolerante. 
 
-![](index-69_1.png){.yflip}
+<amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-69_1.png" alt="Chapter 3" title="Chapter 3" layout="intrinsic" width="555" height="203"></amp-img>
 
 17.   En la mujer es el método acaso más importante que en el hombre; pues a más de serle a ella aplicables todas las observaciones que preceden, su destino la llama a ciertas funciones especiales, en que necesariamente ha de ser el método su principal guía, so pena de acarrear a su familia una multitud de males de alta trascendencia: Hablamos del gobierno de la casa, de la inmediata dirección de los negocios domésticos, de la diaria inversión del dinero, y del grave y delicado encargo de la primera educación de los hijos, de que depende en gran parte la suerte de éstos y de la sociedad entera.
 
 18--- La mujer desordenada ofrecerá, en cuanto la rodea, el mismo cuadro que ofrece el hombre desordenado, con todas las desagradables consecuencias sociales que hemos apuntado. Pero ella no quedará en esto sólo; porque comunicando su espíritu de desorden a todo el interior de su casa, al desperdicio del tiempo se seguirá el desperdicio del dinero.
 al mayor gasto ¡os mayores empeños, y a los empeños la ruina de la hacienda. Además, como las costumbres de la madre de familia se transmiten directamente a los hijos, por ser en su regazo donde pasan aquellos años en que se graban más fácilmente las impresiones, sus malos ejemplos dejarán en ellos resabios inextinguibles, y sus hijas, sobre todo, que su vez llegarán también a ser madres de familia, llevarán en sus hábitos del desorden, el germen del empobrecimiento y de la desgracia.  
 
-**II** {#index_split_007.html#calibre_pb_6 .calibre3}
+**II** 
 ------
 
 *Del acto de acostarnos, y de nuestros deberes*
@@ -153,7 +153,7 @@ IV
 
 4.  Las mujeres deben procurar no estar desaliñadas dentro de su casa ni aun para ejecutar las labores domésticas. Se pueden usar vestidos o slacks apropiados pero siempre con elegancia y buen gusto que no reside en el lujo de la ropa sino en. la sobriedad y apropiada combinación de colores.
 
-![](index-79_1.png)
+<amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-79_1.png" layout="intrinsic" width="548" height="324"></amp-img>
 
 5.   La ropa para dormir debe seguir las mismas reglas anteriores. Su finura depende de las posibilidades económicas de las personas, no así
 su gracia y limpieza.
@@ -170,7 +170,7 @@ como es tan fácil que nos sorprenda una visita de etiqueta en momentos en que r
 
 10.   También debe ser objeto de nuestros cuidados el vestido que han de usar dentro de la casa los niños que nos pertenecen, no permitiendo jamás que permanezcan desnudos ni andrajosos. Cuando vemos a un niño en este estado, no nos ocurre ni puede ocurrirnos ningún cargo que hacer a aquel inocente; pero sí formamos desde luego una idea bien desventajosa de la educación de su familia.  
 
-**V** {#index_split_008.html#calibre_pb_7 .calibre3}
+**V**
 -----
 
 *Del arreglo interior de la casa*
@@ -207,7 +207,7 @@ Expliquémosles nuestras aficiones y necesidades y seguramente nuestra casa ser�
 
 14.   Mas esto no quiere decir que cuando las casas se hallan habitadas sólo por hombres, estén dispensados de los cuidados que exige el orden, pues la necesidad que los obliga a prescindir de los oficio de la mujer los pone igualmente en el caso de des empeñarlos por sí mismos.  
 
-**VI** {#index_split_009.html#calibre_pb_8 .calibre3}
+**VI**
 ------
 
 *De la paz doméstica*
@@ -239,7 +239,7 @@ Y la tolerancia, en fin, que todos se deben entre sí, hará expirar en el seno 
 
 12.   Piense, por último, la mujer, que a ella le está encomendado muy especialmente el precioso tesoro de la paz doméstica. Los cuidados y los afanes del hombre fuera de la casa, le harán venir a ella muchas veces lleno de inquietud y de disgusto, y consiguientemente predispuesto a incurrir en faltas y extravíos, que la prudencia de la mujer debe prevenir o mirar con indulgente dulzura. El mal humor que el hombre trae al seno de su familia, es rara vez una nube tan densa que no se disipe al débil soplo de la ternura de una mujer prudente y afectuosa.  
 
-**VII** {#index_split_010.html#calibre_pb_9 .calibre3}
+**VII** 
 -------
 
 *Del modo de conducirnos con nuestra familia*
@@ -288,7 +288,7 @@ Esta regla es todavía más severa, cuando se trata de los departamentos en que 
 
 20.   Siempre que alcancemos a ver a una persona que por creerse sin testigos se encuentre mal vestida, o en una disposición cualquiera en que debemos pensar que le sería mortificante el ser observada, apartemos nuestra vista y alejémonos de aquel sitio con discreto disimulo. Pero cuidemos mucho de manifestar con la naturalidad de nuestros movimientos que nada hemos visto, pues un aire de sorpresa o de mal fingida distracción, causaría a aquella persona la misma mortificación que tratáramos de evitarle. Esta regla es aun más importante respecto de personas de distinto sexo, especialmente cuando es el pudor de una mujer el que ha de contemplarse.
 
-![](index-87_1.png){.yflip}
+<amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-87_1.png" layout="intrinsic" width="561" height="405"></amp-img>
 
 21.   Entre gentes vulgares suele creerse que estas reglas pierden su severidad, siempre que han de ser observadas entre esposos, entre padres e hijas. y entre hermanos y parientes de diferente sexo. Es gravísimo error. Las leyes de la moral y de la urbanidad no reconocen grados de parentesco, ni establecen excepción ninguna, cuando se trata de los miramientos que se deben al pudor y a la decencia; así es que las contemplaciones que en tales materias obligan a un hombre respecto de una mujer extraña, son exactamente las mismas que ha de usar el padre con su hija, el esposo con su esposa, el hermano con su hermana.
 
@@ -311,7 +311,7 @@ De este modo los sonrojamos y gastamos en ellos el resorte de la vergüenza, y f
 
 6.   Jamás empleemos la sátira, y mucho menos la ironía, para reprender a nuestros domésticos, pues por ese medio no conseguiremos nunca llegar a corregir sus defectos. 
 
-![](index-89_1.png)
+<amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-89_1.png" layout="intrinsic" width="551" height="503"></amp-img>
 
 7.   Tengamos, por otra parte, como una importante regla, que no todas las faltas deben reprender-se. En medio de las atenciones de que están rodeados nuestros domésticos, y de la imprevisión a que generalmente los sujeta su ignorancia, muchos son los errores en que incurren, que por su poca entidad no merecen otra cosa que una leve insinuación, o más bien nuestra indulgencia; y si hubiéramos de reñirles por todos ellos, los acostumbraríamos al fin a mentir, pues negarían muchas veces sus propios hechos para sustraerse de nuestras reconvenciones, desvirtuaríamos la fuerza de nuestra voz, y nos condenaríamos a una agitación constante que turbarla completamente nuestra propia tranquilidad.
 
@@ -355,7 +355,7 @@ Dentro de nuestra propia casa pueden hacer un ruido tal que llegue a las casas i
 
 16.  Siempre que llegue a nuestro conocimiento la noticia de la proximidad de un peligro común, debemos participarlo a nuestros vecinos, en toda la extensión que nos permita la premura del tiempo, y la necesidad de atender a nuestra propia seguridad. 
 
-![](index-92_1.png)
+<amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-92_1.png" layout="intrinsic" width="566" height="673"></amp-img>
 
 17.   Cuando sabemos que en una casa próxima a la nuestra hay un enfermo de gravedad debemos ofrecer a su familia nuestros servicios, si creemos que puede necesitarlos, informarnos con la posible frecuencia de su estado, y omitir en nuestra casa toda fiesta, toda demostración bulliciosa de contento, tal como el baile, el canto, o el sonido de algún instrumento musical.
 
@@ -393,7 +393,7 @@ Y téngase presente que estas consideraciones deben obrar en nuestro
 Por consiguiente, cuando es la amistad la que las recibe en su seno, sus atenciones son mucho más exquisitas; y en su manera de conducirse tan sólo inspiran el deseo de corresponder dignamente al obsequio que reciben, y de dejar agradables recuerdos en todo círculo de la familia de que, puede decirse, han formado parte.
 
 6.   Ya se deja ver que en la casa en que estamos hospedados habremos de conducirnos conforme a las reglas establecidas en los artículos precedentes; pero tengamos entendido que en ella debemos usar siempre de menos libertad que en nuestra propia casa, por grande que sea la amistad que nos una a las personas que nos rodean.
-![](index-94_1.png)
+<amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-94_1.png" layout="intrinsic" width="566" height="416"></amp-img>
 
 7.   Esto no quiere decir que hayamos de mostrarnos esquivos a la cordialidad y confianza con que se nos favorezca, pues de esta manera corresponderíamos indignamente a la amistad y a la generosa fusión de la hospitalidad; sino que debemos establecer siempre una diferencia por pequeña que sea, entre la libertad que nos brinda el propio hogar, y la casa en que vivimos accidentalmente, donde los principios ya establecidos de la etiqueta no nos conceden igual grado de confianza que entre nuestra familia.
 
@@ -431,9 +431,9 @@ indicar aquí algunas reglas especiales que tenemos que observar cuando en ella 
 
 7.   No permitiremos que nuestro huésped haga ningún gasto para su manutención.
 
-8.   Procuraremos estudiar las costumbres domésticas de nuestro huésped a fin de impedir que las altere en nada para acomodarse a las nuestras; sometiéndonos con este objeto a las privaciones que sean necesarias, y procediendo de manera que no ![](index-96_1.png){.yflip}
+8.   Procuraremos estudiar las costumbres domésticas de nuestro huésped a fin de impedir que las altere en nada para acomodarse a las nuestras; sometiéndonos con este objeto a las privaciones que sean necesarias, y procediendo de manera que no lleguen a su conocimiento.
 
-lleguen a su conocimiento.
+<amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-96_1.png" layout="intrinsic" width="566" height="314"></amp-img>
 
 9.   Durante la residencia de un amigo en nuestra casa evitemos el invitar a nuestra mesa a personas que le sean enteramente desconocidas, con los cuales no sea oportuno ponerle en relación, y sobre todo a aquellas que con él se encuentren desacordadas; a menos que respecto a estas últimas, y según las reglas que expondremos más adelante, nos sea licito aprovechar esta coyuntura para promover una decorosa reconciliación.
 
@@ -445,9 +445,11 @@ lleguen a su conocimiento.
 
 13.   Al separarse un huésped de nosotros le manifestaremos nuestra pena por su partida y le excitaremos afectuosamente a que vuelva a usar de nuestra casa; acompañándole hasta el punto de partida de nuestra ciudad: aeródromo o puerto según el caso.
 
-14.   Si pasado el tiempo necesario para recibir una carta de nuestro huésped no llegáramos a recibirla, entonces le escribiremos nosotros, pues debemos suponer que él no ha podido hacerlo, o que si lo ha hecho, su carta se ha extraviado. ![](index-97_1.png){.yflip} 
+14.   Si pasado el tiempo necesario para recibir una carta de nuestro huésped no llegáramos a recibirla, entonces le escribiremos nosotros, pues debemos suponer que él no ha podido hacerlo, o que si lo ha hecho, su carta se ha extraviado. 
 
-**XII** {#index_split_011.html#calibre_pb_10 .calibre3}
+<amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-97_1.png" layout="intrinsic" width="566" height="644"></amp-img> 
+
+**XII**
 -------
 
 *Reglas diversas*

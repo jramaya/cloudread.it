@@ -45,7 +45,7 @@ en semejantes casos nuestra única guía: y así, dejaremos correr libremente to
 
 19.   Es intolerable la costumbre que llegan a contraer algunos de hablar siempre en términos chistosos y de burla; y más intolerable todavía la conducta de aquellos que se esfuerzan en aparecer como graciosos. El chiste en sociedad necesita de gran pulso para que no se convierta en una necia y ridícula impertinencia; y no es, a la verdad, el que se afana en hacer reír, el que generalmente lo consigue.
 
-20.   Cuando en un círculo llegan todos a guardar silencio, toca siempre al dueño de la casa, o a la persona más caracterizada, tomar la palabra para reanimar la conversación. ![](index-126_1.png){.yflip}
+20.   Cuando en un círculo llegan todos a guardar silencio, toca siempre al dueño de la casa, o a la persona más caracterizada, tomar la palabra para reanimar la conversación. <amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-126_1.png" alt="Chapter 1" title="Chapter 1" layout="intrinsic" width="569" height="406"></amp-img>
 
 21.   Cuando acontezca que dos personas tomen simultáneamente la palabra, el inferior la cederá siempre al superior, y el caballero a la señora.
 
@@ -147,7 +147,7 @@ abuelo, mi abuela, mi tío N. de N., mi hermano N.
 
 Y cuando hayamos de referirnos a uno de nuestros parientes más cercanos que esté investido de algún título, abstengámonos de expresar éste al nombrarlo.
 
-24.   Tampoco están admitidos en la buena sociedad los refranes y dichos vulgares, las palabras y frases anfibológicas, y toda expresión cuyo sentido sea oscuro y pueda conducir a los oyentes a diversas aplicaciones y conjeturas. El hombre culto apenas se permite uno que otro donaire, uno que otro equivoco presentado con gracia, oportunidad y discreción, y cuya antigüedad no haga fluctuar un solo instante el juicio de sus oyentes; aunque jamás, cuando se encuentra en círculos de etiqueta; o ![](index-135_1.png){.yflip}
+24.   Tampoco están admitidos en la buena sociedad los refranes y dichos vulgares, las palabras y frases anfibológicas, y toda expresión cuyo sentido sea oscuro y pueda conducir a los oyentes a diversas aplicaciones y conjeturas. El hombre culto apenas se permite uno que otro donaire, uno que otro equivoco presentado con gracia, oportunidad y discreción, y cuya antigüedad no haga fluctuar un solo instante el juicio de sus oyentes; aunque jamás, cuando se encuentra en círculos de etiqueta; o <amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-135_1.png" alt="Chapter 1" title="Chapter 1" layout="intrinsic" width="569" height="406"></amp-img>
 
 donde hay alguna persona con quien no tenga ninguna confianza.
 
@@ -157,7 +157,7 @@ donde hay alguna persona con quien no tenga ninguna confianza.
 
 27.  El uso de los adagios y sentencias requiere especial tino y cordura; tanto para no prodigarlos, haciendo de este modo pesado y fastidioso el razonamiento, como para elegir aquellos que sean menos comunes y al mismo tiempo más graves y sentenciosos, y sobre todo más análogos a la idea que vienen a reforzar, adornar o esclarecer.  
 
-**D** {#index_split_014.html#calibre_pb_13 .calibre3}
+**D** 
 -----
 
 *De las condiciones morales de la conversación*
@@ -202,13 +202,13 @@ acompañada con alguna otra, y cuando no se tiene con ella una íntima confianza
 
 17.   Excluyamos severamente la ironía de toda discusión, de todo asunto serio, y de toda conversación con personas con quienes no tengamos ninguna confianza. Cuando hayamos de refutar las opiniones de los demás, o de responder a un argumento, y siempre que se nos hable con seriedad y se espere de nosotros una contestación, toda frase irónica será considerada como una manifestación de menosprecio, y por lo tanto, como un insulto.
 
-18.   No emitamos nunca un juicio que hayamos ![](index-139_1.png){.yflip}
+18.   No emitamos nunca un juicio que hayamos <amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-139_1.png" alt="Chapter 1" title="Chapter 1" layout="intrinsic" width="569" height="406"></amp-img>
 
 formado por sospechas, propias o ajenas, o por relaciones poco fidedignas, presentándolo de modo que pueda entenderse que hablamos de un hecho real y verdadero. Y respecto de los juicios que no adolezcan de estos defectos, abstengámonos siempre de emitirlos, cuando directa o indirectamente hayan de recaer sobre personas y puedan por algún respecto serles desagradables.
 
 19.   Seamos muy medidos para sentar principios generales contra las costumbres o defectos de los hombres, pues con ellos podemos desagradar a nuestros mismos amigos, atacar los intereses o el buen nombre de un gremio o corporación, y aun aparecer como excitados por nuestros particulares resentimientos. La persona que asegurase que en el mundo no hay más que ingratos, ofenderla naturalmente a sus oyentes; la que hablando de los extravíos de un personaje histórico, los presentase como inherentes a su estado o profesión, arrojarla una mancha sobre todo el gremio; y la mujer, en fin, que dijese que todos los hombres son inconstantes, no guardarla por cierto un perfecto decoro.  
 
-**E** {#index_split_015.html#calibre_pb_14 .calibre3}
+**E** 
 -----
 
 *De las narraciones*
@@ -251,7 +251,7 @@ Mas en ningún caso debe perderse de vista un solo instante que la descripción 
 
 18.   Antes de resolvemos a referir un hecho o anécdota cualquiera, pensemos si bajo algún respecto puede ser desagradable a alguna de las personas presentes, o a sus allegados o amigos, pues en tal caso deberemos desistir enteramente de nuestro intento.
 
-19.   No es una falta el nombrar a las personas que han intervenido en el hecho que se refiere, cuando sus acciones han sido evidentemente buenas y recomendables; pero si éstas han sido malas, deberán silenciarse absolutamente sus nombres. Y téngase presente que a veces la misma naturaleza de un he- ![](index-145_1.png){.yflip}
+19.   No es una falta el nombrar a las personas que han intervenido en el hecho que se refiere, cuando sus acciones han sido evidentemente buenas y recomendables; pero si éstas han sido malas, deberán silenciarse absolutamente sus nombres. Y téngase presente que a veces la misma naturaleza de un he- <amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-145_1.png" alt="Chapter 1" title="Chapter 1" layout="intrinsic" width="569" height="406"></amp-img>
 
 cho o las circunstancias que lo acompañan, dan a conocer a sus autores, aun cuando no sean nombrados.
 
@@ -261,7 +261,7 @@ cho o las circunstancias que lo acompañan, dan a conocer a sus autores, aun cua
 
 22.   Tengamos especial cuidado de no referir más de una vez a una persona una misma cosa; y aun en los casos en que estemos seguros de que aquella con quien hablamos no ha oído de nosotros el hecho que queremos referirle, pensemos que acaso lo conoce tanto como nosotros. No es difícil que recordemos en cada ocasión lo que hemos referido a las personas con quien tenemos un trato íntimo y frecuente; y respecto de las demás, procuremos, antes de entrar en la relación de un hecho, averiguar prudentemente silo ignoran.  
 
-**F** {#index_split_016.html#calibre_pb_15 .calibre3}
+**F** 
 -----
 
 *De la atención que debemos a la conversación*
@@ -291,7 +291,7 @@ cho o las circunstancias que lo acompañan, dan a conocer a sus autores, aun cua
 
 11.   Por regla general jamás interrumpamos de modo alguno a la persona que habla. En los diálogos rápidos y animados, en que se cruzan las observaciones con demasiada viveza, suelen ser excusables aquellas ligeras e impremeditadas interrupciones que nacen del movimiento mismo de la conversación. En todo otro caso, este acto está justamente considerado como incivil y grosero, y por lo tanto proscrito entre la gente fina.
 
-12.   La más grave, acaso, de todas las faltas que pueden cometerse en sociedad, es la de desmentir a una persona, por cuanto de este modo se hace una herida profunda a su carácter moral; y no creamos que las palabras suaves que se empleen puedan en manera alguna atenuar semejante injuria. Es licito en ciertos casos contradecir un relato equivocado; mas para ello deberemos tener muy presentes las reglas que acerca de este punto quedan establecidas, y sobre todo, la estricta obligación en que estamos de ![](index-149_1.png){.yflip}
+12.   La más grave, acaso, de todas las faltas que pueden cometerse en sociedad, es la de desmentir a una persona, por cuanto de este modo se hace una herida profunda a su carácter moral; y no creamos que las palabras suaves que se empleen puedan en manera alguna atenuar semejante injuria. Es licito en ciertos casos contradecir un relato equivocado; mas para ello deberemos tener muy presentes las reglas que acerca de este punto quedan establecidas, y sobre todo, la estricta obligación en que estamos de <amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-149_1.png" alt="Chapter 1" title="Chapter 1" layout="intrinsic" width="569" height="406"></amp-img>
 
 salvar siempre la fe y la intención de los demás.
 
@@ -314,7 +314,7 @@ corregirle las palabras o frases, cada vez que incurre en una equivocación; 5.�
 
 *De las presentaciones* 
 
-**A** {#index_split_017.html#calibre_pb_16 .calibre3 title="**A **, *De las presentaciones en general *"}
+**A** 
 -----
 
 ### *De las presentaciones en general* {.sigilnotintoc}
@@ -337,7 +337,7 @@ corregirle las palabras o frases, cada vez que incurre en una equivocación; 5.�
 
 10.   Cuando nos encontremos en una reunión con un amigo recién casado, el cual no nos haya. participado formalmente su enlace, guardémonos de pretender que nos presente a su señora; y caso de que él lo haga espontáneamente, consideraremos este acto como una simple presentación ocasional.  
 
-**B** {#index_split_018.html#calibre_pb_17 .calibre3}
+**B** 
 -----
 
 *De las presentaciones especiales*
@@ -374,7 +374,7 @@ por objeto, no sólo manifestarle su agradecimiento, sino ofrecerle su amistad y
 
 14.   Debemos una visita a la persona a quien hemos sido presentados, después de la que haya tenido por objeto el acto de la presentación; siendo de advertir que la mayor o menor distancia que media entre este acto y nuestra visita, será considerada como un signo del mayor o menor aprecio que hacemos de la amistad que acabamos de contraer. La etiqueta no admite, sin embargo, que esta visita se haga al siguiente día, cuando a ello no obliga alguna particular circunstancia.
 
-15.   Cuando con arreglo al párrafo 7 de la página 218, la presentación haya ocurrido fuera de la casa de la persona a quien se ha hecho, la visita de presentación quedará suplida por el mismo acto, y el presentado procederá desde luego a hacer la que se indica en el párrafo anterior. ![](index-154_1.png){.yflip}
+15.   Cuando con arreglo al párrafo 7 de la página 218, la presentación haya ocurrido fuera de la casa de la persona a quien se ha hecho, la visita de presentación quedará suplida por el mismo acto, y el presentado procederá desde luego a hacer la que se indica en el párrafo anterior. <amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-154_1.png" alt="Chapter 1" title="Chapter 1" layout="intrinsic" width="569" height="406"></amp-img>
 
 16.   La persona que es presentada por medio de una carta está relevada del deber que impone el párrafo 15; y así, luego que ha hecho su visita de presentación, no hace ninguna otra cosa hasta que aquélla no le ha sido pagada.
 
@@ -402,7 +402,7 @@ por objeto, no sólo manifestarle su agradecimiento, sino ofrecerle su amistad y
 
 10.   Si yendo por la calle acompañados de un amigo, se nos acercase otro para él desconocido, y no creemos prudente ponerlos en comunicación, procuraremos no detener al que encontramos, para que no se haga notable la falta de aquella ceremonia; y si no pudiéremos evitar que se detenga, dirigiremos alternativamente la palabra a uno y a otro, de modo que no lleguen a verse en la necesidad de hablarse.
 
-11.   Por regla general, siempre que yendo por ![](index-157_1.jpg){.yflip}
+11.   Por regla general, siempre que yendo por <amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-157_1.jpg)
 
 la calle con un amigo, la persona para él desconocida que se nos acerque, no haya de permanecer con nosotros sino breves instantes, nos abstendremos de ponerlos en comunicación, si no tenemos para ello un motivo especial.
 
@@ -412,7 +412,7 @@ la calle con un amigo, la persona para él desconocida que se nos acerque, no ha
 
 14.   Una presentación ocasional puede dar origen a la más larga y sólida amistad; pero esto, como se ha dicho antes, es obra de las simpatías y de otras circunstancias particulares que pueden influir en cada caso, las cuales no entran en la mente del que hace la presentación, así como no podrían comprenderse en los estrechos límites de un libro elemental.  
 
-**D** {#index_split_019.html#calibre_pb_18 .calibre3}
+**D** 
 -----
 
 *De las presentaciones por cartas*
@@ -444,7 +444,7 @@ Las cartas toman desde luego su nombre de la misma naturaleza de las presentacio
 
 13.   Cuando la carta de presentación ocasional tiene por objeto el tratar sobre un negocio, la política no permite que se ponga a la persona a quien se dirige, en el caso de entrar inopinadamente en una conferencia para la cual no está preparada; y así, el portador debe remitirle aquélla junto con una esquela, en que le ofrezca sus respetos, y le pida el señalamiento de. hora y lugar para presentársele en persona. El que recibe esta esquela debe contestarla inmediatamente, y sólo por un grave motivo dejará de recibir al presentado en el mismo día.
 
-14.   Luego que nos hayamos puesto en comunicación con la persona a quien hemos sido presentados por una carta, lo participaremos por escrito a la que nos presentó, manifestándole al mismo tiempo nuestro agradecimiento, aunque ya lo hayamos hecho al acto de tomar la carta. Y si ésta hubiere ;ido de presentación especial, o si habiéndolo sido ![](index-161_1.png){.yflip}
+14.   Luego que nos hayamos puesto en comunicación con la persona a quien hemos sido presentados por una carta, lo participaremos por escrito a la que nos presentó, manifestándole al mismo tiempo nuestro agradecimiento, aunque ya lo hayamos hecho al acto de tomar la carta. Y si ésta hubiere ;ido de presentación especial, o si habiéndolo sido <amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-161_1.png" alt="Chapter 1" title="Chapter 1" layout="intrinsic" width="569" height="406"></amp-img>
 
 de presentación ocasional, recibiéramos por virtud de ella servicios importantes, haremos a nuestro regreso, a la persona que nos presentó, una visita de agradecimiento. 
 
@@ -452,7 +452,7 @@ de presentación ocasional, recibiéramos por virtud de ella servicios important
 
 *De las visitas* 
 
-**A** {#index_split_020.html#calibre_pb_19 .calibre3}
+**A** 
 -----
 
 *De las visitas en general*
@@ -494,7 +494,7 @@ Tan sólo podría ser esto excusable en circunstancias enteramente extraordinari
 
 17.  Está admitido que visitemos a nuestros amigos cuando se encuentran hospedados en una casa donde no tenemos amistad; mas la comunicación ocasional en que tales visitas nos ponen con las personas de la casa, no nos deja obligados, ni a ellas ni a nosotros, a darnos por conocidos ni a saludarnos en ninguna otra parte en que nos encontremos.
 
-18.   No hagamos ni recibamos visitas de poca confianza cuando por enfermedad u otro accidente ![](index-165_1.png){.yflip}
+18.   No hagamos ni recibamos visitas de poca confianza cuando por enfermedad u otro accidente <amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-165_1.png" alt="Chapter 1" title="Chapter 1" layout="intrinsic" width="569" height="406"></amp-img>
 
 cualquiera no podamos guardar estrictamente las reglas del aseo, o presentarnos decentemente vestidos; con excepción de los casos en que nos encontremos en circunstancias extraordinarias, en los cuales nos excusaremos debidamente ante la persona que nos recibe o que recibamos nosotros (párrafo 7, página 80).
 
@@ -502,7 +502,7 @@ cualquiera no podamos guardar estrictamente las reglas del aseo, o presentarnos 
 
 20.   Es una impertinente vulgaridad el preguntar individualmente en una visita por las diferentes personas de una familia. Hecha en general la pregunta que exige siempre la cortesía, tan sólo nos es lícito informarnos en particular de la persona que está ausente, de la que acaba de llegar de un viaje, o de aquella que sabemos se encuentra indispuesta.  
 
-**B** {#index_split_021.html#calibre_pb_20 .calibre3}
+**B** 
 -----
 
 *De las diferentes especies de visitas*
@@ -653,7 +653,7 @@ Las visitas de poca confianza suelen también hacerse de noche, según las circu
 
 31.   Abstengámonos de visitar a las personas que viven de una profesión o industria cualquiera, en las horas que tienen destinadas al trabajo, cuando nuestra visita no tenga por objeto el. tratar sobre alguno de los negocios en que se ocupan.
 
-32.   Antes del almuerzo toda visita que no tenga por objeto el tratar sobre un negocio urgente es inoportuna, aun entre gentes que se tratan con íntima confianza. La mañana está destinada al aseo y arreglo de las personas y de las habitaciones, y a otras ocupaciones domésticas que son enteramente incompatibles con la atención que exige siempre una visita. ![](index-178_1.png){.yflip}
+32.   Antes del almuerzo toda visita que no tenga por objeto el tratar sobre un negocio urgente es inoportuna, aun entre gentes que se tratan con íntima confianza. La mañana está destinada al aseo y arreglo de las personas y de las habitaciones, y a otras ocupaciones domésticas que son enteramente incompatibles con la atención que exige siempre una visita. <amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-178_1.png" alt="Chapter 1" title="Chapter 1" layout="intrinsic" width="569" height="406"></amp-img>
 
 33.   Las visitas a horas de comer son casi siempre inoportunas, y apenas son excusables entre personas. de mucha confianza, las cuales deberán evitar-las, en cuanto sea posible, aun cuando no sea más que por la razón indicada en el párrafo 13 de la página 81.
 
@@ -661,7 +661,7 @@ Las visitas de poca confianza suelen también hacerse de noche, según las circu
 
 35.   Evitemos, en todo lo posible, hacer visitas a personas que han pasado la noche en vela, a las que preparen en su casa un festín, y a las que estén íntimamente relacionadas con enfermos graves, con familias afligidas, o con personas que por cualquiera otro motivo debamos suponer necesiten de su asistencia.  
 
-**D** {#index_split_022.html#calibre_pb_21 .calibre3}
+**D** 
 -----
 
 *De la duración de las visitas*
@@ -697,7 +697,7 @@ Las visitas de poca confianza suelen también hacerse de noche, según las circu
 
 15.   En todos los casos en que se nos manifieste deseo de que prolonguemos una visita, daremos una muestra de agradecimiento a tan obsequiosa invitación, quedándonos sin instancias un rato más; pero después de esto, no cederemos otra vez, si ya hemos dado a nuestra visita una duración excesiva.  
 
-**E** {#index_split_023.html#calibre_pb_22 .calibre3}
+**E** 
 -----
 
 *De las dos diferentes formas de visitas*
@@ -757,7 +757,7 @@ por tarjeta; pero siempre en esta segunda forma, a aquellas personas con quienes
 
 25.   Siempre que usemos de tarjeta para visitar a una persona emancipada que viva con otras personas, pondremos en ella manuscrito su nombre, a fin de evitar equivocaciones.
 
-26.   Las tarjetas, en cuanto a su forma y a su contenido, están sujetas a los caprichos y variaciones ![](index-186_1.png){.yflip}
+26.   Las tarjetas, en cuanto a su forma y a su contenido, están sujetas a los caprichos y variaciones <amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-186_1.png" alt="Chapter 1" title="Chapter 1" layout="intrinsic" width="569" height="406"></amp-img>
 
 de la moda; pero nunca dejaremos de incluir en ellas nuestra dirección, en los casos en que debamos o podamos suponer que sea ignorada de las personas a quienes la dirigimos. 
 
@@ -908,7 +908,7 @@ prudencia y el ejemplo de las personas cultas; en la inteligencia de que, si una
 
 64.   Cuando al retirarnos de una visita de etiqueta quede en la sala un pequeño número de personas, y no seamos acompañados por ninguna de las de la casa, al llegar a la puerta nos volveremos hacia adentro y haremos una cortesía. Y siempre que seamos acompañados hasta la puerta de la sala, al llegar al portón o a la escalera haremos una cortesía a la persona que nos haya acompañado; haciendo lo mismo desde la puerta de la calle, cuando se nos haya acompañado hasta el portón.  
 
-**G** {#index_split_024.html#calibre_pb_23 .calibre3}
+**G** 
 -----
 
 *Del modo de conducirnos cuando recibamos visitas*
@@ -977,7 +977,7 @@ indicado, debiéramos fijarnos más frecuente y detenidamente en la persona de n
 29.   Al acto de retirarse una visita, se tendrán presentes las reglas siguientes: 1.a, la señora de la casa acompañará a otra señora hasta el portón, o hasta la escalera siendo el piso alto; pero si al mismo tiempo está recibiendo otras visitas, la acompañará solamente hasta la puerta de la sala; 2.a, siempre que un caballero haya de despedir a una señora procederá del modo indicado en la regla precedente, con la diferencia de que si el piso es alto y ha de salir fuera de la sala deberá acompañar a aquélla a bajar la escalera y hasta el portón; y cuando la señora vaya en automóvil manejado por ella misma, el caballero le abrirá la puerta ayudándola a subir; 3.a, si es una familia la que ha recibido la visita de una señora, y se hallan en la sala otras visitas, una parte de aquélla irá a acompañarla hasta el portón o hasta la escalera; 4.a, un caballero acompañará a otro caballero hasta el portón o hasta la escalera: si se encuentra él solo recibiendo otras visitas, no le acompañará más que hasta la puerta de la sala; y si las demás visitas son de señoras o de sujetos muy respetables, y el que se despide no está
 investido de un alto carácter, se limitará a avanzar hacia él uno o dos pasos al acto de darle la mano; 5.a, las señoras hacen siempre desde su asiento una cortesía a los caballeros que se despiden.
 
-30.   La persona que acompaña a otra que se des- ![](index-205_1.png){.yflip}
+30.   La persona que acompaña a otra que se des- <amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-205_1.png" alt="Chapter 1" title="Chapter 1" layout="intrinsic" width="569" height="406"></amp-img>
 
 pide cuidará de ir siempre a su izquierda; y si son dos las personas acompañantes, se situará una a su izquierda y otra a su derecha.
 
@@ -1006,7 +1006,7 @@ De los festines en general
 6.   Procuremos que los amigos que convidemos a una reunión pequeña sean todos personas que estén relacionadas entre si, o que por lo menos no haya ninguna de ellas que no tenga amistad con algunas de las demás.
 En cuanto a personas que se encuentren mal avenidas, jamás las reuniremos en estos casos, si no entra en nuestras miras y nos es licito ejercer los nobles oficios de aproximarles y cortar sus diferencias.
 
-7.   Cuando la reunión que preparemos tenga por especial objeto obsequiar a un amigo, no sólo procuraremos que las personas con quienes haya de encontrarse sean todas de su amistad, sino que invi- ![](index-208_1.png){.yflip}
+7.   Cuando la reunión que preparemos tenga por especial objeto obsequiar a un amigo, no sólo procuraremos que las personas con quienes haya de encontrarse sean todas de su amistad, sino que invi- <amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-208_1.png" alt="Chapter 1" title="Chapter 1" layout="intrinsic" width="569" height="406"></amp-img>
 
 taremos preferentemente a aquellas con quienes estuviere en mayor contacto, y cuya edad, posición social y demás circunstancias personales sean más análogas a las suyas.
 
@@ -1046,7 +1046,7 @@ inmediatamente de pie y le ofrecerá el asiento que ocupe.
 
 23.   Abstengámonos de manifestar directa ni indirectamente en una reunión, el deseo de que llegue el momento de sentarnos a la mesa. El incurrir en semejante extravío, no sólo envolvería una falta de civilidad y de cultura, sino que daría muy mala idea de la dignidad de nuestro carácter, y arrojaría sobre nosotros la fea y degradante nota de glotones, ya que no hiciese pensar que hablamos allí concurrido tan sólo con el objeto de comer.
 
-24.   Los caballeros se retiran generalmente de las reuniones nocturnas muy numerosas sin despedirse de nadie (párrafo 60, pág. 285). Respecto de las señoras, ellas omitirán también despedirse de los ![](index-212_1.png){.yflip}
+24.   Los caballeros se retiran generalmente de las reuniones nocturnas muy numerosas sin despedirse de nadie (párrafo 60, pág. 285). Respecto de las señoras, ellas omitirán también despedirse de los <amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-212_1.png" alt="Chapter 1" title="Chapter 1" layout="intrinsic" width="569" height="406"></amp-img>
 
 demás concurrentes, y aun de los dueños de la casa, cuando no crean prudente distraerlos de sus multiplicadas ocupaciones. Pero téngase presente que la persona, cualquiera que sea, en cuyo obsequio se haya celebrado un festín, no puede jamás retirarse sin presentar sus respetos y manifestar su agradecimiento a los dueños de la casa.
 
@@ -1054,7 +1054,7 @@ demás concurrentes, y aun de los dueños de la casa, cuando no crean prudente d
 
 26.   Debemos una visita de agradecimiento a la persona que nos ha invitado a un festín, hayamos o no concurrido a él. Esta visita se hace dentro de un período de ocho días, el cual empieza a contarse pasado el siguiente a aquél en que se haya celebrado el festín.  
 
-**B** {#index_split_025.html#calibre_pb_24 .calibre3}
+**B** 
 -----
 
 *De los bailes*
@@ -1094,7 +1094,7 @@ Y es de notarse que este acto, así como cualquiera otro que pueda ser mortifica
 
 15.   Jamás podrán ser excesivos el respeto, la delicadeza y el decoro con que un caballero trate a una señora en el acto de bailar.
 
-16.   Apenas se concibe que haya padres y madres de familia que consientan que sus hijas, cuya inocencia deben proteger y defender con esmerado empeño, sin que para ello los detenga ninguna especie de consideración, se sometan en el baile a ciertas modas que no contemplan lo bastante el pudor de la mujer, y que suelen invadir de cuando en cuando la sociedad para viciarla y corromperla. El imperio de la moda, ya lo hemos dicho, pierde toda legitimidad, todo derecho, todo dominio en los círculos de personas verdaderamente bien educadas, desde el momento en que de alguna manera ofende la moral y las buenas costumbres; y un padre, una madre, un esposo, un hermano, un pariente cualquiera ![](index-216_1.png){.yflip}
+16.   Apenas se concibe que haya padres y madres de familia que consientan que sus hijas, cuya inocencia deben proteger y defender con esmerado empeño, sin que para ello los detenga ninguna especie de consideración, se sometan en el baile a ciertas modas que no contemplan lo bastante el pudor de la mujer, y que suelen invadir de cuando en cuando la sociedad para viciarla y corromperla. El imperio de la moda, ya lo hemos dicho, pierde toda legitimidad, todo derecho, todo dominio en los círculos de personas verdaderamente bien educadas, desde el momento en que de alguna manera ofende la moral y las buenas costumbres; y un padre, una madre, un esposo, un hermano, un pariente cualquiera <amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-216_1.png" alt="Chapter 1" title="Chapter 1" layout="intrinsic" width="569" height="406"></amp-img>
 
 de una señora, están plenamente autorizados para retirarla del baile y hacerla tomar asiento, cuando no la vean tratada con la extremada delicadeza que le es debida; sin que al sujeto que la acompañe le quede otro partido que sufrir en silencio su bien merecido sonrojo, y aprender para lo futuro a conducirse dignamente en sociedad.
 
@@ -1179,7 +1179,7 @@ paces de manejarnos, en medio de los más deliciosos licores y manjares con aque
 
 31.   El café se sirve en una pieza separada, donde se sitúa una mesa destinada al efecto, o bien en la sala, como se ve generalmente en las reuniones de confianza.
 
-32.   Sólo en las reuniones numerosas, y en todas ![](index-224_1.png){.yflip}
+32.   Sólo en las reuniones numerosas, y en todas <amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-224_1.png" alt="Chapter 1" title="Chapter 1" layout="intrinsic" width="569" height="406"></amp-img>
 
 aquellas que tienen algún carácter público, oficial o diplomático, están recibidos los discursos llamados brindis. Las personas que han de pronunciarlos, están naturalmente llamadas a ello por su posición particular respecto del objeto del convite, por su categoría o su representación social, y a veces expresamente designadas con su debido consentimiento.
 
@@ -1191,7 +1191,7 @@ Suele usarse, y es práctica digna de ser recomendada. que el número de brindis
 
 35.   Terminado un banquete, los concurrentes deben permanecer todavía en la casa media hora por lo menos, pues sería altamente impropio retirarse en el acto.  
 
-**D** {#index_split_026.html#calibre_pb_25 .calibre3}
+**D** 
 -----
 
 *De las reuniones de campo*
@@ -1208,7 +1208,7 @@ Suele usarse, y es práctica digna de ser recomendada. que el número de brindis
 
 6.   Es por lo tanto incivil, y ajeno de la fina galantería, que los caballeros, como suele verse, se separen de las señoras con el objeto de entregarse al juego de naipes, o a cualesquiera otras distracciones en que ellas no tomen parte, o que abandonen la reunión para ir a paseos a que puedan conducirlas.  
 
-**E** {#index_split_027.html#calibre_pb_26 .calibre3}
+**E** 
 -----
 
 *De las reuniones de duelo*
@@ -1225,11 +1225,11 @@ y 31, pág. 246), y para relevarla, en fin, de todas las atenciones de la casa q
 
 5--- La puntual observancia de estas reglas ahorrará a las personas que sufren por la pérdida de un ser querido, el tormento de ver en su casa, en los momentos más terribles de su dolor, una reunión numerosa y llena de indolencia que conversa, ríe y celebra los chistes de cada cual, y que ofrece el chocante y horrible contraste de la alegría y los placeres de la mesa, dentro de un recinto enlutado y tétrico, en medio de una familia llorosa y desconsolada, y a veces aun al lado de un cadáver.
 
-6--- En las reuniones de duelo habrá una mesa frugal no menos que decente, a que no asistirán jamás los deudos más inmediatos del difunto, y en la cual no se hará otra cosa que satisfacer la más urgente necesidad de alimentarse; sin que en la re- ![](index-227_1.png){.yflip}
+6--- En las reuniones de duelo habrá una mesa frugal no menos que decente, a que no asistirán jamás los deudos más inmediatos del difunto, y en la cual no se hará otra cosa que satisfacer la más urgente necesidad de alimentarse; sin que en la re- <amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-227_1.png" alt="Chapter 1" title="Chapter 1" layout="intrinsic" width="569" height="406"></amp-img>
 
 unión, se note ningún acto, ni se oiga ninguna expresión que tenga algo de común con la animación y el júbilo de los banquetes, o que en alguna manera desdiga de la naturaleza de las circunstancias.  
 
-**F** {#index_split_028.html#calibre_pb_27 .calibre3}
+**F** 
 -----
 
 *De los entierros*
@@ -1252,7 +1252,7 @@ Los familiares hacen una invitación y las entidades comerciales u oficiales, co
 
 8.   Los doloridos toman los puestos principales, que son siempre los más próximos al lugar donde se coloca el féretro. Respecto de los acompañantes, éstos se colocarán en los demás puestos, según la edad y la categoría de cada cual.
 
-9.   Una vez terminados los oficios religiosos y la inhumación, los acompañantes se retiran sin despedirse, haciendo sólo una cortesía a los doloridos aquéllos que los encuentren a su salida. ![](index-229_1.png){.yflip} **G**
+9.   Una vez terminados los oficios religiosos y la inhumación, los acompañantes se retiran sin despedirse, haciendo sólo una cortesía a los doloridos aquéllos que los encuentren a su salida. <amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-229_1.png" alt="Chapter 1" title="Chapter 1" layout="intrinsic" width="569" height="406"></amp-img> **G**
 
 *De las honras fúnebres.*
 
@@ -1385,7 +1385,7 @@ Mas encontrándose aquel párrafo entre las reglas que deben observarse en los b
 49.   Cuando tengamos un motivo interior de tristeza, sobrepongámonos a
 él en la mesa hasta aparecer por lo menos atentos y afables; pues no es justo ni delicado que vayamos en tales momentos a turbar el placer de los demás, con el aspecto y los movimientos siempre desagradables y aun mortificantes del dolor y la melancolía.
 
-50.   Es una imperdonable grosería el separar del pan parte de su miga, para traerla entre las manos ![](index-242_1.jpg){.yflip}
+50.   Es una imperdonable grosería el separar del pan parte de su miga, para traerla entre las manos <amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-242_1.jpg)
 
 mar pelotillas y arrojarlas a las personas o hacia cualquier otro objeto, este es un acto tal, que no se concibe pueda verse jamás ni entre personas de la más descuidada educación.
 
@@ -1452,7 +1452,7 @@ Del modo de trinchar, y del servicio en la mesa
 
 28.   Cuando vayamos a servir licor de una botella, aún no decantada, pongamos primero en nuestro vaso o en nuestra copa una pequeña cantidad, siempre que hayan podido caer dentro de aquélla, al destaparla, algunas partículas de corcho o de lacre.
 
-29.   Siempre que pidamos algo a una persona que se encuentre en la mesa, emplearemos una frase ![](index-247_1.png){.yflip}
+29.   Siempre que pidamos algo a una persona que se encuentre en la mesa, emplearemos una frase <amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-247_1.png" alt="Chapter 1" title="Chapter 1" layout="intrinsic" width="569" height="406"></amp-img>
 
 atenta, como hágame usted el favor, tenga usted la bondad, etc. Cuando una persona nos pregunte si queremos tomar de algún plato o de algún licor para servirnos, y estemos dispuestos a aceptar el ofrecimiento contestaremos con la frase si usted me hace el favor, u otra semejante; y cuando hayamos de contestar que no aceptamos, daremos siempre las gracias a la persona que nos hace el obsequio de dirigirnos la pregunta.
 
@@ -1470,7 +1470,7 @@ atenta, como hágame usted el favor, tenga usted la bondad, etc. Cuando una pers
 
 En semejantes reuniones no reina ni puede reinar ninguna especie de etiqueta, pues las sensaciones que se experimentan al ver perdidas en un momento cuantiosas sumas, cuya adquisición ha costado acaso grandes fatigas, y el ansia de entrar a poseer el fruto del ajeno trabajo, no sólo excluyen todo acto de generosidad y de fina cortesanía, sino que excitan en el ánimo sentimiento de indignación y malevolencia; y raro es el hombre que llega a dominarse hasta aparentar serenidad y delicadeza, cuando hierven dentro de su pecho las más crueles y violentas pasiones.
 
-4.   Al ponernos a jugar, demos por hecho que la suerte no habrá de favorecernos, a fin de que este resultado no llegue nunca a sorprendernos, y a hacernos perder la serenidad y buen humor que entonces más que nunca debemos manifestar en sociedad. Nada hay tan desagradable como el ver perso- ![](index-249_1.png){.yflip}
+4.   Al ponernos a jugar, demos por hecho que la suerte no habrá de favorecernos, a fin de que este resultado no llegue nunca a sorprendernos, y a hacernos perder la serenidad y buen humor que entonces más que nunca debemos manifestar en sociedad. Nada hay tan desagradable como el ver perso- <amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-249_1.png" alt="Chapter 1" title="Chapter 1" layout="intrinsic" width="569" height="406"></amp-img>
 
 nas que han empezado a jugar llenas de animación y contento, ir tomando un aire de reconcentración y displicencia, a medida que van experimentando .contrariedades; desluciéndose todavía más, y apareciendo más mezquinas y vulgares, aquellas en quienes alternan los sentimientos de la tristeza y de la alegría, según que la fortuna les niega o les concede sus favores.
 
@@ -1532,7 +1532,7 @@ Aun cuando el traje negro es el más recomendable en los hombres, se tolera sin 
 
 23.   Para los tés, llevan las damass trajes de tarde y los hombres trajes de calle.
 
-La misma indumentaria que para el té, o para una cena sin mucha indumentaria, usan las damas en los "cocktail party", pero los caballeros concurren con ![](index-253_1.png){.yflip}
+La misma indumentaria que para el té, o para una cena sin mucha indumentaria, usan las damas en los "cocktail party", pero los caballeros concurren con <amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-253_1.png" alt="Chapter 1" title="Chapter 1" layout="intrinsic" width="569" height="406"></amp-img>
 
 traje oscuro de calle, y aún mejor con smoking.
 
@@ -1746,7 +1746,7 @@ Procuremos siempre enterarnos discretamente de la historia de sus disensiones, y
 
 La propensión a usar de un lujo superior a aquel que permiten los propios recursos, y el absurdo conato de elevarse sobre la posición que realmente debe ocuparse en la sociedad, son los móviles de esta indigna costumbre, que a veces llega a precipitar al hombre en la carrera de los crímenes, y que tan funesta influencia ejerce en los intereses generales del comercio y de la industria.
 
-39.   Uno de los más sagrados deberes que la religión, la moral y la misma naturaleza nos imponen, es el de dar a los niños que nos pertenecen una educación que les abra y allane el camino de su feli- ![](index-279_1.png){.yflip}
+39.   Uno de los más sagrados deberes que la religión, la moral y la misma naturaleza nos imponen, es el de dar a los niños que nos pertenecen una educación que les abra y allane el camino de su feli- <amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-279_1.png" alt="Chapter 1" title="Chapter 1" layout="intrinsic" width="569" height="406"></amp-img>
 
 cidad, y los haga al mismo tiempo útiles a su familia y a su patria.
 Nuestra educación se refleja siempre en la educación de los niños que dirigimos; así es que cuando éstos observan una conducta desarreglada, cuando faltan al respeto debido a sus mayores, cuando de alguna manera se hacen molestos a sus vecinos o a cualquiera de las personas a quienes se acercan, cuando visten con un lujo impropio de su edad, cuando maltratan a los animales, cuando fuman o aparecen dominados de algún vicio y por último, cuando no poseen aquellos conocimientos que son indispensable en los primeros años, con razón se forma una idea altamente desventajosa de nuestro carácter, de nuestra educación y de nuestras costumbres.
