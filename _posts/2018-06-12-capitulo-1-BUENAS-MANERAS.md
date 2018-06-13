@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Capítulo 1 PRINCIPIOS GENERALES
+title: Capítulo 1 Principios Generales
 chapter: 4
 ---
 

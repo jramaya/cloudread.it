@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DE LOS DEBERES PARA CON DIOS
+title: De los deberes para con Dios
 chapter: 1
 ---
 

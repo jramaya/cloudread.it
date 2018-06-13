@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DE LOS DEBERES PARA CON LA SOCIEDAD
+title: De los deberes para con la socieadad
 chapter: 2
 ---
 

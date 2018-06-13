@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Capitulo 2 DEL ASEO
+title: CAPÍTULO 2 Del Aseo
 chapter: 5
 ---
 

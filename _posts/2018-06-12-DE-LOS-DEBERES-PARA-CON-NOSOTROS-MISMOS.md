@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DE LOS DEBERES PARA CON NOSOTROS MISMOS
+title: De los deberes para con nosotros mismos
 chapter: 3
 ---
 

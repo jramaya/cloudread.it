@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Capitulo 6 DIFERENTES APLICACIONES DE LA URBANIDAD
+title: CAPÍTULO 6 Diferentes aplicaciones de la urbanidad
 chapter: 9
 ---
 

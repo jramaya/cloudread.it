@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Capitulo 3 DEL MODO DE CONDUCIRNOS DENTRO
+title: CAPÍTULO 3 Del modo de conducirnos por dentro
 chapter: 6
 ---
 
