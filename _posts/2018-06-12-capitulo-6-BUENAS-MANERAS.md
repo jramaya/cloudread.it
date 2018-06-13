@@ -113,12 +113,11 @@ El proponer a un comerciante un precio notablemente menor del que ha pedido, es 
 40.   Un rico no deberá jamás lamentarse con un pobre, de pérdidas,.
 privaciones o faltas de recursos, cuando a ello no se vea obligado por la necesidad de justificar una negativa, pues el pobre podría interpretar ésta como una precaución contra la exigencia de algún servicio, lo cual sería altamente ofensivo a su carácter y a su amor propio; a menos que entre ambos exista una amistad tan cordial y estrecha que excluya toda sospecha de este género, y las quejas del uno deban ser naturalmente recibidas por el otro como un inocente desahogo en el seno de la confianza. 4
 
-1.   El pobre debe considerar que así
+41.   El pobre debe considerar que así
 como el premio de sus sufrimientos se encuentra en el Cielo, así durante su mansión en la tierra su subsistencia, las comodidades que puede alcanzar, el alivio de sus penas, dependen en gran parte, ya directa, ya indirectamente, de las empresas que crea y fomenta el rico, y muchas veces de la generosidad con que éste se desprende de una parte de sus rentas para socorrer sus necesidades. Mirando la riqueza individual como uno de los más importantes elementos de las artes y de la industria, del progreso material y aun moral de los pueblos, y sobre todo, como el amparo de la indigencia, el pobre deberá honrar y respetar en el rico tan nobles atributos, prodigándole todas las atenciones a que sus virtudes le hagan acreedor. Y cuando el peso de la miseria llegue a oprimirle, lejos de contemplar los ajenos goces con el ojo de la torpe envidia, se someterá con religiosa resignación a la voluntad divina; pues si la pobreza puede ser una virtud, si ella puede abrirnos las puertas del Cielo, no es ciertamente por el solo hecho de vivir condenados a ella, sino por el de aceptarla como la aceptó el Hijo de Dios, amarla como Él la amó, y acompañarla de todas las virtudes de que
 Él mismo quiso darnos ejemplo.
 
-42.   Entre la persona que exige un servido y aquella a quien se exige.
---- Una persona delicada, cuando necesite con urgencia alguna cosa que no puede absolutamente proporcionarse por sí misma, y se ve por lo tanto obligada a solicitarla entre sus amigos, se dirige siempre a los de su mayor intimidad, y no ocurre a aquellos con quienes no tiene confianza, sino en casos extremos y en que la fuerza de la necesidad justifique plenamente su exigencia.
+42.   Entre la persona que exige un servido y aquella a quien se exige. Una persona delicada, cuando necesite con urgencia alguna cosa que no puede absolutamente proporcionarse por sí misma, y se ve por lo tanto obligada a solicitarla entre sus amigos, se dirige siempre a los de su mayor intimidad, y no ocurre a aquellos con quienes no tiene confianza, sino en casos extremos y en que la fuerza de la necesidad justifique plenamente su exigencia.
 
 43.   Las exigencias indiscretas son del todo ajenas de la gente bien educada y así, jamás debe pedirse un servicio a una persona que, para prestarlo, haya de hacer un sacrificio de cualquiera especie, cuando pueda ocurrirse a otra que se encuentre en diferente caso, o bien prescindirse enteramente de aquello que se desea.
 
@@ -142,9 +141,9 @@ como el premio de sus sufrimientos se encuentra en el Cielo, así durante su man
 
 53.   La distinción entre nacionales y extranjeros, tan sólo deja de ser odiosa en cuanto es indispensable para el orden y la felicidad de los diferentes pueblos que constituyen la gran familia humana; por lo demás, debemos siempre recordar que todos somos hijos de un mismo padre, y que el Redentor del mundo al entregarse al bárbaro suplicio de la cruz por el rescate de la humanidad entera, nos dejó a todos los hombres la más sublime prenda de amor, de unión y de confraternidad (párrafo 3, pág. 32).
 
-54.   El que lejos de su patria ha encontrado en suelo extraño una acogida hospitalaria y benévola, y en posesión de todos los derechos que aseguran la vida, la industria y la propiedad a los asociados, puede consagrarse libre y tranquilamente al trabajo y disfrutar de todos los goces y comodidades que ofrece el país en que se encuentra, contrae no sólo aquellos deberes que impone la legislación civil, sino también los que nacen naturalmente del noble sentimiento de la gratitud; y al mismo tiempo que contribuya por cuantos medios estén a su alcance al orden, al progreso y al bienestar de la sociedad que le han admitido en su seno, observará una conducta franca, leal y amistosa en su trato con los nacionales aprovechando todas aquellas oportunidades en que pueda comprobarles que ama su país y respeta <amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-297_1.png" alt="Chapter 1" title="Chapter 1" layout="intrinsic" width="569" height="406"></amp-img>
+54.   El que lejos de su patria ha encontrado en suelo extraño una acogida hospitalaria y benévola, y en posesión de todos los derechos que aseguran la vida, la industria y la propiedad a los asociados, puede consagrarse libre y tranquilamente al trabajo y disfrutar de todos los goces y comodidades que ofrece el país en que se encuentra, contrae no sólo aquellos deberes que impone la legislación civil, sino también los que nacen naturalmente del noble sentimiento de la gratitud; y al mismo tiempo que contribuya por cuantos medios estén a su alcance al orden, al progreso y al bienestar de la sociedad que le han admitido en su seno, observará una conducta franca, leal y amistosa en su trato con los nacionales aprovechando todas aquellas oportunidades en que pueda comprobarles que ama su país y respeta sus costumbres.
 
-sus costumbres.
+<amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-297_1.png" layout="intrinsic" width="566" height="225"></amp-img>
 
 55.   La urbanidad impone a nacionales y extranjeros un deber especial de recíproca y fina galantería, el cual consiste en elogiar siempre, con oportunidad y delicadeza, todo lo que pertenece y concierne al ajeno país, en excusar de la misma manera lo que en él pueda ser vituperable, y en usar de un lenguaje sobremanera cortés y comedido, cada vez que en una amigable y pacífica discusión sea inevitable el hacer observaciones que bajo algún respecto le sean desfavorables.
 
@@ -187,8 +186,9 @@ Mas no puede decirse otro tanto con relación a las cartas de negocios, las cual
 16.   Hay una especie de correspondencia conocida generalmente con el nombre de notas verbales, las cuales son de mucho uso entre agentes diplomáticos, entre personas de etiqueta, y aun entre personas de poca confianza, y regularmente tienen por objeto provocar una entrevista, hacer invitaciones, aceptar o rehusar las que se han recibido, o hablar, en suma, de algún asunto que por su poca entidad no exige ser tratado en una carta. Se emplea para estas notas el papel de esquelas y su forma ordinaria es la siguiente: N. de N. tiene el honor de presentar sus respetos (o manifiesta), etc.; poniendo al fin la fecha y omitiendo la firma. 
 
 **III**
+=======
 
-De nuestra conducta respecto del público
+*De nuestra conducta respecto del público*
 
 1.   El hombre de buenos principios no sólo sabe conducirse dignamente con las personas con quienes está relacionado, sino que tributa también sus consideraciones a la sociedad entera, de manera que su comportamiento no es tampoco ofensivo bajo ningún respecto a los que le tratan, ni aun a aquellos que no le conocen personalmente.
 

@@ -6,13 +6,15 @@ chapter: 5
 
 *Del aseo en general*
 
+<amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-64_1.png" alt="Chapter 2" title="Chapter 2" layout="intrinsic" width="566" height="269"></amp-img>
+
+<amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-45_1.png" alt="Chapter 1" title="Chapter 1" layout="intrinsic" width="569" height="406"></amp-img>
+
 1.   El aseo es una gran base de estimación social, porque comunica a todo nuestro exterior un atractivo irresistible, y porque anuncia en nosotros una multitud de buenas cualidades de que la pulcritud es un signo casi siempre infalible.
 
 2.   El aseo contribuye poderosamente a la conservación de la salud, porque mantiene siempre en estado de pureza el aire que respiramos, y porque despojamos nuestro cutis de toda parte extraña que embarace la transpiración, favorece la evaporación de los malos humores, causa y fomento de un gran número de nuestras enfermedades.
 
 3.   Nada hay, por otra parte, que comunique mayor grado de belleza y elegancia a cuanto nos concierne, que el aseo y la limpieza Nuestras personas, nuestros vestidos, nuestra habitación y todos nuestros actos, se hacen siempre agradables a los que nos rodean, y nos atraen su estimación y aun su cariño, cuando todo lo encuentra presidido por ese espíritu de pulcritud que la misma naturaleza ha querido imprimir en nuestras costumbres, para ahorrarnos sensaciones ingratas y proporcionarnos goces y placeres.
-
-<amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-45_1.png" alt="Chapter 1" title="Chapter 1" layout="intrinsic" width="569" height="406"></amp-img>
 
 4.   Los hábitos del aseo revelan además hábitos de orden, de exactitud y de método en los demás actos de la vida; porque no puede suponerse que se practiquen diariamente las operaciones que son indispensables para llenar todas las condiciones del aseo, las cuales requieren cierto orden y método y una juiciosa economía de tiempo, sin que exista una disposición constante a proceder de la misma manera en todo lo demás.
 
@@ -97,7 +99,7 @@ Cuando se emplean ambas indiferentemente, es imposible conservar las manos asead
 34.   Cuando al acercarnos a una casa a donde vayamos a entrar, nos sintamos transpirados, enjuguémonos el sudor del rostro antes de llamar a la puerta; pues siempre será bien que evitemos en todo lo posible el ejecutar esta operación en sociedad.  
 
 **III**
--------
+======
 
 *Del aseo en nuestros vestidos*
 
@@ -120,6 +122,7 @@ Cuando se emplean ambas indiferentemente, es imposible conservar las manos asead
 9.   No es reprobable la costumbre de llevar los vestidos, y sobre todo los pañuelos, ligeramente impregnados de aguas olorosas; mas adviértase que el exceso en este punto es nocivo a la salud, y al mis-no tiempo repugnante para las personas con quienes estamos en contacto, especialmente cuando empleamos esencias o preparaciones almizcladas. 
 
 **IV**
+======
 
 *Del aseo de nuestra habitación*
 
@@ -162,7 +165,7 @@ siempre, y con razón, imputada a nosotros.
 18.   Si hemos vivido como personas finas y delicadas, los que entren a habitar la casa que desocupamos, no necesitarán de asearla; y si hubieren de repararla, no será por cierto a consecuencia de daños que nosotros hayamos causado.  
 
 **V**
------fa
+=====
 
 *Del aseo para con los demás*
 
@@ -234,8 +237,6 @@ los petates y alfombras con que los encuentran cubiertos.
 30.   Cuidemos de no recostar nuestra cabeza en el respaldo de los asientos, a fin de preservarlos de la grasa de los cabellos. Observando esta regla en todas partes, guardaremos el aseo que debemos a las casas ajenas, e impediremos que los asientos de la nuestra inspiren asco a las personas que nos visitan.
 
 31.   En general, tratemos siempre con extremada delicadeza todos los muebles, alhajas y objetos de adorno de las casas ajenas; evitando en todo lo posible el tocarlos con nuestras manos,, pues esto se opone a su estado de limpieza, y cuando menos, a su brillo y hermosura.
-
-<amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-64_1.png" alt="Chapter 2" title="Chapter 2" layout="intrinsic" width="566" height="269"></amp-img>
 
 32.   Si es un acto de desaseo el tomar en la boca la pluma de escribir de nuestro uso, con mayor razón lo será el hacer esto con la pluma del ajeno bufete.
 
