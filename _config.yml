@@ -8,6 +8,7 @@
 # Site settings
 title: Everything You Ever Really Needed to Know About Personal Finance on Just One Page
 #email: your-email@domain.com
+hreflang: en-US
 description: >
   Everything you really need to know abut personal finance can be summarized in just one page. Spend less than you earn. Earn more. Live frugal. Do something sensible with the difference. Control your own destiny. All of the other writing out there on personal finance is just details.
 logo: "/assets/images/logo.jpg"
