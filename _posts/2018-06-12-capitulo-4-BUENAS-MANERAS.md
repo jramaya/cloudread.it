@@ -283,8 +283,8 @@ Despreciándose de este modo a los actores, se hace naturalmente una ofensa a aq
 
 <amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-117_1.png" layout="intrinsic" width="528" height="751"></amp-img>
 
-**ARTICULO VI**
-===============
+**VI**
+======
 
 *Del modo de conducirnos en los establecimientos públicos*
 

@@ -1105,9 +1105,12 @@ Y es de notarse que este acto, así como cualquiera otro que pueda ser mortifica
 
 18. Desde que los dueños de la casa han instado a algunos caballeros a tomar de los refrescos de que habla el párrafo 5, ya cualquiera de los demás puede pasar a tomarlos.
 
-19. En los intermedios del baile, cada caballero obsequiará a la señora con quien acabe de bailar, ofreciéndole alguno de los refrescos indicados en el párrafo anterior. C
+19. En los intermedios del baile, cada caballero obsequiará a la señora con quien acabe de bailar, ofreciéndole alguno de los refrescos indicados en el párrafo anterior.
 
 <amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-216_1.png" layout="intrinsic" width="566" height="443"></amp-img>
+
+**C**
+=====
 
 *De los banquetes*
 

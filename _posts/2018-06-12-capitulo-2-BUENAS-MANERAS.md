@@ -22,7 +22,8 @@ chapter: 5
 
 6.   De la misma manera, sería una indignidad imperdonable, y además un hecho impropio de la honradez que debe reinar en todos nuestros actos, y contrario a la caridad y a la benevolencia, el poner poco esmero y cuidado en el aseo de lo que otra persona ha de tomar en sus manos o llevar a sus labios, cuando se halla ausente y debe por lo tanto suponerse confiado en nuestra buena fe y en la delicadeza de nuestra conciencia. 
 
-II
+**II**
+======
 
 *Del aseo en nuestra persona*
 
