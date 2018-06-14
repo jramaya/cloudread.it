@@ -1,8 +1,5 @@
 <div class="sharebar">
         <div>
-          <a href="https://www.facebook.com/sharer.php?u={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-          <amp-img class="rounded" width="36px" height="36px" alt="Share on facebook" src="/assets/images/facebook.png" ></amp-img>
-          </a>
           <amp-social-share class="rounded" type="email" width="36" height="36"></amp-social-share>
           <amp-social-share class="rounded" type="gplus" width="36" height="36"></amp-social-share>
           <amp-social-share class="rounded" type="linkedin" width="36" height="36"></amp-social-share>
@@ -10,5 +7,8 @@
           <amp-social-share class="rounded" type="tumblr" width="36" height="36"></amp-social-share>
           <amp-social-share class="rounded" type="twitter" width="36" height="36"></amp-social-share>
           <amp-social-share class="rounded" type="whatsapp" width="36" height="36"></amp-social-share>
+          <a href="https://www.facebook.com/sharer.php?u={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+            <amp-img class="rounded" width="36px" height="36px" alt="Share on facebook" src="/assets/images/facebook.png" ></amp-img>
+            </a>
         </div>
     </div>
