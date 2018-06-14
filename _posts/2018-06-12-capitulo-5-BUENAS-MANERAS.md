@@ -14,8 +14,7 @@ chapter: 8
 
 4. La conversación debe estar siempre animada de un espíritu de benevolencia y consideración que se extienda, no sólo a todos los circunstantes, sino también a los que no se hallan presentes, siendo muy digno de notarse, que toda idea ofensiva a personas ausentes, incluye también la falta de ofender el carácter de las que nos oyen, por cuanto de este modo las consideramos capaces de hacerse cómplices de semejante vileza.
 
-5. Por muy discretas y muy cultas que sean las personas con quienes acostumbremos conversar, pensemos que alguna vez podremos oír palabras que bajo algún respecto nos sean desagradables, pues en el ancho espacio que recorre la conversación, difícil es que sean siempre lisonjeados todos los gustos, todas las opiniones y todos los caprichos. La tolerancia, que es la virtud más conservadora de la armonía social, será
-en semejantes casos nuestra única guía: y así, dejaremos correr libremente todas las especies que se viertan en medio de una conversación pacífica y amistosa, sin manifestarnos nunca ofendidos por lo que evidentemente no se haya dicho con la dañada intención de mortificarnos.
+5. Por muy discretas y muy cultas que sean las personas con quienes acostumbremos conversar, pensemos que alguna vez podremos oír palabras que bajo algún respecto nos sean desagradables, pues en el ancho espacio que recorre la conversación, difícil es que sean siempre lisonjeados todos los gustos, todas las opiniones y todos los caprichos. La tolerancia, que es la virtud más conservadora de la armonía social, será en semejantes casos nuestra única guía: y así, dejaremos correr libremente todas las especies que se viertan en medio de una conversación pacífica y amistosa, sin manifestarnos nunca ofendidos por lo que evidentemente no se haya dicho con la dañada intención de mortificarnos.
 
 6. La afabilidad y la dulzura son en todas ocasiones el más poderoso atractivo de la conversaci6n; pero cuando hablamos con señoras, vienen a ser deberes estrictos, de los que no debemos apartarnos jamás.
 
@@ -126,40 +125,35 @@ siempre ridículo el excesivo esmero en la elección de las palabras y frases.
 
 13. Los movimientos del cuerpo deben identificarse de tal modo con la naturaleza de las ideas, y con la energía de la expresión, que formen un todo con las palabras, y no se hagan jamás notables por sí solos. Una persona que al hablar mantuviese el cuerpo enteramente inmóvil comunicaría cierta insipidez aun a la conversación más interesante; pero aquella que lo moviese demasiado, haciéndolo girar fuera de la órbita de los pensamientos, oscurecería sus propios raciocinios y fatigaría la atención de sus oyentes.
 
-14\_\_ Por lo que hace a las manos, ellas desempeñan, especialmente la derecha, un papel importantísimo en la conversación. Sus movimientos deben también formar un todo con las palabras; pero como son movimientos más notables que los del resto del cuerpo, necesitan ser cuidadosamente estudiados, a fin de que den fuerza y energía a la expresión, lejos de contrariar o debilitar su efecto.
+14. Por lo que hace a las manos, ellas desempeñan, especialmente la derecha, un papel importantísimo en la conversación. Sus movimientos deben también formar un todo con las palabras; pero como son movimientos más notables que los del resto del cuerpo, necesitan ser cuidadosamente estudiados, a fin de que den fuerza y energía a la expresión, lejos de contrariar o debilitar su efecto.
 
 15. Ambas manos deben tomar parte en la acción; pero si la izquierda puede muchas veces mantenerse inmóvil, especialmente en una conversación llana y sencilla, no sucede así con la derecha, la cual debe acompañar la enunciación de casi todas las ideas. Y téngase presente, que de todos los movimientos, los de las manos son los que menos pueden exagerarse sin dar una muestra de poca cultura, y sin comunicar a toda la persona un aire tosco y enfadoso.
 
 16. Son actos vulgares e inciviles, el remedar en la conversación a otras personas, imitar la voz de los animales o cualesquiera otros ruidos, hablar bostezando, ponerse de pie en medio del discurso, hablar en voz baja con otra persona en una conversación general, y sobre todo, tocar los vestidos o el cuerpo de aquellos a quienes se dirige la palabra. La mujer que tocase a un hombre, no sólo cometería una falta de civilidad, sino que aparecería inmodesta y desenvuelta; pero aún sería mucho más grave y más grosera la' falta en que incurriera el hombre que se permitiese tocar a una mujer.
 
-17.  Dirijamos siempre la vista a la persona con quien hablamos. Los que tienen la costumbre de no ver la cara a sus oyentes son por lo general personas de mala índole o de poco roce con las gentes; y es además de notarse que así pierden la ventaja de conocer en los semblantes las impresiones que producen sus razonamientos. 18
+17.  Dirijamos siempre la vista a la persona con quien hablamos. Los que tienen la costumbre de no ver la cara a sus oyentes son por lo general personas de mala índole o de poco roce con las gentes; y es además de notarse que así pierden la ventaja de conocer en los semblantes las impresiones que producen sus razonamientos. 
 
-. Cuando tomemos la palabra en una conversación general, dirijámonos alternativamente a todos los circunstantes, con un juicioso discernimiento los pasajes del discurso que a cada cual puedan ser más interesantes. Pero en estos casos habrá siempre una persona en quien deberemos fijarnos más frecuente y detenidamente, y ésta será, con la preferencia que marca el orden en que van a expresarse, una de las siguientes 1.°, la persona con quien sostengamos un diálogo; 2.°, la que de cualquier modo nos excite a hablar, menos cuando sea pidiéndonos la relación de un hecho que ya conoce, para que lo oiga otra persona, pues entonces será ésta la preferente; 3.°, la señora de la casa; 4.°, el señor la casa; 5.°, la persona del círculo con quien tengamos mayor amistad.
+18. Cuando tomemos la palabra en una conversación general, dirijámonos alternativamente a todos los circunstantes, con un juicioso discernimiento los pasajes del discurso que a cada cual puedan ser más interesantes. Pero en estos casos habrá siempre una persona en quien deberemos fijarnos más frecuente y detenidamente, y ésta será, con la preferencia que marca el orden en que van a expresarse, una de las siguientes 1.°, la persona con quien sostengamos un diálogo; 2.°, la que de cualquier modo nos excite a hablar, menos cuando sea pidiéndonos la relación de un hecho que ya conoce, para que lo oiga otra persona, pues entonces será ésta la preferente; 3.°, la señora de la casa; 4.°, el señor la casa; 5.°, la persona del círculo con quien tengamos mayor amistad.
 
 19. Usemos siempre de palabras y frases de cumplido, de excusa o de agradecimiento, cuando preguntemos o pidamos algo, cuando nos importe y nos sea lícito contradecir a una persona, y cuando nos diga alguna cosa que nos sea agradable; como por ejemplo: sírvase usted decirme, tenga usted la bondad de proporcionarme, permítame usted e le observe, dispénseme usted, perdóneme usted, y doy a usted las gracias, etc. Pero no sembremos demasiado la conversación de estas expresiones, sobre todo cuando no hablemos con señoras, lo cual haría empalagosa y fatigante, y manifestaría estudio y afectación, donde el principal mérito consiste en la sinceridad.
 
-20. Es una costumbre incivil y ridícula, y que hace la conversación sumamente pesada y desagradable, la de interrumpirse a cada instante para dirigir a la persona con quien se habla las preguntas ¿Está usted?
-¿Comprende usted? ¿Me entiende usted? y otras semejantes.
+20. Es una costumbre incivil y ridícula, y que hace la conversación sumamente pesada y desagradable, la de interrumpirse a cada instante para dirigir a la persona con quien se habla las preguntas ¿Está usted? ¿Comprende usted? ¿Me entiende usted? y otras semejantes.
 
 21. Cuando hablemos con señoras, con personas de poca confianza, o con cualquiera que por su edad y demás circunstancias sea superior a nosotros, no contestemos nunca sí o no, sin añadir las palabras señor o señora.
 
-22. Debemos anteponer las palabras señor o señora, a los nombres de las personas que mencionemos en la conversación. Los que adquieren la costumbre de omitirlas no saben, sin duda, cuán grave es la falta en que incurren, ni cuánto se deslucen ante las personas sensatas y bien educadas que los oyen. Sin embargo, la igualdad en la edad, unida a. una
-íntima confianza, podrá a veces autorizarnos para omitir aquellas palabras; pero en esto debe guiamos siempre la discreción, pues hay ocasiones, como cuando hablamos en un círculo de etiqueta, en que semejante omisión es absolutamente injustificable.
+22. Debemos anteponer las palabras señor o señora, a los nombres de las personas que mencionemos en la conversación. Los que adquieren la costumbre de omitirlas no saben, sin duda, cuán grave es la falta en que incurren, ni cuánto se deslucen ante las personas sensatas y bien educadas que los oyen. Sin embargo, la igualdad en la edad, unida a. una íntima confianza, podrá a veces autorizarnos para omitir aquellas palabras; pero en esto debe guiamos siempre la discreción, pues hay ocasiones, como cuando hablamos en un círculo de etiqueta, en que semejante omisión es absolutamente injustificable.
 
-23. Delante de personas que no sean de nuestra misma familia, o de nuestra íntima confianza, no hagamos jamás mención de nuestros padres, abuelos, tíos o hermanos, sino por las palabras mi padre, mi madre, mí
-abuelo, mi abuela, mi tío N. de N., mi hermano N.
-
-Y cuando hayamos de referirnos a uno de nuestros parientes más cercanos que esté investido de algún título, abstengámonos de expresar éste al nombrarlo.
+23. Delante de personas que no sean de nuestra misma familia, o de nuestra íntima confianza, no hagamos jamás mención de nuestros padres, abuelos, tíos o hermanos, sino por las palabras mi padre, mi madre, mí abuelo, mi abuela, mi tío N. de N., mi hermano N. Y cuando hayamos de referirnos a uno de nuestros parientes más cercanos que esté investido de algún título, abstengámonos de expresar éste al nombrarlo.
 
 24. Tampoco están admitidos en la buena sociedad los refranes y dichos vulgares, las palabras y frases anfibológicas, y toda expresión cuyo sentido sea oscuro y pueda conducir a los oyentes a diversas aplicaciones y conjeturas. El hombre culto apenas se permite uno que otro donaire, uno que otro equivoco presentado con gracia, oportunidad y discreción, y cuya antigüedad no haga fluctuar un solo instante el juicio de sus oyentes; aunque jamás, cuando se encuentra en círculos de etiqueta; o donde hay alguna persona con quien no tenga ninguna confianza.
-
-<amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-135_1.png" layout="intrinsic" width="566" height="359"></amp-img>
 
 25. No empleemos nunca en la conversación palabras inusitadas, ni las que sean técnicas de alguna ciencia o arte, cuando podamos valernos de vocablos o frases o bien de locuciones perifrásticas, que, sin apartarnos del lenguaje común, nos permitan expresar claramente nuestras ideas.
 
 26. También debemos abstenemos de introducir en la conversación palabras o frases de un idioma extranjero, cuando no estemos seguros de que lo poseen todas las personas que nos oyen ; y aun teniendo esta seguridad, pensemos que el exceso o la inoportunidad en este punto puede comunicar a nuestra conversación cierto sabor pedantesco.
 
 27.  El uso de los adagios y sentencias requiere especial tino y cordura; tanto para no prodigarlos, haciendo de este modo pesado y fastidioso el razonamiento, como para elegir aquellos que sean menos comunes y al mismo tiempo más graves y sentenciosos, y sobre todo más análogos a la idea que vienen a reforzar, adornar o esclarecer.  
+
+<amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-135_1.png" layout="intrinsic" width="566" height="359"></amp-img>
 
 **D** 
 =====
@@ -172,9 +166,7 @@ Y cuando hayamos de referirnos a uno de nuestros parientes más cercanos que est
 
 3. Guardémonos de emplear en la conversación palabras o frases que arguyan impiedad, o falta de reverencia a Dios, a los Santos y a las cosas sagradas.
 
-4. Es sobremanera chocante y vulgar el uso de expresiones de juramentos; y de todas aquellas con que el que habla se empeña en dar autoridad a sus asertos, comprometiendo su honor y la fe de una palabra, o invocando el testimonio de otras personas. El que ha sabido adquirir la reputación de veraz, no necesita por cierto de tales adminículos para ser creído; y puede más bien, al recurrir a ellos, introducir la duda en el ánimo de sus oyentes.
-
-Y el que no tiene adquirida tal reputación, en vano buscará en las formas el medio de comunicar fuerza de verdad a sus palabras.
+4. Es sobremanera chocante y vulgar el uso de expresiones de juramentos; y de todas aquellas con que el que habla se empeña en dar autoridad a sus asertos, comprometiendo su honor y la fe de una palabra, o invocando el testimonio de otras personas. El que ha sabido adquirir la reputación de veraz, no necesita por cierto de tales adminículos para ser creído; y puede más bien, al recurrir a ellos, introducir la duda en el ánimo de sus oyentes. Y el que no tiene adquirida tal reputación, en vano buscará en las formas el medio de comunicar fuerza de verdad a sus palabras.
 
 5. La regla que antecede puede todavía admitir alguna otra excepción entre personas que se tratan con íntima confianza; mas como en este punto no es dable determinar los diferentes casos que pueden ofrecerse, tengamos por único y seguro norte un respeto inalterable a las leyes del decoro, y una atenta observación de lo que se permiten las personas cultas y bien educadas.
 
@@ -182,8 +174,7 @@ Y el que no tiene adquirida tal reputación, en vano buscará en las formas el m
 
 7. Por regla general, deberemos emplear en todas ocasiones las palabras más cultas y de mejor sonido, diciendo, por ejemplo: puerco por cochino; aliento o respiración por resuello; arrojar sangre por echar sangre, etc., etc. Pero conviene observar el uso de las personas verdaderamente instruidas y bien educadas, y tener algún conocimiento de la sinonimia de la lengua que se habla a fin de no incu- rrir en el extremo de emplear palabras y frases alambicadas y redundantes, ni echar mano de aquellas que no hayan de expresar clara y propiamente las ideas.
 
-8. Respecto de las interjecciones, y de toda palabra con que hayamos de expresar la admiración, la sorpresa o cualquiera otro afecto del
-ánimo, cuidemos igualmente de no emplear jamás aquéllas que la buena sociedad tiene proscritas, como caramba, diablo, demonio y otras semejantes.
+8. Respecto de las interjecciones, y de toda palabra con que hayamos de expresar la admiración, la sorpresa o cualquiera otro afecto del ánimo, cuidemos igualmente de no emplear jamás aquéllas que la buena sociedad tiene proscritas, como caramba, diablo, demonio y otras semejantes.
 
 9. En ningún caso nos es lícito hacer mención de una persona por medio de un apodo o sobrenombre. Con esto no sólo ofendemos a aquel a quien: nos referimos, sino que faltamos a la consideración que debemos a las personas que nos oyen.
 
@@ -191,14 +182,11 @@ Y el que no tiene adquirida tal reputación, en vano buscará en las formas el m
 
 11. El medio más natural, y expresivo para agradar a los demás en sociedad es ciertamente el de la palabra; y un hombre de buenas maneras lo aprovecha siempre en su trato con el bello sexo, sembrando su conversación de manifestaciones galantes y obsequiosas, que toma en la fuente de la discreción y el respeto, y dirige con exquisita delicadeza y evidente oportunidad. Pero téngase presente que es altamente impropio y desacatado el uso de requiebros y zalamerías en todas ocasiones, con toda mujer con quien se habla, sin miramiento alguno a la edad, al estado, ni a las demás circunstancias de las personas, y sin atender al grado de confianza que con ellas se tiene.
 
-12. El hombre que incurre en la falta indicada en el párrafo anterior no ofende tan sólo la dignidad de la mujer, sino también su amor propio; pues al ocupar tan frívolamente su atención, la declara de hecho incapaz de sustentar una conversación más seria e interesante.
+12. El hombre que incurre en la falta indicada en el párrafo anterior no ofende tan sólo la dignidad de la mujer, sino también su amor propio; pues al ocupar tan frívolamente su atención, la declara de hecho incapaz de sustentar una conversación más seria e interesante. Y la mujer juiciosa y culta que así se ve tratada debe rechazar el insulto y hacerse respetar, combinando para ello la moderación, que le es tan propia, con la energía y la firmeza de que en tales casos debe también vestirse.
 
-Y la mujer juiciosa y culta que así se ve tratada debe rechazar el insulto y hacerse respetar, combinando para ello la moderación, que le es tan propia, con la energía y la firmeza de que en tales casos debe también vestirse.
+13. Nada hay más vulgar ni más grosero, que la costumbre de usar de chanzas e indirectas con referencia a relaciones entre personas de distinto sexo, sobre todo cuando aquella a quien se dirigen está acompañada con alguna otra, y cuando no se tiene con ella una íntima confianza. 1
 
-13. Nada hay más vulgar ni más grosero, que la costumbre de usar de chanzas e indirectas con referencia a relaciones entre personas de distinto sexo, sobre todo cuando aquella a quien se dirigen está
-acompañada con alguna otra, y cuando no se tiene con ella una íntima confianza. 1
-
-4. La natural propensión que todos tenemos a echar mano de la sátira en nuestros razonamientos, no debe ser enteramente reprimida, sino ilustrarse y morigerarse, para que pueda ser dirigida de una manera discreta, inofensiva y conveniente. La sátira es una de las sales que más sazonan la conversación, y tiene además la tendencia moral de corregir y mejorar las costumbres; pero jamás cuando se la emplea en atacar la, dignidad o el amor propio de señaladas personas, pues entonces se convierte en un arma envenenada y alevosa, tan sólo propia para encender y dividir los ánimos, y para destruir las más sólidas relaciones sociales.
+14. La natural propensión que todos tenemos a echar mano de la sátira en nuestros razonamientos, no debe ser enteramente reprimida, sino ilustrarse y morigerarse, para que pueda ser dirigida de una manera discreta, inofensiva y conveniente. La sátira es una de las sales que más sazonan la conversación, y tiene además la tendencia moral de corregir y mejorar las costumbres; pero jamás cuando se la emplea en atacar la, dignidad o el amor propio de señaladas personas, pues entonces se convierte en un arma envenenada y alevosa, tan sólo propia para encender y dividir los ánimos, y para destruir las más sólidas relaciones sociales.
 
 15. Otro tanto debe decirse de la ironía, la cual comunica a la conversación cierta gracia que la hace animada y agradable, cuando se usa con una prudente oportunidad y sin ofensa de nadie.
 
@@ -208,9 +196,9 @@ acompañada con alguna otra, y cuando no se tiene con ella una íntima confianza
 
 18. No emitamos nunca un juicio que hayamos formado por sospechas, propias o ajenas, o por relaciones poco fidedignas, presentándolo de modo que pueda entenderse que hablamos de un hecho real y verdadero. Y respecto de los juicios que no adolezcan de estos defectos, abstengámonos siempre de emitirlos, cuando directa o indirectamente hayan de recaer sobre personas y puedan por algún respecto serles desagradables.
 
-<amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-139_1.png" layout="intrinsic" width="566" height="357"></amp-img>
+19. Seamos muy medidos para sentar principios generales contra las costumbres o defectos de los hombres, pues con ellos podemos desagradar a nuestros mismos amigos, atacar los intereses o el buen nombre de un gremio o corporación, y aun aparecer como excitados por nuestros particulares resentimientos. La persona que asegurase que en el mundo no hay más que ingratos, ofenderla naturalmente a sus oyentes; la que hablando de los extravíos de un personaje histórico, los presentase como inherentes a su estado o profesión, arrojarla una mancha sobre todo el gremio; y la mujer, en fin, que dijese que todos los hombres son inconstantes, no guardarla por cierto un perfecto decoro. 
 
-19. Seamos muy medidos para sentar principios generales contra las costumbres o defectos de los hombres, pues con ellos podemos desagradar a nuestros mismos amigos, atacar los intereses o el buen nombre de un gremio o corporación, y aun aparecer como excitados por nuestros particulares resentimientos. La persona que asegurase que en el mundo no hay más que ingratos, ofenderla naturalmente a sus oyentes; la que hablando de los extravíos de un personaje histórico, los presentase como inherentes a su estado o profesión, arrojarla una mancha sobre todo el gremio; y la mujer, en fin, que dijese que todos los hombres son inconstantes, no guardarla por cierto un perfecto decoro.  
+<amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-139_1.png" layout="intrinsic" width="566" height="357"></amp-img>
 
 **E** 
 =====
@@ -223,9 +211,7 @@ acompañada con alguna otra, y cuando no se tiene con ella una íntima confianza
 
 3. Las exposiciones preliminares deben ser cortas, y contraerse exclusivamente a aquellas noticias que sean indispensables para la inteligencia de lo que va a referirse. Nada hay más desagradable y fatigante que un preámbulo difuso y minucioso, cuando se aguarda con interés o curiosidad el asunto principal de la narración. Un narrador entendido y discreto, difiere, por el contrario, algunos datos explicatorios que los hechos requieran, para después que ha satisfecho la ansiedad que ha llegado a descubrir en sus oyentes.
 
-4. Igual consideración debe obligarnos a reducir a estrechos límites la parte descriptiva de las narraciones. A veces es imposible tomar un conocimiento exacto de los sucesos, sin tener por lo menos una ligera idea de los usos o costumbres de un pueblo, del carácter o fisonomía de una persona, de la disposición en que estaban ordenados ciertos objetos, de la topografía de un lugar, de la vista de una ciudad, de un campo, de un sembrado, etc., etc.
-
-Mas en ningún caso debe perderse de vista un solo instante que la descripción que se haga no es el asunto principal del discurso, y que ella no debe ir nunca más allá de la necesidad de ilustrar la atención de los oyentes.
+4. Igual consideración debe obligarnos a reducir a estrechos límites la parte descriptiva de las narraciones. A veces es imposible tomar un conocimiento exacto de los sucesos, sin tener por lo menos una ligera idea de los usos o costumbres de un pueblo, del carácter o fisonomía de una persona, de la disposición en que estaban ordenados ciertos objetos, de la topografía de un lugar, de la vista de una ciudad, de un campo, de un sembrado, etc., etc. Mas en ningún caso debe perderse de vista un solo instante que la descripción que se haga no es el asunto principal del discurso, y que ella no debe ir nunca más allá de la necesidad de ilustrar la atención de los oyentes.
 
 5. La edad, el carácter, y las demás circunstancias de las personas que nos oyen, pueden a veces influir en la mayor o menor brevedad de las narraciones. Los detalles demasiado minuciosos fastidian a las personas de edad provecta, y a aquéllas que han elevado su espíritu a mucha altura en alas de las ciencias o de las bellas artes; mas no siempre son oídos con disgusto por los jóvenes, y por aquellos que sólo poseen una mediana instrucción.
 
@@ -241,7 +227,7 @@ Mas en ningún caso debe perderse de vista un solo instante que la descripción 
 
 11. No recomendemos nunca el mérito de lo que vamos a referir, especialmente cuando se trate de un asunto chistoso. Nuestra recomendación, lejos de añadir importancia a las cosas, podría más bien atenuar la que realmente tuviesen, porque la imaginación del hombre le hace casi siempre encontrar pequeño lo que se le ha ponderado como grande.
 
-12 Evitemos el reírnos en medio de la relación que hagamos de suceso chistoso, cuando nuestros oyentes se mantengan serios.
+12. Evitemos el reírnos en medio de la relación que hagamos de suceso chistoso, cuando nuestros oyentes se mantengan serios.
 
 13. Jamás llamemos la atención de una sociedad, para referir hechos demasiado conocidos o que estén circulando impresos; a menos que tengamos la seguridad de que son ignorados por la mayor parte de los circunstantes, o que expresamente se nos excite a referirlos.
 
@@ -257,13 +243,13 @@ Mas en ningún caso debe perderse de vista un solo instante que la descripción 
 
 19. No es una falta el nombrar a las personas que han intervenido en el hecho que se refiere, cuando sus acciones han sido evidentemente buenas y recomendables; pero si éstas han sido malas, deberán silenciarse absolutamente sus nombres. Y téngase presente que a veces la misma naturaleza de un hecho o las circunstancias que lo acompañan, dan a conocer a sus autores, aun cuando no sean nombrados.
 
-<amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-145_1.png" layout="intrinsic" width="566" height="217"></amp-img>
-
 20. Seamos muy circunspectos para transmitir noticias políticas, o de cualquiera otra especie, que hayan de circular desde luego y puedan llegar a comprometer nuestra responsabilidad moral; y cuando, atendidas todas las circunstancias, la prudencia nos autorice para ello, limitémonos cuidadosamente a ser fieles narradores, sin incurrir nunca en la grave falta de exagerar o desfigurar los hechos.
 
 21. Por regla general, jamás nos hagamos órgano de noticias que no hayan venido a nuestro conocimiento por conductos seguros y fidedignos, o que evidentemente carezcan de verosimilitud.
 
 22. Tengamos especial cuidado de no referir más de una vez a una persona una misma cosa; y aun en los casos en que estemos seguros de que aquella con quien hablamos no ha oído de nosotros el hecho que queremos referirle, pensemos que acaso lo conoce tanto como nosotros. No es difícil que recordemos en cada ocasión lo que hemos referido a las personas con quien tenemos un trato íntimo y frecuente; y respecto de las demás, procuremos, antes de entrar en la relación de un hecho, averiguar prudentemente silo ignoran.  
+
+<amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-145_1.png" layout="intrinsic" width="566" height="217"></amp-img>
 
 **F** 
 =====
@@ -278,8 +264,7 @@ Mas en ningún caso debe perderse de vista un solo instante que la descripción 
 
 4. No quiere decir esto que debemos contribuir a aumentar la exaltación de aquel que nos refiere la ofensa que ha recibido, ni la amargura del que nos habla de sus desgracias. Por el contrario, debemos siempre tratar de calmar al uno, y de consolar al otro, con palabras y observaciones delicadas y oportunas, pero sería grande incivilidad e indolencia manifestamos serenos y tranquilos con el que está agitado, alegres con el que está triste, mustios y displicentes con el que se muestra animado y contento. 
 
-5. De la misma manera nuestra atención debe corresponder siempre a las miradas del que habla, o al espíritu de su conversación; manifestándonos admirados o sorprendidos, cuando se nos refiera un hecho con el carácter de extraordinario, y compadecidos, si el hecho es triste y lastimoso; aplaudiendo aquellos rasgos que se nos presenten como nobles y generosos; celebrando los chistes y agudezas, y manifestando siempre, en suma, con naturalidad y sencillez, todos los efectos que la persona que nos habla ha esperado excitar en nuestro
-ánimo, aun cuando no haya sido feliz en la elección de los medios.
+5. De la misma manera nuestra atención debe corresponder siempre a las miradas del que habla, o al espíritu de su conversación; manifestándonos admirados o sorprendidos, cuando se nos refiera un hecho con el carácter de extraordinario, y compadecidos, si el hecho es triste y lastimoso; aplaudiendo aquellos rasgos que se nos presenten como nobles y generosos; celebrando los chistes y agudezas, y manifestando siempre, en suma, con naturalidad y sencillez, todos los efectos que la persona que nos habla ha esperado excitar en nuestro ánimo, aun cuando no haya sido feliz en la elección de los medios.
 
 6. La distracción incluye casi siempre una grave falta, que puede conducirnos a lances de una desagradable trascendencia, por cuanto indica generalmente menosprecio a la persona que nos habla, y no siempre encontramos indulgencia en el que llega a creerse de esta suerte ofendido. Las frecuentes preguntas sobre la inteligencia de lo que se nos está hablando, la excitación a que se nos repitan palabras o frases de fácil comprensión, y una mirada fija, inanimada e inteligente, revelan distracción en el que oye; y nada puede haber más desatento ni más bochornoso, que llegar a un punto de la conversación, en que nos toque hablar o contestar una pregunta y tener que confesar nuestra incapacidad de hacerlo, por haber permanecido extraños a los antecedentes.
 
@@ -295,8 +280,6 @@ Mas en ningún caso debe perderse de vista un solo instante que la descripción 
 
 12. La más grave, acaso, de todas las faltas que pueden cometerse en sociedad, es la de desmentir a una persona, por cuanto de este modo se hace una herida profunda a su carácter moral; y no creamos que las palabras suaves que se empleen puedan en manera alguna atenuar semejante injuria. Es licito en ciertos casos contradecir un relato equivocado; mas para ello deberemos tener muy presentes las reglas que acerca de este punto quedan establecidas, y sobre todo, la estricta obligación en que estamos de salvar siempre la fe y la intención de los demás.
 
-<amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-149_1.png" layout="intrinsic" width="562" height="281"></amp-img>
-
 13. No está admitido contradecir en ningún caso a las personas que se encuentran en un círculo de etiqueta, ni a aquéllas que están constituidas en alta dignidad. Lo que generalmente autoriza para contradecir es la necesidad de vindicar la ajena honra, cuando delante de nosotros puede quedar en alguna manera vulnerada; mas en sociedad con tales personas no hay lugar a esto, porque de ellas no podemos oír jamás ninguna palabra que salga de los límites de la más severa circunspección.
 
 14. Cuando una persona se manifiesta seriamente interesada en el asunto de que habla, es una incivilidad llamar su atención para referirle una anécdota, o para que nos oiga una ocurrencia chistosa; y todavía lo es mucho más hacer degenerar su conversación, dándole por nuestra parte un carácter burlesco, aun cuando pretendamos de este modo distraerla de ideas que la agiten o la tengan disgustada.
@@ -305,12 +288,13 @@ Mas en ningún caso debe perderse de vista un solo instante que la descripción 
 
 16. Cuando por algún motivo nos sea desagradable el asunto de que nos hable una persona. y creamos prudente variar de conversación, no lo hagamos repentinamente, ni valiéndonos de ningún medio que pueda dejar entrever la intención que nos guía. A menos que el asunto produzca en nosotros impresión demasiado profunda, pues entonces nos es lícito manifestarlo francamente, y aun alejarnos con cualquier pretexto razonable.
 
-17.-   Siempre que oigamos una palabra o frase que sólo admita una inteligencia absurda, procuremos discretamente hacer que la persona que nos habla nos repita el concepto; pues seria para ella ofensivo que la considerásemos capaz de expresarse de semejante modo, cuando en realidad no hubiese habido. de su parte sino una simple equivocación.
+17. Siempre que oigamos una palabra o frase que sólo admita una inteligencia absurda, procuremos discretamente hacer que la persona que nos habla nos repita el concepto; pues seria para ella ofensivo que la considerásemos capaz de expresarse de semejante modo, cuando en realidad no hubiese habido. de su parte sino una simple equivocación.
 
 18. Guardémonos de darnos por entendidos, y sobre todo de reírnos, de alguna palabra o frase poco culta que involuntariamente se escape a la persona que habla.
 
-19. Finalmente son faltas contra la atención que debemos prestar a la persona que habla, 1.°, interrumpirla a cada instante con las palabras si, sí, señor, y otras semejantes; 2.°, emplear, para excitaría a repetir lo que no olmos claramente, las palabras ¿cómo?, ¿eh? y otras que indican poco respeto; 3°, suministrarle palabras que ha de usar, cuando se detiene algunos instantes por no encontrarlas prontamente; 4.°
-corregirle las palabras o frases, cada vez que incurre en una equivocación; 5.°, usar con frecuencia de interjecciones, y de palabras y frases de admiración o de sorpresa. 
+19. Finalmente son faltas contra la atención que debemos prestar a la persona que habla, 1.°, interrumpirla a cada instante con las palabras si, sí, señor, y otras semejantes; 2.°, emplear, para excitaría a repetir lo que no olmos claramente, las palabras ¿cómo?, ¿eh? y otras que indican poco respeto; 3°, suministrarle palabras que ha de usar, cuando se detiene algunos instantes por no encontrarlas prontamente; 4.° corregirle las palabras o frases, cada vez que incurre en una equivocación; 5.°, usar con frecuencia de interjecciones, y de palabras y frases de admiración o de sorpresa. 
+
+<amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-149_1.png" layout="intrinsic" width="562" height="281"></amp-img>
 
 **II**
 ======
@@ -353,35 +337,31 @@ corregirle las palabras o frases, cada vez que incurre en una equivocación; 5.�
 
 4. Cuando hayamos de presentar a un caballero en una casa, veamos ante todo si su posición social, su educación, sus principios, y todas sus demás circunstancias personales, están en armonía con las de la familia en cuya amistad vamos a introducirle.
 
-5. No procedamos a pedir a un padre o a una madre de familia, o a una señora cualquiera, el permiso expreso y formal que es indispensable para presentarle a un caballero, sino después que, por medios prudentes e indirectos, hayamos descubierto disposición a admitirle en su amistad.
-Si no existe tal disposición, deberemos abstenemos de solicitar el permiso, ocultando cuidadosamente el resultado de nuestras observaciones a la persona que intentábamos presentar.
+5. No procedamos a pedir a un padre o a una madre de familia, o a una señora cualquiera, el permiso expreso y formal que es indispensable para presentarle a un caballero, sino después que, por medios prudentes e indirectos, hayamos descubierto disposición a admitirle en su amistad. Si no existe tal disposición, deberemos abstenemos de solicitar el permiso, ocultando cuidadosamente el resultado de nuestras observaciones a la persona que intentábamos presentar.
 
 6. Para presentar a una persona en una casa no elijamos nunca el día en que se prepare en ella algún festín o en que se celebre o conmemore un acontecimiento feliz, o en que por cualquier motivo se experimente un gran pesar; a menos que medie alguna particular circunstancia, que evidentemente nos autorice para prescindir de tales consideraciones, no sólo a nosotros, sino también a la persona que vamos a presentar.
 
 7. El lugar más propio para una presentación especial es la casa de la persona a quien se hace; bien que no es una falta aprovechar para ello una ocasión favorable que las circunstancias proporcionen en otra parte, sobre todo cuando la presentación es de una persona a otra de su mismo sexo, y el acto no se extiende a toda una familia.
 
-8. Para la presentación de un caballero en una casa se observarán las reglas siguientes: l.a, al llegar a la sala de recibo, conduciremos al caballero ante el señor de la casa, el cual, por su parte, deberá desde luego dirigirse a nosotros, y le haremos la presentación, mencionándole el nombre del presentado, en la forma que ha quedado establecida; 2a, el señor de la casa conducirá luego al caballero ante la señora y se lo presentará él mismo, quedando así
-presentado a toda la familia; 3.a, cuando la señora no tenga marido, y tenga hijos ya formados, después que el caballero le haya sido presentado, lo presentará ella al más caracterizado de sus hijos, quedando de hecho presentado a los demás. 4.a, cuando en el caso de la regla anterior, el caballero sea notablemente superior al hijo más caracterizado de la señora, bien por su edad, o por cualesquiera otras circunstancias, el segundo será presentado al primero; 5.a, al terminarse la, visita el presentado rendirá sus respetos a los dueños de la casa, en breves y precisos términos, principiando por la señora, y ellos le contestarán con palabras obsequiosas de ofrecimiento, las cuales serán también breves y precisas.
+8. Para la presentación de un caballero en una casa se observarán las reglas siguientes: l.a, al llegar a la sala de recibo, conduciremos al caballero ante el señor de la casa, el cual, por su parte, deberá desde luego dirigirse a nosotros, y le haremos la presentación, mencionándole el nombre del presentado, en la forma que ha quedado establecida; 2a, el señor de la casa conducirá luego al caballero ante la señora y se lo presentará él mismo, quedando así presentado a toda la familia; 3.a, cuando la señora no tenga marido, y tenga hijos ya formados, después que el caballero le haya sido presentado, lo presentará ella al más caracterizado de sus hijos, quedando de hecho presentado a los demás. 4.a, cuando en el caso de la regla anterior, el caballero sea notablemente superior al hijo más caracterizado de la señora, bien por su edad, o por cualesquiera otras circunstancias, el segundo será presentado al primero; 5.a, al terminarse la, visita el presentado rendirá sus respetos a los dueños de la casa, en breves y precisos términos, principiando por la señora, y ellos le contestarán con palabras obsequiosas de ofrecimiento, las cuales serán también breves y precisas.
 
 9. En todo acto de presentación especial, la persona a quien ésta se hace extenderá la mano a la persona presentada, dirigiéndole algunas cortas palabras de ofrecimiento y en que le manifieste el placer que tendrá de cultivar su amistad, las cuales deberán serle contestadas con otras de igual naturaleza.
 
-10. Cuando es una señora la que ha de ser presentada en una casa, la presentación se hará a la señora de ésta, la cual le presentará
-inmediatamente su marido; y si no teniendo marido, tuviese hijos ya formados, el más caracterizado de ellos será presentado a aquélla por su madre. Al retirarse la señora, rendirá sus respetos a la de la casa en la forma ya indicada; mas el marido o el hijo adelantarán siempre estas manifestaciones a la señora presentada.
+10. Cuando es una señora la que ha de ser presentada en una casa, la presentación se hará a la señora de ésta, la cual le presentará inmediatamente su marido; y si no teniendo marido, tuviese hijos ya formados, el más caracterizado de ellos será presentado a aquélla por su madre. Al retirarse la señora, rendirá sus respetos a la de la casa en la forma ya indicada; mas el marido o el hijo adelantarán siempre estas manifestaciones a la señora presentada.
 
 11. Cuando presentemos a un caballero en una casa, procuremos que durante la visita permanezca a nuestro lado y tan cerca como sea posible de los dueños de la casa. Si es una señora la presentada, la señora de la casa la situará precisamente a su lado.
 
 12. En ningún caso podrá el presentante separarse de la visita de presentación, ni antes ni después del presentado, tocando siempre al primero excitar al segundo a terminar la visita, cuando aquél no sea un miembro de la familia de la casa; silo fuere, esperará la excitación del presentado, el cual la hará algo más tarde de lo que debe hacerla siempre el presentante, como se verá en el artículo de las visitas.
 
-13. Cuando una persona recibe un servicio de grande importancia, o una muestra cualquiera de especial consideración y aprecio, de otra persona de posición social análoga a la suya y con la cual no tenga amistad, debe considerarse, por este sólo hecho, como presentada especialmente a ésta, y hacerle desde luego una visita, la cual tendrá
-por objeto, no sólo manifestarle su agradecimiento, sino ofrecerle su amistad y sus respetos. Esta visita, sin embargo, deberá reputarse como la de presentación.
+13. Cuando una persona recibe un servicio de grande importancia, o una muestra cualquiera de especial consideración y aprecio, de otra persona de posición social análoga a la suya y con la cual no tenga amistad, debe considerarse, por este sólo hecho, como presentada especialmente a ésta, y hacerle desde luego una visita, la cual tendrá por objeto, no sólo manifestarle su agradecimiento, sino ofrecerle su amistad y sus respetos. Esta visita, sin embargo, deberá reputarse como la de presentación.
 
 14. Debemos una visita a la persona a quien hemos sido presentados, después de la que haya tenido por objeto el acto de la presentación; siendo de advertir que la mayor o menor distancia que media entre este acto y nuestra visita, será considerada como un signo del mayor o menor aprecio que hacemos de la amistad que acabamos de contraer. La etiqueta no admite, sin embargo, que esta visita se haga al siguiente día, cuando a ello no obliga alguna particular circunstancia.
 
 15. Cuando con arreglo al párrafo 7 de la página 218, la presentación haya ocurrido fuera de la casa de la persona a quien se ha hecho, la visita de presentación quedará suplida por el mismo acto, y el presentado procederá desde luego a hacer la que se indica en el párrafo anterior. 
 
-<amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-154_1.png" layout="intrinsic" width="493" height="751"></amp-img>
-
 16. La persona que es presentada por medio de una carta está relevada del deber que impone el párrafo 15; y así, luego que ha hecho su visita de presentación, no hace ninguna otra cosa hasta que aquélla no le ha sido pagada.
+
+<amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-154_1.png" layout="intrinsic" width="493" height="751"></amp-img>
 
 **C**
 =====
@@ -410,13 +390,13 @@ por objeto, no sólo manifestarle su agradecimiento, sino ofrecerle su amistad y
 
 11. Por regla general, siempre que yendo por la calle con un amigo, la persona para él desconocida que se nos acerque, no haya de permanecer con nosotros sino breves instantes, nos abstendremos de ponerlos en comunicación, si no tenemos para ello un motivo especial.
 
-<amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-157_1.jpg" layout="intrinsic" width="566" height="167"></amp-img>
-
 12. La presentación de un caballero a una señora o señorita en un baile, para que, según las reglas de la etiqueta, le sea lícito invitarla a bailar, será hecha preferentemente por un miembro de la familia de aquélla, o por una persona de la casa, y no siendo esto fácil, por cualquier amigo común; pero en ningún caso por otro caballero que le haya sido presentado en la misma reunión.
 
 13. En una presentación ocasional, la persona a quien ésta se hace, y la que es presentada, se limitarán a hacerse recíprocamente una inclinación, sin dirigirse ninguna palabra relativa a la presentación; y al despedirse, se abstendrán de hacerse ninguna especie de ofrecimiento, y sólo se darán la mano si fueren de un mismo sexo. Sin embargo, en las presentaciones ocasionales por cartas está admitido el darse siempre la mano, y aun hacerse recíprocamente ofrecimientos obsequiosos.
 
 14. Una presentación ocasional puede dar origen a la más larga y sólida amistad; pero esto, como se ha dicho antes, es obra de las simpatías y de otras circunstancias particulares que pueden influir en cada caso, las cuales no entran en la mente del que hace la presentación, así como no podrían comprenderse en los estrechos límites de un libro elemental.  
+
+<amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-157_1.jpg" layout="intrinsic" width="566" height="167"></amp-img>
 
 **D** 
 =====
@@ -425,9 +405,7 @@ por objeto, no sólo manifestarle su agradecimiento, sino ofrecerle su amistad y
 
 1. Cuando al ausentarse un amigo nuestro, nos vemos en el caso de introducirle al conocimiento de otro amigo que reside en el lugar adonde aquél se dirige, le damos con este objeto una carta, que conduce él mismo, en la cual va contenida la presentación que de él hacemos.
 
-2.  .Estas presentaciones son especiales, cuando recomendamos al amigo a quien escribimos las cualidades del portador de la carta, y le excitamos a admitir a éste en su amistad; y son ocasionales, cuando nos limitamos a una simple introducción, para que dispense al portador determinadas atenciones, o todas aquellas que son más necesarias a un forastero, o para que coopere por su parte al éxito de algún negocio que lleva entre manos.
-
-Las cartas toman desde luego su nombre de la misma naturaleza de las presentaciones, y se llaman cartas de presentación especial y cartas de presentación ocasional.
+2.  .Estas presentaciones son especiales, cuando recomendamos al amigo a quien escribimos las cualidades del portador de la carta, y le excitamos a admitir a éste en su amistad; y son ocasionales, cuando nos limitamos a una simple introducción, para que dispense al portador determinadas atenciones, o todas aquellas que son más necesarias a un forastero, o para que coopere por su parte al éxito de algún negocio que lleva entre manos. Las cartas toman desde luego su nombre de la misma naturaleza de las presentaciones, y se llaman cartas de presentación especial y cartas de presentación ocasional.
 
 3. Las presentaciones por carta están sujetas a todas las reglas de este artículo que a ellas son aplicables; así es que para hacerlas, no menos que para exigirías, deberán tenerse presentes las mismas consideraciones y los mismos requisitos que quedan expresados. Pero entre las presentaciones ocasionales verbales, y las que se hacen por medio de cartas, existe una notable diferencia que no debe jamás perderse de vista: las primeras, como se ha dicho, no dejan obligadas a las personas que por ellas se han puesto en comunicación, a darse por conocidas ni a saludarse en otra manera; mas no sucede lo mismo respecto de las segundas, las cuales, por su propia naturaleza, incluyen siempre la prestación de un servicio que recibe la persona presentada de aquella a quien se presenta, y esta sola circunstancia constituye a la una en el deber de saludar a la otra donde quiera que la encuentre, y aun de manifestarle en todo tiempo su agradecimiento de un modo análogo a la entidad del servicio que haya recibido. 4.No cesando, pues, enteramente las relaciones que establecen las presentaciones ocasionales por carta, como sucede cuando se hacen verbalmente, debemos ser muy circunspectos para pedir estas cartas y pensar sobre todo, que siendo demasiado penoso el negarlas, podrán dársenos a veces tan sólo para evitarnos el sonrojo de la negativa.
 
@@ -445,8 +423,7 @@ Las cartas toman desde luego su nombre de la misma naturaleza de las presentacio
 
 11. El que recibe una carta de presentación especial, debe servir y obsequiar, en cuanto sus medios se lo permitan, a la persona que le es presentada, considerando que de este modo sirve y obsequia también al amigo que le ha hecho la presentación.
 
-12. Las cartas de presentación ocasional se entregan en persona, prefiriendo siempre para ello el escritorio de aquella a quien se dirigen, si es un hombre de negocios; y no incluyen la obligación de ninguna visita, ni de otros actos de comunicación, que aquellos que se deduzcan del objeto de la introducción. Sin embargo, el presentado no podrá ausentarse del lugar en que se encuentra, sin acercar-se a la persona a quien fue introducido, con el exclusivo objeto de pedirle sus
-órdenes, y de darle las gracias por los servicios y atenciones que de ella hubiere recibido.
+12. Las cartas de presentación ocasional se entregan en persona, prefiriendo siempre para ello el escritorio de aquella a quien se dirigen, si es un hombre de negocios; y no incluyen la obligación de ninguna visita, ni de otros actos de comunicación, que aquellos que se deduzcan del objeto de la introducción. Sin embargo, el presentado no podrá ausentarse del lugar en que se encuentra, sin acercar-se a la persona a quien fue introducido, con el exclusivo objeto de pedirle sus órdenes, y de darle las gracias por los servicios y atenciones que de ella hubiere recibido.
 
 13. Cuando la carta de presentación ocasional tiene por objeto el tratar sobre un negocio, la política no permite que se ponga a la persona a quien se dirige, en el caso de entrar inopinadamente en una conferencia para la cual no está preparada; y así, el portador debe remitirle aquélla junto con una esquela, en que le ofrezca sus respetos, y le pida el señalamiento de. hora y lugar para presentársele en persona. El que recibe esta esquela debe contestarla inmediatamente, y sólo por un grave motivo dejará de recibir al presentado en el mismo día.
 
@@ -472,30 +449,27 @@ Las cartas toman desde luego su nombre de la misma naturaleza de las presentacio
 
 4. Seamos, pues cuidadosos y esmerados en hacer oportunamente todas aquellas visitas a que tales consideraciones nos obliguen, y pensemos que por más que nuestra omisión no tenga origen en la ignorancia de las leyes de la etiqueta, ni en la falta de sentimientos amistosos, ella será casi siempre atribuida a una u otra causa, por cuanto es por las señales exteriores que se juzga más generalmente de nuestra educación y de nuestras disposiciones para con los demás; siendo digno de notarse, que son muchos los casos en que la falta de una visita llega a ocasionar serios desagrados y aun a disolver los lazos de una antigua amistad.
 
-5. Como según las reglas anteriormente establecidas, debemos permanecer en nuestra casa decentemente vestidos, y a las horas de recibo en un traje propio para recibir toda especie de visitas y como nuestra sala debe estar siempre perfectamente arreglada, de modo que no sea necesario prepararla ocasionalmente al anunciársenos una visita, es de todo punto innecesario que las señoras, como ha solido acostumbrarse, se pasen recado pidiéndose permiso para visitarse en señaladas horas.
-Aunque no medie entre ellas ninguna confianza, pueden visitarse libremente sin previo permiso.
+5. Como según las reglas anteriormente establecidas, debemos permanecer en nuestra casa decentemente vestidos, y a las horas de recibo en un traje propio para recibir toda especie de visitas y como nuestra sala debe estar siempre perfectamente arreglada, de modo que no sea necesario prepararla ocasionalmente al anunciársenos una visita, es de todo punto innecesario que las señoras, como ha solido acostumbrarse, se pasen recado pidiéndose permiso para visitarse en señaladas horas. Aunque no medie entre ellas ninguna confianza, pueden visitarse libremente sin previo permiso.
 
 6. Nos es enteramente lícito negarnos, o hacer decir a las personas que nos soliciten que no estamos de recibo, cuando no nos encontremos en disposición de recibir, ya sea porque tengamos entre manos alguna ocupación que no podamos abandonar, ya porque nos preparemos a salir con urgencia1 ya por cualquiera otro motivo, que a ninguno le es permitido entrar a juzgar ni a examinar. Y es mostrar poca cultura, y una completa ignorancia de los usos de la buena sociedad, el darnos por ofendidos porque una persona se excuse de recibirnos, o porque hayamos sospechado, y aun llegado a descubrir, que se encuentra en casa, habiéndosenos contesta. do estar fuera de ella.
 
 7. Sin esta libertad, las visitas, que son generalmente actos de amistad y 'de consideración, se convertirían en muchos casos en actos tiránicos y aun llegarían a ser, hasta cierto punto odiosas, según fuese la entidad del perjuicio que una persona recibiese en sus intereses, por haber de someterse a recibir una visita, precisamente a tiempo en que un negocio de importancia y de naturaleza perentoria exigiese su presencia en otra parte.
 
-8. Es evidente que el reconocimiento de estos principios y su aplicación a la práctica, comunica grande expedición a las relaciones sociales, y las liberta al mismo tiempo de las diferencias y resentimientos que sin ellos ocurrirían a cada paso, pues ninguno está
-exento de la imposibilidad absoluta de recibir en ciertas ocasiones, ni de que, habiéndose negado, se descubra por las personas que le solicitan, que se halla en su casa.
+8. Es evidente que el reconocimiento de estos principios y su aplicación a la práctica, comunica grande expedición a las relaciones sociales, y las liberta al mismo tiempo de las diferencias y resentimientos que sin ellos ocurrirían a cada paso, pues ninguno está exento de la imposibilidad absoluta de recibir en ciertas ocasiones, ni de que, habiéndose negado, se descubra por las personas que le solicitan, que se halla en su casa.
 
 9. Este general consentimiento nos ahorra también el embarazo en que nos encontraríamos muchas veces en una visita, por ignorar si hablamos llegado en oportunidad; pudiendo desde luego estar tranquilos y satisfechos al considerar que la persona que nos recibe ha tenido la libertad de excusarlo.
 
 10. Para terminar esta breve disertación sobre la libertad de excusarse de recibir visitas, que admite hoy la buena sociedad en todas partes, advertiremos que el que usa de este derecho, lo hace muchas veces aun cuando se trate de la visita de un amigo muy querido, cuya compañía le proporciona los ratos más amenos, o de una persona que le solicita con el objeto de hablarle sobre negocios para él importantes, consideración que hace subir de punto la justificación de todo el que, impulsado por un motivo cualquiera, tiene a bien hacer que se diga a los que le soliciten en su casa que no se encuentra en ella o que no está de recibo. 1
 
-1. Por regla general, siempre que se nos diga que la persona que solicitamos en su casa está fuera de ella, nos abstendremos de hacer ninguna inquisición sobre el lugar en que pueda encontrarse; y aun cuando tengamos motivo para sospechar que se ha negado, o la hayamos alcanzado a ver en el interior de la casa, nos retiraremos sin decir una sola palabra. sobre el particular, y sin darnos por ofendidos. Yen el caso de que se nos conteste que no está de recibo, guardémonos de dirigirle ningún recado pretendiendo que nos reciba a nosotros, y retirémonos igualmente, sin creemos tampoco por esto en manera alguna ofendidos.
+11. Por regla general, siempre que se nos diga que la persona que solicitamos en su casa está fuera de ella, nos abstendremos de hacer ninguna inquisición sobre el lugar en que pueda encontrarse; y aun cuando tengamos motivo para sospechar que se ha negado, o la hayamos alcanzado a ver en el interior de la casa, nos retiraremos sin decir una sola palabra. sobre el particular, y sin darnos por ofendidos. Yen el caso de que se nos conteste que no está de recibo, guardémonos de dirigirle ningún recado pretendiendo que nos reciba a nosotros, y retirémonos igualmente, sin creemos tampoco por esto en manera alguna ofendidos.
 
 12. Siempre que se nos niegue, o excuse recibirnos, una persona a quien solicitemos para advertirla de un peligro que la amenaza, o para tratar de un asunto cualquiera de urgencia, la discreción y las circunstancias nos indicarán de qué manera debemos conducirnos, si es que nos fuere imposible dejarle una nota en que la impongamos brevemente del objeto de nuestra visita.
 
-13. Jamás solicitemos a una persona en una casa que no sea la suya.
-Tan sólo podría ser esto excusable en circunstancias enteramente extraordinarias, o en caso de que, existiendo una íntima y reciproca confianza entre la persona que solicitásemos, la familia de la casa en que se encontrase y nosotros mismos, tuviésemos que tratar con aquélla un asunto de alguna importancia.
+13. Jamás solicitemos a una persona en una casa que no sea la suya. Tan sólo podría ser esto excusable en circunstancias enteramente extraordinarias, o en caso de que, existiendo una íntima y reciproca confianza entre la persona que solicitásemos, la familia de la casa en que se encontrase y nosotros mismos, tuviésemos que tratar con aquélla un asunto de alguna importancia.
 
 14. Las señoras deben evitar el hacer visitas de noche a grandes distancias de su domicilio, sobre todo cuando puede existir algún peligro en el tránsito, siempre que no vayan acompañadas por caballeros de su familia, a fin de no poner a los que encuentren en las visitas en el caso de salir a conducirlas hasta su casa
 
-15. \_ Jamás debe un caballero permitirse visitar diariamente una casa de familia, sino en los casos siguientes: 1.°, cuando a ello se vea impulsado por circunstancias excepcionales, que puedan merecer una discreta sanción del público; 2°, cuando sea pariente muy cercano de la familia que visita; 3°. cuando en la casa haya una tertulia establecida y constante, y esto en las horas en que ordinariamente se reúna la sociedad. Siempre que un caballero se permita quebrantar esta prohibición, un padre o una madre de familia estará no sólo en la libertad, sino en el deber de exigirle, por medios indirectos y aun directos, a hacer menos frecuentes su visitas; sin que deba detenerle para ello la respetabilidad y buena conducta del caballero, ni el grado de amistad que entre ellos medie, sea cual fuere.
+15. Jamás debe un caballero permitirse visitar diariamente una casa de familia, sino en los casos siguientes: 1.°, cuando a ello se vea impulsado por circunstancias excepcionales, que puedan merecer una discreta sanción del público; 2°, cuando sea pariente muy cercano de la familia que visita; 3°. cuando en la casa haya una tertulia establecida y constante, y esto en las horas en que ordinariamente se reúna la sociedad. Siempre que un caballero se permita quebrantar esta prohibición, un padre o una madre de familia estará no sólo en la libertad, sino en el deber de exigirle, por medios indirectos y aun directos, a hacer menos frecuentes su visitas; sin que deba detenerle para ello la respetabilidad y buena conducta del caballero, ni el grado de amistad que entre ellos medie, sea cual fuere.
 
 16. Abstengámonos de visitar a personas que no sean de toda confianza, cuando nos aflija alguna pena intensa, o cuando por cualquiera otro motivo nos sintamos notablemente desagradados. Y evitemos visitar en tales casos aun a nuestros íntimos amigos, siempre que ignoren, y no podamos comunicarles, la causa de nuestra desazón.
 
@@ -503,11 +477,11 @@ Tan sólo podría ser esto excusable en circunstancias enteramente extraordinari
 
 18. No hagamos ni recibamos visitas de poca confianza cuando por enfermedad u otro accidente cualquiera no podamos guardar estrictamente las reglas del aseo, o presentarnos decentemente vestidos; con excepción de los casos en que nos encontremos en circunstancias extraordinarias, en los cuales nos excusaremos debidamente ante la persona que nos recibe o que recibamos nosotros (párrafo 7, página 80).
 
-<amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-165_1.png" layout="intrinsic" width="566" height="453"></amp-img>
-
 19. No es de buen tono que entremos en una casa donde no tenemos amistad, acompañando a una persona que se dirige a ella con el objeto de hacer una visita que no es de negocios, cuando aquélla no lleva ni puede llevar la intención de presentarnos de una manera especial a los dueños de la casa.
 
 20. Es una impertinente vulgaridad el preguntar individualmente en una visita por las diferentes personas de una familia. Hecha en general la pregunta que exige siempre la cortesía, tan sólo nos es lícito informarnos en particular de la persona que está ausente, de la que acaba de llegar de un viaje, o de aquella que sabemos se encuentra indispuesta.  
+
+<amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-165_1.png" layout="intrinsic" width="566" height="453"></amp-img>
 
 **B** 
 =====
@@ -522,8 +496,7 @@ Tan sólo podría ser esto excusable en circunstancias enteramente extraordinari
 
 4. Las visitas de ceremonia son actos de rigurosa etiqueta, que tienen generalmente por objeto cumplimentar a personas de carácter público en muchos y variados casos, de los cuales pueden citarse los siguientes como ejemplos:1.°, visitas al encargado del poder supremo del Estado, por los altos funcionarios civiles, militares y eclesiásticos, por los miembros del cuerpo diplomático y por personas particulares de elevado carácter, en su advenimiento al mando y en los días de grandes fiestas nacionales 2.°, a los obispos y demás prelados, por el clero y los empleados eclesiásticos, por los altos funcionarios públicos y por personas particulares de elevado carácter, en su exaltación a la dignidad de que son investidos, en la inauguración o muerte de un Pontífice, y en cualquiera otra ocasión en que ocurra un grande acontecimiento próspero o adverso para la Iglesia. 3.°, a los jefes de oficinas públicas, por los empleados de su inmediata dependencia y por los jefes de otras oficinas al entrar aquellos en el ejercicio de sus funciones; 4.°, a la primera autoridad civil de todo lugar en que no reside el Jefe del Estado, por los empleados públicos y por personas particulares de elevado carácter, en las mismas ocasiones indicadas en el caso primero; 5.°, á la primera autoridad eclesiástica de todo lugar en que no reside el prelado de la diócesis, por el clero, por los empleados públicos, y por personas particulares de elevado carácter, en las mismas ocasiones indicadas en el caso segundo; 6.°, la primera visita que el representante de una nación extranjera que llega hace al Ministro de Relaciones Exteriores y a los demás agentes diplomáticos de otras naciones que existen en el lugar, y la que a él se hace en retribución; 7.°, la visita que hacen al representante de una nación extranjera los demás agentes diplomáticos del lugar, y las personas caracterizadas que le tratan, en los aniversarios que su gobierno solemniza, y a la noticia de un grande acontecimiento próspero o adverso para su nación.
 
-5. Son visitas de ofrecimiento las que una persona hace a sus amigos para participarles que ha tomado estado, que le ha nacido un hijo, o que ha mudado de residencia, y todas aquellas que hace con el objeto de ofrecer su amistad o sus servicios a una persona o familia cualquiera
-(párrafo 3, página 123; párrafos 15 y 17, página 126).
+5. Son visitas de ofrecimiento las que una persona hace a sus amigos para participarles que ha tomado estado, que le ha nacido un hijo, o que ha mudado de residencia, y todas aquellas que hace con el objeto de ofrecer su amistad o sus servicios a una persona o familia cualquiera (párrafo 3, página 123; párrafos 15 y 17, página 126).
 
 6. Son visitas de felicitación las que hacemos a nuestros amigos en señal de congratulación, el día de su cumpleaños, cuando nos participan su mudanza de estado o el nacimiento de un hijo, por su elevación a empleos de honor y confianza, por su feliz arribo de un viaje, y en general, cada vez que ocurre entre ellos o entre sus parientes más cercanos algún acontecimiento feliz que les hace experimentar una extraordinaria complacencia.
 
@@ -539,10 +512,9 @@ Tan sólo podría ser esto excusable en circunstancias enteramente extraordinari
 
 12. Son visitas de amistad todas aquellas que hacemos a las personas con quienes estamos relacionados, sin motivo especial, y sólo por el placer de verlas y de disfrutar de su compañía. 1
 
-3. La primera visita que debemos hacer a un amigo que llega de un viaje, luego que nos lo participa, cuando recientemente ha perdido un miembro de su familia o ha experimentado cualquiera otra desgracia, no es visita de felicitación, sino de pésame o de sentimiento; pues en sociedad las demostraciones de contento se posponen siempre a las demostraciones de dolor.
+13. La primera visita que debemos hacer a un amigo que llega de un viaje, luego que nos lo participa, cuando recientemente ha perdido un miembro de su familia o ha experimentado cualquiera otra desgracia, no es visita de felicitación, sino de pésame o de sentimiento; pues en sociedad las demostraciones de contento se posponen siempre a las demostraciones de dolor.
 
-14. Con excepción de las visitas de presentación, de las de ceremonia y de las de ofrecimiento y agradecimiento cuando para ellas no media ninguna relación anterior, todas las cuales, por su propia naturaleza, son siempre visitas de etiqueta, las demás tendrán el carácter que les comunique el grado de amistad que las autorice, y serán por lo tanto, según los casos, visitas de confianza, de poca confianza o de etiqueta
-(párrafos 7 y 9; páginas 48 y 49).
+14. Con excepción de las visitas de presentación, de las de ceremonia y de las de ofrecimiento y agradecimiento cuando para ellas no media ninguna relación anterior, todas las cuales, por su propia naturaleza, son siempre visitas de etiqueta, las demás tendrán el carácter que les comunique el grado de amistad que las autorice, y serán por lo tanto, según los casos, visitas de confianza, de poca confianza o de etiqueta (párrafos 7 y 9; páginas 48 y 49).
 
 15. No está admitido hacer visitas de negocios en las casas de habitación a personas que tienen separadamente un escritorio en que puede encontrárselas fácilmente. Estas visitas no se pagan en ningún caso, ni dejan a las personas que en ellas se han comunicado en la obligación de darse por conocidas ni de saludarse en otro lugar en que se encuentren.
 
@@ -558,25 +530,19 @@ Tan sólo podría ser esto excusable en circunstancias enteramente extraordinari
 
 21. Las visitas de felicitación, de sentimiento, de pésame, de despedida y de amistad, se pagan siempre, en la oportunidad, en la forma, y con las restricciones que se expresarán más adelante.
 
-22 Las visitas de cumpleaños no se pagan; pero sí ponen en el deber de hacer Visitas de la misma especie a las personas de quienes se reciben.
+22. Las visitas de cumpleaños no se pagan; pero sí ponen en el deber de hacer Visitas de la misma especie a las personas de quienes se reciben.
 
 23. Las visitas de felicitación, de sentimiento o de pésame, que una persona hace a otra repetidas veces en un mismo caso, le quedan todas pagadas con una sola visita. Y cuando a las visitas de sentimiento se sigue inmediatamente una de felicitación, como sucede en los casos en que los acontecimientos desagradables tienen un resultado o término feliz, también quedan todas pagadas con una sola visita.
 
 24. Las personas de avanzada edad o de un elevado carácter, no deben pagar las visitas que reciben de jóvenes que se educan, o que aún no ocupan una posición social bien definida.
 
-25. Hay personas que niegan a sus amigos que están sufriendo, el consuelo que en tales casos ofrece siempre una visita, dando para ello por excusa que su extremada sensibilidad las hace sufrir a ellas demasiado. Semejante conducta no representa otra cosa que una sutileza del egoísmo, y una falta de respeto a las leyes de la caridad y de la amistad, en que no incurre jamás el hombre de buenos principios.
+25. Hay personas que niegan a sus amigos que están sufriendo, el consuelo que en tales casos ofrece siempre una visita, dando para ello por excusa que su extremada sensibilidad las hace sufrir a ellas demasiado. Semejante conducta no representa otra cosa que una sutileza del egoísmo, y una falta de respeto a las leyes de la caridad y de la amistad, en que no incurre jamás el hombre de buenos principios. El que acompaña al amigo en medio de su dolor, no es presumible que sufra nunca hasta el punto de verse en la necesidad de abandonarle; y puede asegurarse, generalmente hablando, que cuando el afecto no alcanza hasta el esfuerzo que es necesario para presenciar el espectáculo de la desgracia, no es tal afecto. Por otra parte, no siempre llegamos a encontrarnos al lado de nuestros amigos en los momentos más solemnes de sus grandes infortunios, como en la muerte del padre, del esposo, del hijo, etc., pues lo natural es que entonces sólo estén rodeados de su propia familia, y cuando más, de aquellas personas tan adheridas a ellos, que tengan derecho a acercárseles en tales situaciones.
 
-El que acompaña al amigo en medio de su dolor, no es presumible que sufra nunca hasta el punto de verse en la necesidad de abandonarle; y puede asegurarse, generalmente hablando, que cuando el afecto no alcanza hasta el esfuerzo que es necesario para presenciar el espectáculo de la desgracia, no es tal afecto. Por otra parte, no siempre llegamos a encontrarnos al lado de nuestros amigos en los momentos más solemnes de sus grandes infortunios, como en la muerte del padre, del esposo, del hijo, etc., pues lo natural es que entonces sólo estén rodeados de su propia familia, y cuando más, de aquellas personas tan adheridas a ellos, que tengan derecho a acercárseles en tales situaciones.
-
-26. Es notable vulgaridad e inconsideración el fijarse innecesariamente en las casas de los enfermos, o donde ha ocurrido una muerte u otra desgracia cualquiera, o permanecer en ellas a horas de sentarse a la mesa, bajo el pretexto de acompañar y servir a los que sufren.
-
-Estos actos están reservados exclusivamente a los parientes y amigos de más intimidad; y aun respecto de estos mismos debe siempre entenderse que su residencia en la casa, o su presencia en las horas de comer, sea evidentemente indispensable. A medida que una familia es más corta y de menos relaciones íntimas, van entrando en la excepción los parientes y amigos menos cercanos.
+26. Es notable vulgaridad e inconsideración el fijarse innecesariamente en las casas de los enfermos, o donde ha ocurrido una muerte u otra desgracia cualquiera, o permanecer en ellas a horas de sentarse a la mesa, bajo el pretexto de acompañar y servir a los que sufren. Estos actos están reservados exclusivamente a los parientes y amigos de más intimidad; y aun respecto de estos mismos debe siempre entenderse que su residencia en la casa, o su presencia en las horas de comer, sea evidentemente indispensable. A medida que una familia es más corta y de menos relaciones íntimas, van entrando en la excepción los parientes y amigos menos cercanos.
 
 27. Pocas son las ocasiones en que nos es lícito llevar con nosotros los niños os que nos pertenecen a las casas de nuestros amigos; pero téngase presente que es una gravísima e inexcusable falta el hacerlo en los casos indicados en el párrafo anterior.
 
-28. Las visitas de duelo no están permitidas a las personas de etiqueta, quienes sólo pueden hacerlas en el aniversario de la muerte acaecida, en el caso indicado en el párrafo 8
-
-de esta sección.
+28. Las visitas de duelo no están permitidas a las personas de etiqueta, quienes sólo pueden hacerlas en el aniversario de la muerte acaecida, en el caso indicado en el párrafo 8 de esta sección.
 
 29. Es una vulgaridad creerse autorizado para hacer una visita de duelo, a menos que sea la expresada en el párrafo anterior, sólo por haber llevado amistad íntima con el difunto, sin tener ninguna confianza con las personas de la familia dolorida.
 
@@ -593,8 +559,7 @@ de esta sección.
 
 2. Las visitas de negocios se hacen en los días y horas que cada cual tiene fijados para recibirlas; y a las personas que no han establecido ninguna regla en este punto, a cualquier hora de los días de trabajo hasta las cuatro de la tarde, prefiriéndose siempre en lo posible el centro del día. Sólo en casos extraordinarios y urgentes, es licito hacer visitas de esta especie después de la comida, por la noche, o en un día festivo.
 
-3. Cuando tengamos que acercarnos a una persona de respetabilidad con el objeto de hablarle sobre un negocio extraño a su profesión o industria, y que no haya de ocuparla tan sólo por pocos momentos, le dirigiremos previamente una nota o una llamada telefónica en que le pidamos una entrevista: y lo mismo haremos con cualquiera persona, sea.
-quien fuere, siempre que la naturaleza del negocio exija una larga conferencia.
+3. Cuando tengamos que acercarnos a una persona de respetabilidad con el objeto de hablarle sobre un negocio extraño a su profesión o industria, y que no haya de ocuparla tan sólo por pocos momentos, le dirigiremos previamente una nota o una llamada telefónica en que le pidamos una entrevista: y lo mismo haremos con cualquiera persona, sea. quien fuere, siempre que la naturaleza del negocio exija una larga conferencia.
 
 4. Si una señora dirige a un caballero la nota que se indica en el párrafo anterior, y éste no tiene un grave inconveniente para acercarse a su casa, debe contestarle anunciándole que tendrá el honor de pasar por ella personalmente, lo cual, si no le es imposible, hará el mismo día.
 
@@ -604,13 +569,11 @@ quien fuere, siempre que la naturaleza del negocio exija una larga conferencia.
 
 7. La visita de presentación que hace una persona que ha sido presentada por medio de una carta (párrafo 10, pág. 229), debe serle pagada a la mayor brevedad, sin que sea impropio que esto se haga al siguiente día. Y cuando la persona que recibe la carta se anticipe a visitar al presentado (párrafo 10, pág. 229), éste deberá pagarle su visita en un término que no pase del siguiente día.
 
-8. Las visitas de ceremonia que no tienen un día señalado se hacen dentro de un periodo que no excede de ocho días, a contar desde aquel en que ha ocurrido o ha llegado al conocimiento del funcionario que ha de recibirlas el acontecimiento que las motiva. En los casos en que estas visitas han de pagarse, esto se hace en los quince 'días siguientes a la terminación de aquel periodo, con excepción de las que hace un agente diplomático a su llegada (párrafo 4, pág.
-239), las cuales le son pagadas dentro de un término muy corto.
+8. Las visitas de ceremonia que no tienen un día señalado se hacen dentro de un periodo que no excede de ocho días, a contar desde aquel en que ha ocurrido o ha llegado al conocimiento del funcionario que ha de recibirlas el acontecimiento que las motiva. En los casos en que estas visitas han de pagarse, esto se hace en los quince 'días siguientes a la terminación de aquel periodo, con excepción de las que hace un agente diplomático a su llegada (párrafo 4, pág. 239), las cuales le son pagadas dentro de un término muy corto.
 
 9. Las visitas de ofrecimiento por haber mudado de estado se hacen en un período de quince días. Cuando el estado que se toma es el del matrimonio, este período empieza a contarse al terminar los quince y aun los treinta primeros días que siguen al de la ceremonia; y cuando es el estado del sacerdocio, al terminar los ocho primeros días. La etiqueta de 'las familias (párrafos 7 y 8, pág. 48) exige, sin embargo, que hagamos en estos casos una participación anticipada a todos nuestros parientes, la cual podemos hacer extensiva a nuestros más inmediatos amigos.
 
-10. En el caso de un matrimonio se observarán las reglas siguientes:
-1.a, después de los acuerdos y arreglos que deben proceder entre los padres respectivos, y al acercarse el día de la ceremonia, el novio procederá a hacer personalmente la participación de que habla el párrafo anterior, la cual hará también a los parientes más cercanos de la novia, y a aquellos de los menos cercanos que estén íntimamente ligados con ella; 2.a, la novia no hace ninguna participación anterior: son sus padres los que la hacen, limitándose únicamente a su parentela; 3.a, el ofrecimiento que se hace después de la ceremonia a las demás personas, según el párrafo anterior, se circunscribe a aquellas de las relaciones del novio y de la novia, que hayan de componer su círculo de allí en adelante, el cual forman éstos con entera libertad e independencia, pues el que hasta entonces ha tenido cada uno de los dos se considera de hecho enteramente disuelto.
+10. En el caso de un matrimonio se observarán las reglas siguientes: 1.a, después de los acuerdos y arreglos que deben proceder entre los padres respectivos, y al acercarse el día de la ceremonia, el novio procederá a hacer personalmente la participación de que habla el párrafo anterior, la cual hará también a los parientes más cercanos de la novia, y a aquellos de los menos cercanos que estén íntimamente ligados con ella; 2.a, la novia no hace ninguna participación anterior: son sus padres los que la hacen, limitándose únicamente a su parentela; 3.a, el ofrecimiento que se hace después de la ceremonia a las demás personas, según el párrafo anterior, se circunscribe a aquellas de las relaciones del novio y de la novia, que hayan de componer su círculo de allí en adelante, el cual forman éstos con entera libertad e independencia, pues el que hasta entonces ha tenido cada uno de los dos se considera de hecho enteramente disuelto.
 
 11. También queda disuelto el círculo de relaciones amistosas del que entra en el estado del sacerdocio, desde el día de la ceremonia; y los que han de formar su círculo de allí en adelante son exclusivamente aquellos de sus amigos a quienes hace visita de ofrecimiento.
 
@@ -624,9 +587,7 @@ quien fuere, siempre que la naturaleza del negocio exija una larga conferencia.
 
 16. Cuando una persona hace a otra una visita de ofrecimiento, ya sea en persona o por tarjeta (párrafo 1, pág. 261), y ésta, antes de corresponderla, hace a aquélla un ofrecimiento cualquiera por tarjeta, la primera conserva el derecho de ser visitada en persona por la segunda, y entretanto no está en el deber de hacerle visita.
 
-17. Respecto de las visitas de felicitación, cuando no tienen día señalado, podemos hacerlas desde aquel en que ocurre o llega a noticia de nuestros amigos, el acontecimiento por el cual hemos de feli- 
-
-citarlo, dentro de un período que no exceda de quince días.
+17. Respecto de las visitas de felicitación, cuando no tienen día señalado, podemos hacerlas desde aquel en que ocurre o llega a noticia de nuestros amigos, el acontecimiento por el cual hemos de feli-  citarlo, dentro de un período que no exceda de quince días.
 
 18. No hagamos visitas de cumpleaños cerca de las horas de comer ni por la noche, sino a personas con quienes tengamos una íntima amistad. A tales horas suele haber en las casas reuniones extraordinarias de invitación, y nos expondríamos a pasar por la pena de encontrarnos en alguna de ellas sin estar convidados, pues por lo general sucede que lo están únicamente las personas de mayor confianza.
 
@@ -638,38 +599,33 @@ citarlo, dentro de un período que no exceda de quince días.
 
 22. Las visitas de sentimiento se hacen desde que se tiene noticia de los accidentes que las ocasionan, y se repiten, según el grado de amistad que medie, durante el tiempo en que las personas que las reciben están sufriendo.
 
-23. Las visitas de pésame se hacen en un período que no exceda de treinta días, el cual empieza a contarse al siguiente de la inhumación del cadáver, o a los dos de haber llegado la noticia de la muerte.
-cuando ésta ha acaecido en otro punto, aunque jamás en el día en que se celebran las exequias.
+23. Las visitas de pésame se hacen en un período que no exceda de treinta días, el cual empieza a contarse al siguiente de la inhumación del cadáver, o a los dos de haber llegado la noticia de la muerte. cuando ésta ha acaecido en otro punto, aunque jamás en el día en que se celebran las exequias.
 
 24. Las visitas de despedida se hacen y se pagan en los días próximos al viaje que va a emprenderse.
 
 25. Las visitas de agradecimiento siguen siempre inmediatamente al servicio o demostración que les da origen.
 
-26. Las visitas de amistad pueden hacerse en cualquiera oportunidad y en cualquier día, atendidas las restricciones que aquí se establecen, y las demás que indique la prudencia de las diferentes circunstancias de la vida social. Estas visitas se hacen entre personas que se tratan con
-íntima confianza y. que están bien seguras de su recíproco afecto, sin llevar ninguna cuenta para haber de corresponderlas, y no teniendo otra cosa en consideración que la posibilidad de repetirlas y el placer con que sean recibidas. Pero siempre que una persona note en otra una omisión premeditada y sistemática, deberá abstenerse por su parte de visitarla con frecuencia, y limitarse a pagarle sus visitas; sin echar aquella omisión a mala parte cuando no esté acompañada de verdaderas señales de desafecto, pues ella no reconoce generalmente sino causas domésticas y de todo punto inofensivas.
+26. Las visitas de amistad pueden hacerse en cualquiera oportunidad y en cualquier día, atendidas las restricciones que aquí se establecen, y las demás que indique la prudencia de las diferentes circunstancias de la vida social. Estas visitas se hacen entre personas que se tratan con íntima confianza y. que están bien seguras de su recíproco afecto, sin llevar ninguna cuenta para haber de corresponderlas, y no teniendo otra cosa en consideración que la posibilidad de repetirlas y el placer con que sean recibidas. Pero siempre que una persona note en otra una omisión premeditada y sistemática, deberá abstenerse por su parte de visitarla con frecuencia, y limitarse a pagarle sus visitas; sin echar aquella omisión a mala parte cuando no esté acompañada de verdaderas señales de desafecto, pues ella no reconoce generalmente sino causas domésticas y de todo punto inofensivas.
 
 27. Cuando tengamos que visitar a muchas personas, con el objeto de pagarles visitas de felicitación, pésame, etc., lo haremos luego que haya pasado el periodo de recibirlas, con la mayor prontitud que nos sea posible. No es dable indicar para esto un determinado número de días por cuanto él de- penderá siempre de la extensión de nuestras relaciones y de otras circunstancias particulares que no puedan preverse, pero no es menos cierto que sería una' muestra de desatención y poco afecto, el diferir una de éstas por un espacio de tiempo que la hiciese distar demasiado de aquella que la ocasiona.
 
-28. Si antes de explicar el término en que un amigo deba hacernos visita por cualquier motivo, perdiere él un miembro de su familia o experimentare cualquiera otra desgracia, le haremos nuestra visita de duelo, de pésame, o de sentimiento, prescindiendo enteramente de la que
-él nos debe.
+28. Si antes de explicar el término en que un amigo deba hacernos visita por cualquier motivo, perdiere él un miembro de su familia o experimentare cualquiera otra desgracia, le haremos nuestra visita de duelo, de pésame, o de sentimiento, prescindiendo enteramente de la que él nos debe.
 
 29. Las visitas de presentación y de ceremonia, y todas las demás visitas con excepción de las de negocios, cuando son de etiqueta o de poca confianza, se hacen de las doce del día a las cuatro de la tarde; prefiriendo en lo posible las horas de la una a las tres para la de presentación, las de ceremonia y todas las que sean de etiqueta, y las horas de las doce a la una y de las tres a las cuatro para las de poca confianza
 
-30. Las visitas de confianza, con excepción de las que sean de negocios, se hacen generalmente de noche, o bien a las horas indicadas en el párrafo anterior; prefiriendo en lo posible para las de mayor intimidad, las horas de las doce a la una, de las tres a las cuatro.
-
-Las visitas de poca confianza suelen también hacerse de noche, según las circunstancias que las acompañan.
+30. Las visitas de confianza, con excepción de las que sean de negocios, se hacen generalmente de noche, o bien a las horas indicadas en el párrafo anterior; prefiriendo en lo posible para las de mayor intimidad, las horas de las doce a la una, de las tres a las cuatro. Las visitas de poca confianza suelen también hacerse de noche, según las circunstancias que las acompañan.
 
 31. Abstengámonos de visitar a las personas que viven de una profesión o industria cualquiera, en las horas que tienen destinadas al trabajo, cuando nuestra visita no tenga por objeto el. tratar sobre alguno de los negocios en que se ocupan.
 
 32. Antes del almuerzo toda visita que no tenga por objeto el tratar sobre un negocio urgente es inoportuna, aun entre gentes que se tratan con íntima confianza. La mañana está destinada al aseo y arreglo de las personas y de las habitaciones, y a otras ocupaciones domésticas que son enteramente incompatibles con la atención que exige siempre una visita.
-
- <amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-178_1.png" layout="intrinsic" width="566" height="487"></amp-img>
 
 33. Las visitas a horas de comer son casi siempre inoportunas, y apenas son excusables entre personas. de mucha confianza, las cuales deberán evitar-las, en cuanto sea posible, aun cuando no sea más que por la razón indicada en el párrafo 13 de la página 81.
 
 34. Así, cuando al entrar a una casa advirtamos que las personas que solicitamos están en la mesa nos retiraremos inmediatamente, sin quedarnos nunca a esperarlas de un modo visible, pues esto turba la tranquilidad de que debe gozarse siempre en tales momentos.
 
 35. Evitemos, en todo lo posible, hacer visitas a personas que han pasado la noche en vela, a las que preparen en su casa un festín, y a las que estén íntimamente relacionadas con enfermos graves, con familias afligidas, o con personas que por cualquiera otro motivo debamos suponer necesiten de su asistencia.  
+
+<amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-178_1.png" layout="intrinsic" width="566" height="487"></amp-img>
 
 **D** 
 =====
@@ -680,8 +636,7 @@ Las visitas de poca confianza suelen también hacerse de noche, según las circu
 
 2. Las visitas de negocios no deben extenderse más allá del tiempo absolutamente indispensable para llenar su objeto. El prolongarlas sin motivos justificados es una inconsideración tanto menos excusable, cuanto mayor es el número y entidad de las ocupaciones que rodean a las personas que las reciben.
 
-3. Una visita de presentación durará siempre de quince a veinte minutos, si el presentante tiene poca confianza en la casa que la recibe: si éste tiene en ella intimidad, la visita podrá extenderse basta tres cuartos de hora; prolongándose por un espacio hasta de diez minutos, cuando toque al presentado excitar al presentante a terminarla
-(párrafo 12, página 220).
+3. Una visita de presentación durará siempre de quince a veinte minutos, si el presentante tiene poca confianza en la casa que la recibe: si éste tiene en ella intimidad, la visita podrá extenderse basta tres cuartos de hora; prolongándose por un espacio hasta de diez minutos, cuando toque al presentado excitar al presentante a terminarla (párrafo 12, página 220).
 
 4. Las visitas de ceremonia duran de diez a quince minutos: las que son de etiqueta y no tienen señalada especial duración, de quince a veinte minutos; y las de poca confianza, hasta tres cuartos de hora. En cuanto a las de confianza, cuando son puramente de amistad pueden durar hasta dos horas, y sólo hasta una hora cuando tienen por objeto cumplidos y demostraciones especiales, como ofrecimientos, felicitaciones, etc. Una visita de confianza o de poca confianza puede, sin embargo, ser muy corta en cualquier caso, según las circunstancias particulares que la acompañan, para lo cual no puede existir otra norma que la prudencia y el buen juicio del visitante. Con todo, es una regla general que estas visitas, cuando se hacen de día, especialmente en días de trabajo, deben ser más cortas que cuando se hacen de noche.
 
@@ -712,8 +667,7 @@ Las visitas de poca confianza suelen también hacerse de noche, según las circu
 
 *De las dos diferentes formas de visitas*
 
-1. Las visitas pueden ser en persona o por tarjeta. Una visita en persona es aquella que hacemos presentándonos en la casa del que ha de recibirla, ya sea que lleguemos a verle, ya sea que le dejemos nuestra tarjeta, y una visita por tarjeta, la que hacemos limitándonos a enviar
-ésta desde nuestra residencia.
+1. Las visitas pueden ser en persona o por tarjeta. Una visita en persona es aquella que hacemos presentándonos en la casa del que ha de recibirla, ya sea que lleguemos a verle, ya sea que le dejemos nuestra tarjeta, y una visita por tarjeta, la que hacemos limitándonos a enviar ésta desde nuestra residencia.
 
 2. No es libre en todos los casos hacer las visitas en una y otra forma: las reglas de la etiqueta ofrecen gran variedad en este punto, y, según vamos a verlo, hay visitas que debemos hacer siempre en persona, otras que generalmente se hacen por tarjeta, y otras, en fin, que pueden hacerse indiferentemente en persona o por tarjeta.
 
@@ -730,9 +684,7 @@ En esto deben guiamos muy especialmente los usos recibidos en cada país, y aun 
 
 8. Las visitas de ofrecimiento por haber mudado de estado o de domicilio o por el nacimiento de un hijo, se hacen generalmente por tarjeta; pero un caballero que muda de habitación las hace siempre en persona a sus amigos vecinos
 
-9. Las visitas de ofrecimiento al llegar a un nuevo domicilio se hacen indiferentemente en persona o
-
-por tarjeta; pero siempre en esta segunda forma, a aquellas personas con quienes no se tiene amistad (párrafo 14, página 251).
+9. Las visitas de ofrecimiento al llegar a un nuevo domicilio se hacen indiferentemente en persona o por tarjeta; pero siempre en esta segunda forma, a aquellas personas con quienes no se tiene amistad (párrafo 14, página 251).
 
 10. Todos los demás ofrecimientos que puedan ocurrir los haremos en persona o por tarjeta, según que por la mayor o menor entidad de los accidentes que les den origen, sea o no natural o indispensable que tributemos a los que han de recibirlos el homenaje de presentarnos personalmente.
 
@@ -750,8 +702,7 @@ por tarjeta; pero siempre en esta segunda forma, a aquellas personas con quienes
 
 17. Las visitas de amistad, como se deduce de su propia naturaleza, se hacen y se pagan siempre en persona.
 
-18. No es lícito a las señoras visitar en persona a los caballeros que no tienen familia, por íntima que sea la amistad que con ellos tengan, y aun cuando puedan ir acompañadas de personas de su sexo, sino
-únicamente para tratar sobre negocios urgentes, o en casos extremos, como un peligro de la vida, etc. Sin embargo, un anciano valetudinario, o un sacerdote venerable por su carácter y por sus años, puede ser visitado por señoras de su amistad, con tal que éstas vayan siempre acompañadas y que sus visitas no sean frecuentes.
+18. No es lícito a las señoras visitar en persona a los caballeros que no tienen familia, por íntima que sea la amistad que con ellos tengan, y aun cuando puedan ir acompañadas de personas de su sexo, sino únicamente para tratar sobre negocios urgentes, o en casos extremos, como un peligro de la vida, etc. Sin embargo, un anciano valetudinario, o un sacerdote venerable por su carácter y por sus años, puede ser visitado por señoras de su amistad, con tal que éstas vayan siempre acompañadas y que sus visitas no sean frecuentes.
 
 19. Las personas que se encuentran físicamente impedidas de salir de su casa hacen todas sus visitas por tarjeta, siéndoles imputadas como visitas en persona todas aquellas que debiera hacer en esta forma.
 
@@ -798,8 +749,7 @@ por tarjeta; pero siempre en esta segunda forma, a aquellas personas con quienes
 
 11. Al presentarse la persona que viene a recibirnos, nos dirigiremos hacia ella y la saludaremos cortés y afablemente, esperando, si hemos de darle la mano, a que ella nos extienda la suya. Luego pasaremos a sentarnos, lo cual haremos en el sitio que ella nos indique, sin precederle en este acto, y guardando cierta distancia de manera que no quedemos demasiado próximos a su asiento.
 
-12. A los dueños de la casa se les da siempre la mano; mas entre personas de distinto sexo el uso es vario en este punto, y es necesario que sigamos el que esté admitido en el país en que nos encontremos
-(párrafo 14, pág. 50; párrafo 17, pág. 51). Lo más general es que las señoras den la mano a los caballeros de su amistad.
+12. A los dueños de la casa se les da siempre la mano; mas entre personas de distinto sexo el uso es vario en este punto, y es necesario que sigamos el que esté admitido en el país en que nos encontremos (párrafo 14, pág. 50; párrafo 17, pág. 51). Lo más general es que las señoras den la mano a los caballeros de su amistad.
 
 13. Si la persona que visitamos fuere para nosotros muy respetable, y nos convidase a sentarnos a su lado, no lo haremos en el lugar más honorífico sino después de haberlo rehusado por una vez. Conviene, desde luego, saber que el lugar más honorífico en una en una casa, es el lado derecho de los dueños de ella, y preferentemente el de la señora.
 
@@ -807,8 +757,7 @@ por tarjeta; pero siempre en esta segunda forma, a aquellas personas con quienes
 
 15. Cuando son varias las personas que se han anunciado y aguardan al dueño de la casa, son las más caracterizadas las que primero se acercan a saludarle, y las que toman los asientos más cómodos y honoríficos.
 
-16.  Cuando el dueño de la casa se encuentre en la sala de recibo con otras personas, observaremos las reglas siguientes: 1.a, luego que se nos informe que podemos ser recibidos y que hayamos sido anunciados, penetraremos en la sala, haciendo a la entrada una cortesía hacia todos los circunstantes; 2.a, sin detenemos, nos dirigiremos al lugar donde esté el dueño de la casa y le saludaremos especialmente, volviéndonos luego de nuevo hacia los demás circunstantes y haciéndoles otra cortesía, después de lo cual tomaremos asiento; 3.a, si nuestra visita es de etiqueta, nos abstendremos de dar la mano a toda otra persona que no sea el dueño de la casa: si no es de etiqueta, podremos dar, además, la mano a las dos personas que, a derecha e izquierda, estén inmediatas al asiento que tomemos, siempre que con ellas tengamos amistad, pues por
-íntima que sea nuestra confianza con el dueño de una casa, jamás nos permitiremos el acto, altamente vulgar, de dar la mano a las personas que encontremos en ella con quienes no tengamos ninguna amistad.
+16.  Cuando el dueño de la casa se encuentre en la sala de recibo con otras personas, observaremos las reglas siguientes: 1.a, luego que se nos informe que podemos ser recibidos y que hayamos sido anunciados, penetraremos en la sala, haciendo a la entrada una cortesía hacia todos los circunstantes; 2.a, sin detenemos, nos dirigiremos al lugar donde esté el dueño de la casa y le saludaremos especialmente, volviéndonos luego de nuevo hacia los demás circunstantes y haciéndoles otra cortesía, después de lo cual tomaremos asiento; 3.a, si nuestra visita es de etiqueta, nos abstendremos de dar la mano a toda otra persona que no sea el dueño de la casa: si no es de etiqueta, podremos dar, además, la mano a las dos personas que, a derecha e izquierda, estén inmediatas al asiento que tomemos, siempre que con ellas tengamos amistad, pues por íntima que sea nuestra confianza con el dueño de una casa, jamás nos permitiremos el acto, altamente vulgar, de dar la mano a las personas que encontremos en ella con quienes no tengamos ninguna amistad.
 
 17. Cuando nuestra visita se dirija a una familia, y ésta se halle en la sala de recibo con otras visitas, observaremos lo siguiente: 1.°, luego que hayamos hecho la primera cortesía al entrar en la sala, saludaremos especialmente a la señora y a las personas de su familia que se encuentren inmediatas a ella, haremos después una cortesía a las demás per- sonas presentes y tomaremos asiento; 2.°, si el señor de la casa estuviere presente, y hubiere salido del círculo para venir a nuestro encuentro, le saludaremos desde luego especialmente; mas si sólo se hubiere puesto de pie sin abandonar su puesto, prescindiremos de él al principio y saludaremos primero a las señoras, haciendo siempre una cortesía a los demás circunstantes al acto de tomar asiento.
 
@@ -824,35 +773,29 @@ por tarjeta; pero siempre en esta segunda forma, a aquellas personas con quienes
 
 23. No nos es lícito ofrecer asiento a la persona que nos recibe, ni indicarle ningún sitio para sentarse, ni hacer esto respecto de otra persona que entre durante nuestra visita; pues toca siempre a cada cual hacer los honores de su casa y cualquiera demostración obsequiosa que nos permitiésemos hacer en una casa ajena sin un motivo justificado, sería un acto de verdadera usurpación y una grave falta contra las leyes de la etiqueta. 2
 
-4. Sin embargo, cuando los dueños de la casa. en que nos encontremos se vean en la necesidad de atender a un mismo tiempo a varias personas, nos apresuraremos a rendir aquellos obsequios que sean; indispensables, los cuales serán considerados como recibidos de los mismos dueños de la casa; reservándose siempre a éstos, en cuanto será posible los que hayan de tributarse a las señoras y a los caballeros más respetables.
+24. Sin embargo, cuando los dueños de la casa. en que nos encontremos se vean en la necesidad de atender a un mismo tiempo a varias personas, nos apresuraremos a rendir aquellos obsequios que sean; indispensables, los cuales serán considerados como recibidos de los mismos dueños de la casa; reservándose siempre a éstos, en cuanto será posible los que hayan de tributarse a las señoras y a los caballeros más respetables.
 
 25. Si acostumbramos tratar con familiaridad a las personas de la casa, abstengámonos de manifestársela cuando estén acompañadas de personas a quienes no podamos nosotros, o no puedan ellas, tratar del mismo modo; tomando entonces un continente más o menos grave, y usando de un lenguaje más o menos serio, según sea el grado de respetabilidad de unas y de otras. Igual conducta observaremos cuando sea a las personas extrañas que se hallen presentes a quienes acostumbremos tratar con familiaridad, y no podamos nosotros, o no puedan ellas, tratar del mismo modo a las personas de la casa.
 
 26. Según esto, siempre que nos encontremos en una casa formando parte de un círculo de confianza, y se incorpore a él una persona que no pueda ser tratada familiarmente por todos los circunstantes, contribuiremos por nuestra parte a que el círculo varíe inmediatamente de carácter, tomando desde luego el grado de seriedad que sea análogo a las circunstancias de aquella persona y de los dueños de la casa.
 
-27. Nuestro continente, y todas nuestras palabras y acciones, deben estar siempre en armonía con el grado de amistad que nos una a las personas que visitemos, y a aquellas de que se encuentren acompañadas; sin olvidarnos jamás de los principios establecidos en los párrafos 7,
-8, 9, 10 y 11 de las pá ginas 48 y 49, ni de los. deberes que impone cada una de las diferentes situaciones sociales, según las reglas contenidas en este tratado.
+27. Nuestro continente, y todas nuestras palabras y acciones, deben estar siempre en armonía con el grado de amistad que nos una a las personas que visitemos, y a aquellas de que se encuentren acompañadas; sin olvidarnos jamás de los principios establecidos en los párrafos 7, 8, 9, 10 y 11 de las pá ginas 48 y 49, ni de los. deberes que impone cada una de las diferentes situaciones sociales, según las reglas contenidas en este tratado.
 
 28. De la misma manera adaptaremos siempre nuestro continente y todas nuestras palabras y acciones a la naturaleza de cada visita, manifestando con moderación y delicadeza ya la satisfacción y alegría que debemos experimentar cuando vemos a nuestros amigos en estado de tranquilidad y de contento, ya el cuidado y la aflicción que deben excitar en nosotros sus conflictos y sus desgracias.
 
 29. En una visita de etiqueta o de poca confianza, no nos es lícito abandonar el lugar de nuestro asiento, para ir a saludar de un modo especial a la persona que entra o se retira, ni aun en una visita de mucha confianza, si para ello tenemos que atravesar una gran distancia.
 
-30. Si en medio de nuestra visita se presenta otra persona de la casa, o entra otra visita, nos pondremos en el acto de pie, y así
-permaneceremos hasta que haya tomado asiento.
-
-También nos pondremos de pie cuando una persona que esté de visita se levante para retirarse, y no volveremos a sentarnos hasta que no se haya despedido.
+30. Si en medio de nuestra visita se presenta otra persona de la casa, o entra otra visita, nos pondremos en el acto de pie, y así permaneceremos hasta que haya tomado asiento. También nos pondremos de pie cuando una persona que esté de visita se levante para retirarse, y no volveremos a sentarnos hasta que no se haya despedido.
 
 31. Las señoras que se encuentren de visita no se ponen de pie, sino cuando entran o se despiden de otras señoras.
 
 32. Cuando se levanten accidentalmente de su asiento una señora o cualquier sujeto respetable, y haya de pasar cerca del sitio que ocupamos, nos pondremos de pie y no permitiremos que pase por detrás de nosotros. En un círculo de confianza podremos alguna vez omitir el ponemos de pie; mas siendo una señora la que se levante, semejante omisión no nos será lícita sino en el caso de que haya de pasar por delante de nosotros.
 
-33. Cuando un caballero se encuentre sentado al lado derecho de la señora o del señor de la casa, y entre una señora, abandonará
-inmediatamente aquel puesto para que sea ocupado por la señora que.
-entra.
+33. Cuando un caballero se encuentre sentado al lado derecho de la señora o del señor de la casa, y entre una señora, abandonará inmediatamente aquel puesto para que sea ocupado por la señora que. entra.
 
 34. No nos pongamos nunca de pie para examinar cuadros, retratos, etc., ni tomemos en nuestras manos ningún libro ni otro objeto alguno de lo que se encuentren en la sala de recibo, si no somos a ello invitados por los dueños de la casa. 3
 
-5. Cuando entráremos o saliéremos por una puerta, o pasáremos por un lugar estrecho en compañía de alguna persona de la casa, guardémonos de pretender cederle el paso, pues es siempre el visitante el que debe ser obsequiado por el visitado, y cualquier demostración de esta especie sería usurparle el derecho de hacer los honores de su casa. Sin embargo, un caballero deberá siempre ceder el paso a una señora; y al subir o bajar una escalera, tendrá por regla invariable, si no le es posible ofrecerle el brazo, antecedería siempre al acto de subir, y seguirla al acto de bajar.
+35. Cuando entráremos o saliéremos por una puerta, o pasáremos por un lugar estrecho en compañía de alguna persona de la casa, guardémonos de pretender cederle el paso, pues es siempre el visitante el que debe ser obsequiado por el visitado, y cualquier demostración de esta especie sería usurparle el derecho de hacer los honores de su casa. Sin embargo, un caballero deberá siempre ceder el paso a una señora; y al subir o bajar una escalera, tendrá por regla invariable, si no le es posible ofrecerle el brazo, antecedería siempre al acto de subir, y seguirla al acto de bajar.
 
 36. Cuando el objeto de nuestra visita sea tratar sobre un negocio, y no tengamos amistad con la persona a quien nos dirigimos, luego que la hayamos saludado y tomemos asiento, daremos principio a nuestra conferencia, sin detenernos en hacerle preguntas relativas a su salud, ni en ningún razonamiento que sea extraño a nuestro objeto.
 
@@ -870,8 +813,7 @@ entra.
 
 43. Es sobremanera imprudente y vulgar el dar a los enfermos consejos que no nos piden, indicarles medicamentos, reprobar el plan curativo a que están sometidos, y hablarles despectivamente de los facultativos que los asisten.
 
-44. Las manifestaciones explícitas sobre el objeto de una visita, así
-como las expresiones congratulatorias o de sentimiento, no son de buen tono en las visitas de ceremonia, de duelo y de pésame, en las cuales está todo expresado por el solo acto de la visita.
+44. Las manifestaciones explícitas sobre el objeto de una visita, así como las expresiones congratulatorias o de sentimiento, no son de buen tono en las visitas de ceremonia, de duelo y de pésame, en las cuales está todo expresado por el solo acto de la visita.
 
 45. En una visita de ofrecimiento, nos abstendremos de manifestar nuestro objeto delante de personas extrañas, siempre que vayamos a ofrecer un servicio que indique o pueda indicar carencia de recursos pecuniarios de parte de la persona a quien lo ofrecemos, o que bajo cualquier otro respecto nos aconseje la prudencia reservar de los demás.
 
@@ -879,21 +821,17 @@ como las expresiones congratulatorias o de sentimiento, no son de buen tono en l
 
 47. En una visita de agradecimiento tan sólo manifestaremos nuestro objeto, cuando ella haya sido originada por un servicio importante o una notable demostración de amistad que hayamos recibido, y esto siempre que la persona a quien visitemos no se encuentre acompañada de personas extrañas.
 
-48. Un hombre de fina educación no se deja arrastrar nunca de sus pasiones hasta el punto de desairar, o de alguna otra manera mortificar, a aquellas personas con quienes está discorde; pero de aquí
-advertirse que cualquiera falta de este género cometida en sociedad es un acto altamente indigno y grosero, con el cual se ofende a las demás persona que se hallan presentes, y muy especialmente a los dueños de la casa (párrafo 39, página 56).
+48. Un hombre de fina educación no se deja arrastrar nunca de sus pasiones hasta el punto de desairar, o de alguna otra manera mortificar, a aquellas personas con quienes está discorde; pero de aquí advertirse que cualquiera falta de este género cometida en sociedad es un acto altamente indigno y grosero, con el cual se ofende a las demás persona que se hallan presentes, y muy especialmente a los dueños de la casa (párrafo 39, página 56).
 
-49. Es un acto muy oportuno y obsequioso e una visita, con tal que
-ésta no sea de etiqueta, excitar a cantar o a tocar a las personas de la que posean una u otra habilidad; mas cuando nos oponga para ello algún inconveniente, no omitamos instar por una segunda vez, pues semejante omisión manifestaría que apreciábamos en poco el pía cer que pudiera proporcionársenos; ni en manera alguna insistamos, si aún encontramos renuencia, por ser en todos los casos impertinente e indiscreta una tercera instancia. Si el inconveniente que se nos opone fuere un motivo de sentimiento que exista en la misma casa, en el vecindario, o entre los relacionados de la familia, nos guardaremos de insistir en nuestra excitación, y por el contrario nos, excusaremos, manifestando nuestra ignorancia del accidente a que se haya hecho referencia.
+49. Es un acto muy oportuno y obsequioso e una visita, con tal que ésta no sea de etiqueta, excitar a cantar o a tocar a las personas de la que posean una u otra habilidad; mas cuando nos oponga para ello algún inconveniente, no omitamos instar por una segunda vez, pues semejante omisión manifestaría que apreciábamos en poco el pía cer que pudiera proporcionársenos; ni en manera alguna insistamos, si aún encontramos renuencia, por ser en todos los casos impertinente e indiscreta una tercera instancia. Si el inconveniente que se nos opone fuere un motivo de sentimiento que exista en la misma casa, en el vecindario, o entre los relacionados de la familia, nos guardaremos de insistir en nuestra excitación, y por el contrario nos, excusaremos, manifestando nuestra ignorancia del accidente a que se haya hecho referencia.
 
-50. Cuando en el caso del párrafo anterior la persona a quien excitemos a cantar o a tocar tuviere la bondad de complacemos, y en general siempre que una persona cualquiera cante o toque para. ser oída en el círculo donde nos encontremos, le prestaremos toda nuestra atención, sea o no de nuestro gusto lo que oigamos, pues es un acto sobremanera inurbano y ofensivo desatender al que se ocupa en alguna cosa con la intención de agradarnos, y aun de lucir sus talentos. En semejantes casos, no olvidemos las reglas obtenidas en los párrafos 14 y
-15 de la página 164.
+50. Cuando en el caso del párrafo anterior la persona a quien excitemos a cantar o a tocar tuviere la bondad de complacemos, y en general siempre que una persona cualquiera cante o toque para. ser oída en el círculo donde nos encontremos, le prestaremos toda nuestra atención, sea o no de nuestro gusto lo que oigamos, pues es un acto sobremanera inurbano y ofensivo desatender al que se ocupa en alguna cosa con la intención de agradarnos, y aun de lucir sus talentos. En semejantes casos, no olvidemos las reglas obtenidas en los párrafos 14 y 15 de la página 164.
 
 51.  Es de muy mal tono el pedir en una visita agua para beber. Esto apenas puede ser tolerable en los climas muy ardientes, y sólo en las visitas de confianza de una larga duración.
 
 52. Cuando en las visitas se nos ofrezcan comidas o bebidas, y no tengamos ningún impedimento físico para tomarlas, las aceptaremos desde luego en las casas de entera confianza, y las rehusaremos por una sola vez en las de poca confianza. En el campo, donde naturalmente se relaja un tanto la etiqueta, no las rehusaremos sino cuando no tengamos ninguna confianza en la casa, aunque nunca por más de una vez, pues una segunda excusa desautoriza completamente al que ofrece un obsequio para insistir de nuevo, y ella está por lo tanto reservada para los casos en que la aceptación es imposible. 5
 
-3. Cuando en las horas de la noche se encuentre un caballero de visita en una casa, y se despidiere una señora de su amistad que no esté acompañada de otro caballero, le ofrecerá
-desde luego su compañía, la cual será aceptada sin oposición alguna, siempre que sean personas que se traten plena confianza. Si no existiere esta confianza, señora rehusará el obsequio por una vez; y sea fuere el grado de amistad que medie, cuando la señora lo rehuse por dos veces, el caballero se abstendrá de acompañarla.
+53. Cuando en las horas de la noche se encuentre un caballero de visita en una casa, y se despidiere una señora de su amistad que no esté acompañada de otro caballero, le ofrecerá desde luego su compañía, la cual será aceptada sin oposición alguna, siempre que sean personas que se traten plena confianza. Si no existiere esta confianza, señora rehusará el obsequio por una vez; y sea fuere el grado de amistad que medie, cuando la señora lo rehuse por dos veces, el caballero se abstendrá de acompañarla.
 
 54. Si el caballero que se encuentre de visita no tuviere amistad con la señora que se despide, no le ofrecerá su compañía; a menos que exista en el tránsito algún peligro, o que, teniendo con é1 entera confianza la señora de la casa, creyere ésta lícito y oportuno inducirle a acompañarla. En cualquiera de estos casos la señora que recibe el obsequio dará las gracias al caballero en la puerta de su casa y le brindará entrada; mas él no deberá aceptar semejante ofrecimiento, ni considerarse, por sólo este hecho, autorizado para visitar la casa en otra ocasión.
 
@@ -907,9 +845,7 @@ desde luego su compañía, la cual será aceptada sin oposición alguna, siempre
 
 59. Siempre que al despedirse un caballero no pueda acercarse a la señora de la casa sin penetrar por entre muchas personas, se limitará a dirigirle sus expresiones de despedida desde el punto más cercano al círculo, cuidando entonces de emplear las menos palabras posibles. La misma regla deberá aplicar un caballero a su entrada en una sala de recibo; menos en la casa que visite por primera vez después de una larga ausencia, donde le es licito penetrar hasta el lugar en que se encuentre la señora.
 
-60. Al acto de retirarnos de una reunión muy numerosa, llamemos lo menos posible la atención de los circunstantes. Así, cuando la tertulia esté dividida en diferentes círculos, nos dirigiremos únicamente a aquel en que se encuentre la señora o el señor de la casa. En este punto deben apreciarse debidamente las circunstancias, sin otro norte que la 
-
-prudencia y el ejemplo de las personas cultas; en la inteligencia de que, si una señora no puede retirarse de una casa sin despedirse por lo menos de la señora, a un caballero le es lícito, cuando no cree oportuno y delicado llamar la atención de ninguno de los círculos en que se encuentran los dueños de la casa, retirarse silenciosamente y sin despedirse de nadie.
+60. Al acto de retirarnos de una reunión muy numerosa, llamemos lo menos posible la atención de los circunstantes. Así, cuando la tertulia esté dividida en diferentes círculos, nos dirigiremos únicamente a aquel en que se encuentre la señora o el señor de la casa. En este punto deben apreciarse debidamente las circunstancias, sin otro norte que la prudencia y el ejemplo de las personas cultas; en la inteligencia de que, si una señora no puede retirarse de una casa sin despedirse por lo menos de la señora, a un caballero le es lícito, cuando no cree oportuno y delicado llamar la atención de ninguno de los círculos en que se encuentran los dueños de la casa, retirarse silenciosamente y sin despedirse de nadie.
 
 61. Cuando al despedirse un caballero de otro a quien ha hecho visita, no se encontrare presente ninguna persona que no sea de la casa, el visitante no manifestará oposición alguna a que el visitado lo acompañe hasta la puerta de la casa: allí volverá a despedirse; mas si el visitado pretendiere seguir con él hasta el portón, o hasta la escalera estando en un piso alto, rehusará por una vez admitir este nuevo obsequio, si el visitado fuere una persona para él muy respetable.
 
@@ -934,14 +870,11 @@ prudencia y el ejemplo de las personas cultas; en la inteligencia de que, si una
 
 5. Cuando nos encontremos en la sala de recibo al llegar una persona de visita, le ofreceremos siempre asiento inmediatamente después de haberle correspondido su saludo.
 
-6. El visitado puede invitar al visitante, como una muestra de obsequiosa consideración, a sentarse a su lado y a su derecha, mas si
-éste, con arreglo a lo prescrito en el párrafo 12 de la página 271, rehusase tomar la derecha, le invitará precisamente a ello por una segunda vez. Cuando el visitante sea un sujeto muy respetable o una señora, el .visitado no le ofrecerá otro puesto, sino en el caso de estar aquél debidamente ocupado.
+6. El visitado puede invitar al visitante, como una muestra de obsequiosa consideración, a sentarse a su lado y a su derecha, mas si éste, con arreglo a lo prescrito en el párrafo 12 de la página 271, rehusase tomar la derecha, le invitará precisamente a ello por una segunda vez. Cuando el visitante sea un sujeto muy respetable o una señora, el .visitado no le ofrecerá otro puesto, sino en el caso de estar aquél debidamente ocupado.
 
 7. Cuando un caballero reciba a varias señoras, no se sentará en una misma línea con ellas, sino que, colocándolas en los asientos principales, se situará en un lugar desde el cual puede dirigir a todas la palabra, sin necesidad de volverse para ello a uno u otro lado.
 
-8. Cuando la señora esté acompañada de !isitas y se presentase otra señora, luego que ésta haya penetrado en la sala de recibo, se levantará
-de su asiento y se dirigirá a encontrarla. Lo mismo hará un caballero respecto de una señora; pero no respecto de otro caballero, si se halla
-él solo recibiendo señoras o sujetos muy respetables, pues entonces se limitará a avanzar hacia él uno o dos pasos al acto de ser saludado especialmente. Un caballero puede, sin embargo, en todos los casos, abandonar el círculo para dirigirse a encontrar, dentro de la misma sala, a un sujeto constituido en alta dignidad.
+8. Cuando la señora esté acompañada de !isitas y se presentase otra señora, luego que ésta haya penetrado en la sala de recibo, se levantará de su asiento y se dirigirá a encontrarla. Lo mismo hará un caballero respecto de una señora; pero no respecto de otro caballero, si se halla él solo recibiendo señoras o sujetos muy respetables, pues entonces se limitará a avanzar hacia él uno o dos pasos al acto de ser saludado especialmente. Un caballero puede, sin embargo, en todos los casos, abandonar el círculo para dirigirse a encontrar, dentro de la misma sala, a un sujeto constituido en alta dignidad.
 
 9. Según se deduce de los párrafos anteriores, el dueño de la casa no puede en ningún caso permanecer sentado, ni al acto de entrar ni al de retirarse una visita, sea cual fuere; mas en cuanto a la señora, ella no se pondrá de pie sino cuando sea otra señora la que entre o se retire.
 
@@ -961,11 +894,9 @@ de su asiento y se dirigirá a encontrarla. Lo mismo hará un caballero respecto
 
 17. Siempre que recibamos visitas, aplicaremos las mismas reglas que, en los párrafos 25, 26 y 27 de las páginas 276 y 277 tenemos que observar al hacer una visita, respecto de la manera de conducirnos cuando encontramos o llegan después otras personas. Así, cuando acostumbremos tratar con familiaridad a la persona que nos visita, y entrare otra a quien no pueda ella, o no podamos nosotros tratar del mismo modo, adaptaremos nuestra conducta al grado de circunspección con que deba ser tratada la de menor confianza.
 
-18. Los dueños de la casa son los que están principalmente llamados a comunicar animación y movimiento a la conversación. Si en los momentos en que suelen quedarse en silencio todos los circunstantes ellos no se apresuran a tomar la palabra, sino que guardan también silencio, podrá
-creerse que la reunión no les es agradable, o que han llegado ya a desear que se disuelva. Sin embargo, nada de esto es aplicable a los casos en que a la persona que recibe visitas, le haya acontecido recientemente o le amenace una desgracia cualquiera, de la cual están en conocimiento sus amigos (párrafo 14).
+18. Los dueños de la casa son los que están principalmente llamados a comunicar animación y movimiento a la conversación. Si en los momentos en que suelen quedarse en silencio todos los circunstantes ellos no se apresuran a tomar la palabra, sino que guardan también silencio, podrá creerse que la reunión no les es agradable, o que han llegado ya a desear que se disuelva. Sin embargo, nada de esto es aplicable a los casos en que a la persona que recibe visitas, le haya acontecido recientemente o le amenace una desgracia cualquiera, de la cual están en conocimiento sus amigos (párrafo 14).
 
-19. Cuando estemos recibiendo visitas, y tomemos la palabra en una conversación general, nos di- rigiremos alternativamente a todos los circunstantes, de la manera que quedó establecida en el párrafo 17 de la página 190; con la sola diferencia de que cuando según el orden allí
-indicado, debiéramos fijarnos más frecuente y detenidamente en la persona de nuestra mayor amistad, nos fijaremos en aquélla; que sea según nuestro criterio de más respetabilidad y etiqueta.
+19. Cuando estemos recibiendo visitas, y tomemos la palabra en una conversación general, nos di- rigiremos alternativamente a todos los circunstantes, de la manera que quedó establecida en el párrafo 17 de la página 190; con la sola diferencia de que cuando según el orden allí indicado, debiéramos fijarnos más frecuente y detenidamente en la persona de nuestra mayor amistad, nos fijaremos en aquélla; que sea según nuestro criterio de más respetabilidad y etiqueta.
 
 20. Siempre que una persona se dirija a nosotros a tratar sobre un negocio, guardémonos de incitarla directa ni indirectamente a entrar en conferencia, en momentos en que nos encontremos acompañados, ya sea de alguna otra visita o de personas de nuestra propia familia; a no ser que el negocio nos concierna exclusivamente a nosotros, y seamos dueños de tratarlo sin más reserva que aquella que nos convenga, pues entonces haremos o no la invitación, según lo que en cada caso nos aconseje la prudencia. Pero tengamos entendido, que nada hay más incivil que emprender un largo diálogo de esta especie, delante de personas que sean extrañas a la materia sobre la cual se trate.
 
@@ -989,11 +920,11 @@ indicado, debiéramos fijarnos más frecuente y detenidamente en la persona de n
 
 30. La persona que acompaña a otra que se despide cuidará de ir siempre a su izquierda; y si son dos las personas acompañantes, se situará una a su izquierda y otra a su derecha.
 
-<amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-205_1.png" layout="intrinsic" width="566" height="629"></amp-img>
-
 31. En todos los casos en que hayamos de acompañar a una persona hasta el portón o hasta la escalera, podemos hacerle el obsequio, bien por respeto o por cariño, de seguir con ella hasta la puerta de la calle.
 
 32. Ya sea hasta la puerta de la sala o hasta el portón que acompañemos a una persona nos detendremos algunos instantes después de haberla despedido para corresponderle la cortesía que habrá de hacernos desde el portón o desde la puerta. 
+
+<amp-img on="tap:lightbox1" role="button" tabindex="0" src="../../assets/images/index-205_1.png" layout="intrinsic" width="566" height="629"></amp-img>
 
 **IV**
 ======
@@ -1010,18 +941,15 @@ indicado, debiéramos fijarnos más frecuente y detenidamente en la persona de n
 
 5. Siempre que dispongamos un festín, calculemos el número de personas que el local pueda contener cómodamente y reduzcamos a él nuestras invitaciones; prefiriendo a aquellos de nuestros amigos que, por la naturaleza de sus relaciones con nosotros, su carácter, sus inclinaciones y sus demás circunstancias personales, estén más llamados a formar parte de la reunión.
 
-6. Procuremos que los amigos que convidemos a una reunión pequeña sean todos personas que estén relacionadas entre si, o que por lo menos no haya ninguna de ellas que no tenga amistad con algunas de las demás.
-En cuanto a personas que se encuentren mal avenidas, jamás las reuniremos en estos casos, si no entra en nuestras miras y nos es licito ejercer los nobles oficios de aproximarles y cortar sus diferencias.
+6. Procuremos que los amigos que convidemos a una reunión pequeña sean todos personas que estén relacionadas entre si, o que por lo menos no haya ninguna de ellas que no tenga amistad con algunas de las demás. En cuanto a personas que se encuentren mal avenidas, jamás las reuniremos en estos casos, si no entra en nuestras miras y nos es licito ejercer los nobles oficios de aproximarles y cortar sus diferencias.
 
 7. Cuando la reunión que preparemos tenga por especial objeto obsequiar a un amigo, no sólo procuraremos que las personas con quienes haya de encontrarse sean todas de su amistad, sino que invitaremos preferentemente a aquellas con quienes estuviere en mayor contacto, y cuya edad, posición social y demás circunstancias personales sean más análogas a las suyas.
 
 8. Cuando la reunión ha de ser numerosa y seria, nos es lícito invitar a ella a un extranjero respetable que acabe de llegar al país, aunque con él no estemos relacionados. En estos casos, procuraremos que a la invitación preceda el acto de una presentación especial. 
 
-9. A la hora señalada para la reunión la señora de la casa se situará en la sala principal, para recibir allí
-a cada uno de los concurrentes, y el señor de la casa en la antesala, o no habiendo esta pieza, en el corredor inmediato a la sala, para ofrecer el brazo, a las señoras que vayan entrando y conducirlas hasta el lugar donde hayan de tomar asiento.
+9. A la hora señalada para la reunión la señora de la casa se situará en la sala principal, para recibir allí a cada uno de los concurrentes, y el señor de la casa en la antesala, o no habiendo esta pieza, en el corredor inmediato a la sala, para ofrecer el brazo, a las señoras que vayan entrando y conducirlas hasta el lugar donde hayan de tomar asiento.
 
-10. Los dueños de la casa, y las personas de su familia que los acompañen, deben contraerse exclusivamente en todo el curso de la reunión, a colmar de obsequios y atenciones a todos los concurrentes
-(párrafo 1, pág 287). Ellos deben encontrarse en todas partes, inspeccionarlo y dirigirlo todo, proveer cuanto sea necesario a la comodidad y al placer de los concurrentes y comunicar, en fin, a la reunión, por todos los medios que estén a su alcance, aquella animación y aquel júbilo que dependen siempre de la habilidad y corrección que se emplean en hacer los honores de la casa.
+10. Los dueños de la casa, y las personas de su familia que los acompañen, deben contraerse exclusivamente en todo el curso de la reunión, a colmar de obsequios y atenciones a todos los concurrentes (párrafo 1, pág 287). Ellos deben encontrarse en todas partes, inspeccionarlo y dirigirlo todo, proveer cuanto sea necesario a la comodidad y al placer de los concurrentes y comunicar, en fin, a la reunión, por todos los medios que estén a su alcance, aquella animación y aquel júbilo que dependen siempre de la habilidad y corrección que se emplean en hacer los honores de la casa.
 
 11. Cuando la señora o el señor de la casa insten a una señora a cantar o a tocar, le ofrecerán el brazo para conducirla al piano, y lo mismo harán para conducirla después a su asiento.
 
@@ -1031,7 +959,7 @@ a cada uno de los concurrentes, y el señor de la casa en la antesala, o no habi
 
 14. Siempre que seamos invitados a un festín cualquiera, contestaremos inmediatamente manifestando nuestra aceptación o presentando nuestra excusa; sin que nos sea licito hacerlo verbalmente, cuando por no mediar con nosotros ninguna confianza, la invitación se nos haya hecho por esquela. 1
 
-5. Al aceptar una invitación para un festín, pensemos que no hemos de ir únicamente a recibir obsequios y a satisfacer nuestros propios gustos y caprichos; sino también a corresponder al honor que se nos hace, contribuyendo por nuestra parte, por todos los medios que sean análogos a nuestras circunstancias personales y a nuestro carácter de convidados, y que no se opongan a las restricciones que aquí se establecen, a la comodidad y al placer de los demás concurrentes, al lucimiento de la función, y a la consiguiente satisfacción de los dueños de la casa.
+15. Al aceptar una invitación para un festín, pensemos que no hemos de ir únicamente a recibir obsequios y a satisfacer nuestros propios gustos y caprichos; sino también a corresponder al honor que se nos hace, contribuyendo por nuestra parte, por todos los medios que sean análogos a nuestras circunstancias personales y a nuestro carácter de convidados, y que no se opongan a las restricciones que aquí se establecen, a la comodidad y al placer de los demás concurrentes, al lucimiento de la función, y a la consiguiente satisfacción de los dueños de la casa.
 
 16. Dedúcese de aquí que ningún convidado debe manifestar repugnancia, ni menos negarse, a ninguna exigencia directa o indirecta de los dueños de la casa; sino que por el contrario todos deben prestarse gustosamente y aun anticiparse a sus deseos por más que éstos lleguen a contrariar los suyos propios.
 
@@ -1039,11 +967,9 @@ a cada uno de los concurrentes, y el señor de la casa en la antesala, o no habi
 
 18. Al penetrar en el local de un festín, nuestro primer cuidado debe ser presentar nuestros respetos a la señora y al señor de la casa, pudiendo en seguida dirigirnos a saludar a las señoras y caballeros de nuestra amistad que allí encontremos. Mas cuando la reunión sea poco numerosa o tenga por objeto un banquete, y los dueños de la casa y los concurrentes se hallen todos en la sala de recibo, observaremos las reglas establecidas en los párrafos 16 y 17 de la página 272.
 
-19. Los concurrentes a un festín no promoverán nunca ningún género de entretenimiento, sino que se sujetarán estrictamente a lo que bajo este respecto, así
-como bajo cualquiera otro, tengan ya dispuesto o dispusieren los dueños de la casa.
+19. Los concurrentes a un festín no promoverán nunca ningún género de entretenimiento, sino que se sujetarán estrictamente a lo que bajo este respecto, así como bajo cualquiera otro, tengan ya dispuesto o dispusieren los dueños de la casa.
 
-20. Al dirigirse una señora hacia un lugar donde no haya asientos desocupados y se encuentre sentado un caballero, éste se pondrá
-inmediatamente de pie y le ofrecerá el asiento que ocupe.
+20. Al dirigirse una señora hacia un lugar donde no haya asientos desocupados y se encuentre sentado un caballero, éste se pondrá inmediatamente de pie y le ofrecerá el asiento que ocupe.
 
 21. Los caballeros se abstendrán de dirigir la palabra y de ofrecer espontáneamente obsequios de ninguna especie a las señoras con quienes se encuentren en un festín, con las cuales no tengan ninguna amistad y a quienes no hayan sido previamente presentados.
 
