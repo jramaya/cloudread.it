@@ -2,32 +2,6 @@
 <html ⚡ lang="en">
   {% include head.html %}
   <body [class]="dark_layout ? 'dark_bg' : 'light_body'">
-      <amp-animation id="SlideIn" layout="nodisplay">
-          <script type="application/json">
-            [{
-              "duration": "5s",
-              "fill": "both",
-              "easing": "ease-out",
-              "iterations": "1",
-              "selector": ".sharebar",
-              "keyframes": [{
-                  "transform": "translateY(100%)"
-                },
-                {
-                  "transform": "translateY(0)", "offset": 0.1
-                },
-                {
-                  "transform": "translateY(0)", "offset": 0.9
-                },
-                
-                {
-                  "transform": "translateY(100%)"
-                } 
-              ]
-            }
-            ]
-          </script>
-        </amp-animation>
 
     {% include toc.html %}
 
