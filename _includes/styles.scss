@@ -604,25 +604,14 @@ pre {
     opacity: 0;
 }
 
-.sharebar {
-  position: fixed;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  width: 100%;
-  height: 48px;
-  margin: 0 auto;
-  padding: 14px 24px;
-  max-width: 568px;
-  background: #323232;
-  color: white;
-  border-radius: 2px;
-  font-size: 14px;
+.sharer {
   display: flex;
-  align-items: center;
+  margin-top: 50px;
   justify-content: space-evenly;
-  transform: translateY(100%);
-  z-index: 1000;
+  z-index: 2147483647;
+  background-color: transparent;
+  width: 37px;
+  min-width: 37px;
 }
 
 .rounded {
