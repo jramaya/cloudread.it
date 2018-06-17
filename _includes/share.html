@@ -1,14 +1,21 @@
-<div class="sharebar">
+<amp-sidebar id="sharebar"
+class="sharer"
+layout="nodisplay"
+side="right" on="sidebarClose:AMP.setState({blur_layout: ''});sidebarOpen:AMP.setState({blur_layout: 'blur_layout'})">
         <div>
-          <amp-social-share class="rounded" type="email" width="36" height="36"></amp-social-share>
-          <amp-social-share class="rounded" type="gplus" width="36" height="36"></amp-social-share>
-          <amp-social-share class="rounded" type="linkedin" width="36" height="36"></amp-social-share>
-          <amp-social-share class="rounded" type="pinterest" width="36" height="36"></amp-social-share>
-          <amp-social-share class="rounded" type="tumblr" width="36" height="36"></amp-social-share>
-          <amp-social-share class="rounded" type="twitter" width="36" height="36"></amp-social-share>
-          <amp-social-share class="rounded" type="whatsapp" width="36" height="36"></amp-social-share>
-          <a href="https://www.facebook.com/sharer.php?u={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
+            <a href="https://www.facebook.com/sharer.php?u={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
             <amp-img class="rounded" width="36px" height="36px" alt="Share on facebook" src="/assets/images/facebook.png" ></amp-img>
             </a>
+            <amp-social-share class="rounded" type="whatsapp" width="36" height="36"></amp-social-share>
+            <amp-social-share class="rounded" type="twitter" width="36" height="36"></amp-social-share>
+            <amp-social-share class="rounded" type="tumblr" width="36" height="36"></amp-social-share>
+            <amp-social-share class="rounded" type="pinterest" width="36" height="36"></amp-social-share>
+            <amp-social-share class="rounded" type="linkedin" width="36" height="36"></amp-social-share>
+            <amp-social-share class="rounded" type="gplus" width="36" height="36"></amp-social-share>
+            <amp-social-share class="rounded" type="line" width="36" height="36"></amp-social-share>
+            <amp-social-share class="rounded" type="sms" width="36" height="36"></amp-social-share>
+            <amp-social-share class="rounded" type="email" width="36" height="36"></amp-social-share>
+            <amp-social-share class="rounded" type="system" width="36" height="36"></amp-social-share>
         </div>
     </div>
+</amp-sidebar>
