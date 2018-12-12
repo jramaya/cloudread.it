@@ -35,3 +35,9 @@ kramdown:
 gems:
   - jekyll-paginate
   - jekyll-sitemap
+
+image:
+  src: '/assets/images/banner.jpg'
+  height: 630
+  width: 1200
+  type: image/jpeg
