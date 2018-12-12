@@ -6,14 +6,43 @@
   <script async custom-element="amp-social-share" src="https://cdn.ampproject.org/v0/amp-social-share-0.1.js"></script>
   <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
   <script async custom-element="amp-image-lightbox" src="https://cdn.ampproject.org/v0/amp-image-lightbox-0.1.js"></script>
-
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width,minimum-scale=1">
   <meta name="theme-color" content="#000000">
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta property="og:title" content="{% if page.title %}{{ page.title | escape }}{% endif %} | {{ site.title | escape }}" />
+  <meta property="og:site_name" content="{{ site.title | escape }}" />
+  <meta property="og:type" content="{% if page.opengraph_type %}{{ page.opengraph_type }}{% else if site.opengraph_type %}{{ site.opengraph_type }}{% else %}website{% endif %}" />
+  {% if page.image.src %}
+  <!-- Open Graph Image -->
+  <meta property="og:image" content="{{ site.url | replace:'https','http' }}{{ page.image.src }}" />
+  <meta property="og:image:secure_url" content="{{ site.url | replace:'http://','https://' }}{{ page.image.src }}" />
+  {% if page.image.type %}
+  <meta property="og:image:type" content="{{ page.image.type }}" />
+  {% endif %}
+  {% if page.image.height %}
+  <meta property="og:image:height" content="{{ page.image.height }}" />
+  {% endif %}
+  {% if page.image.width %}
+  <meta property="og:image:width" content="{{ page.image.width }}" />
+  {% endif %}
+{% elsif site.image.src %}
+  <!-- Open Graph Image -->
+  <meta property="og:image" content="{{ site.url | replace:'https','http' }}{{ site.image.src }}" />
+  <meta property="og:image:secure_url" content="{{ site.url | replace:'http://','https://' }}{{ site.image.src }}" />
+  {% if site.image.type %}
+  <meta property="og:image:type" content="{{ site.image.type }}" />
+  {% endif %}
+  {% if site.image.height %}
+  <meta property="og:image:height" content="{{ site.image.height }}" />
+  {% endif %}
+  {% if site.image.width %}
+  <meta property="og:image:width" content="{{ site.image.width }}" />
+  {% endif %}
 
+{% endif %}
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" hreflang="{{ site.hreflang }}" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
